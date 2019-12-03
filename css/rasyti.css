@@ -1,0 +1,189 @@
+
+/******************************************************************************
+ * Full-height page with sticky footer
+ */
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: #ccc;
+}
+
+#wrapper, #footer {
+  /*width: 740px;*/
+  width: 740px;
+}
+
+#wrapper {
+  position: relative;
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  background-color: white;
+   -webkit-box-shadow: 0px 1px 10px #888;
+      -moz-box-shadow: 0px 1px 10px #888;
+       -ms-box-shadow: 0px 1px 10px #888;
+        -o-box-shadow: 0px 1px 10px #888;
+           box-shadow: 0px 1px 10px #888;
+}
+
+* html #wrapper {
+  height: 100%;
+}
+
+#content {
+  padding-bottom: 40px; /* >= height of the footer */
+  background-color: white;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  height: 34px; /* 34 + 1 + 5 = 40px */
+  border-top: 1px outset brown;
+  padding-top: 5px;
+  font-size: smaller;
+  color: brown;
+}
+
+
+/******************************************************************************
+ * Main text prompt/input area
+ txtPrompt und txtInput hinzugefügt 12.11.2019
+ */
+ 
+ 
+ 
+ #txtPrompt {
+     font-size:18px;
+ }
+
+#txtInput {
+    font-size:18px;
+}
+
+#lessonInput {
+  padding: 1em 0;
+}
+
+#lessonInput textarea {
+  width: 100%;
+}
+
+#lessonInput textarea.error {
+  background-color: red;
+}
+
+.hints #lessonInput textarea {
+  width: 570px;
+}
+
+
+/******************************************************************************
+ * Visual hints: colored keys
+ */
+
+.hints li.active,
+.hints ul#keyboard li.specialKey.active {
+  background-color: brown;
+}
+
+.hints li.active * {
+  font-weight: bold;
+  color: white;
+}
+
+.hints .left2  { background-color: #db0; }
+.hints .right2 { background-color: #ee0; }
+.hints .left3, .hints .right3 { background-color: #ac0; }
+.hints .left4, .hints .right4 { background-color: #3bb; }
+.hints .left5, .hints .right5 { background-color: #88f; }
+
+.hints li#ac01, .hints li#ac02, .hints li#ac03,
+.hints li#ac08, .hints li#ac09, .hints li#ac10,
+.hints li#ac04, .hints li#ac07 { /* home row */
+  background-image: url(images/grid4.gif);
+  font-weight: bold;
+  color: white;
+}
+
+
+/******************************************************************************
+ * Visual hints: hands picture
+ */
+
+#hands {
+  float: right;
+  position: relative;
+  margin-top: 5px;
+  width: 150px;
+  height: 90px;
+  overflow: hidden;
+  display: none;
+
+}
+
+.hints #hands {
+  display: block;
+}
+
+#hands.left5  span { background-position: left 810px; }
+#hands.left4  span { background-position: left 720px; }
+#hands.left3  span { background-position: left 630px; }
+#hands.left2  span { background-position: left 540px; }
+#hands.thumb  span { background-position: left 450px; }
+#hands.right2 span { background-position: left 360px; }
+#hands.right3 span { background-position: left 270px; }
+#hands.right4 span { background-position: left 180px; }
+#hands.right5 span { background-position: left  90px; }
+
+#hands span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 90px;
+  background-image: url(images/hands.png);
+  background-position: left top;
+}
+
+#hands.shift span {
+  left: -150px;
+}
+
+
+/******************************************************************************
+ * Keyboard settings: layout, geometry
+ */
+
+#keyboardSelector {
+  float: right;
+  margin-top: -10px;
+}
+
+#keyboardSelector dl * {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#keyboardSelector dl dt {
+  float: left;
+  width: 200px;
+  height: 1.5em;
+  line-height: 1.5em;
+  text-align: right;
+}
+
+#keyboardSelector dl dd {
+  text-align: left;
+  margin-left: 210px;
+  height: 1.5em;
+  line-height: 1.5em;
+}
+
