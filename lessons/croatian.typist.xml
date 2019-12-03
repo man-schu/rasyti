@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KTouchLecture>
+ <Title>Croatian</Title>
+ <Comment>originally written by Jurij Turnšek for Slovenian, amended for Croatian with Croatian words by Manfred Schulenburg with amendmends proposed by users.</Comment>
+ <FontSuggestions>Monospace,10,-1,5,50,0,0,0,0,0</FontSuggestions>
+ <Levels>
+ 
+  <Level>
+   <NewCharacters>ak</NewCharacters>
+   <Line>a kak a a a kaka kak a kak k kak k kak k a</Line>
+   <Line>a k k kaka k kaka kaka kaka a kaka kak kaka</Line>
+   <Line>kaka a kaka k a k kak k k kak a kak a k a</Line>
+   <Line>kak a kak kak a a kaka a k kaka kaka k a kak</Line>
+   <Line>kaka kaka kak kaka kaka a a a kak k kak a</Line>
+   <Line>k k k kaka kak a a k kak k k kak k kaka kak</Line>
+   <Line>a a kak kaka a kak k a k k a kak a kak a k</Line>
+   <Line>a kak kaka a a kaka a k kak k kak a kak kak</Line>
+   <Line>kaka kaka kak k kak kaka a kaka kaka kak a</Line>
+   <Line>a a k kak k kak kak kaka k kaka kaka k kaka</Line>
+   <Line>a kaka k kaka a kaka k kaka kaka a k k a k</Line>
+   <Line>a kaka kaka k kaka kaka kaka kak a k a kaka</Line>
+   <Line>kaka a kaka a kaka a kaka a kaka kaka a k</Line>
+   <Line>kaka kaka kak a a kak k k kak k kaka k a kak</Line>
+   <Line>a k a k k kaka k a a a a a k a a k kak kaka</Line>
+   <Line>a a kaka k kaka k kaka k kak kak kaka kaka</Line>
+   <Line>k kaka k k a kak k k kaka kak k a kak kak</Line>
+   <Line>a kak kaka kak k a kaka k kak kak kak k kaka</Line>
+   <Line>k kaka kak k k k kak kaka k k k kak k kaka</Line>
+   <Line>a k k kak k kaka kak a k kaka kaka kak k k</Line>
+   <Line>k kak a kak kak kaka a kaka a kak kaka kak</Line>
+   <Line>a a a k kaka k kak a a a a kaka a k kak a</Line>
+   <Line>a a kak k kaka kak a kak kak a kak kak kaka</Line>
+   <Line>k k kaka k kak a k kaka kaka kak kaka kaka</Line>
+   <Line>kak kak a a k a a kak kak kak k k kak kaka</Line>
+   <Line>kaka kaka k kak kak kak kaka kak a k kak k</Line>
+   <Line>a kak kaka a k k kaka k kak a kak kaka kak</Line>
+   <Line>k k a kak a kaka kak kaka a a kak kaka a k</Line>
+   <Line>kaka kak a k kaka kak a kaka kaka kak kak</Line>
+   <Line>k a kaka kaka kaka kak a k kak kaka k k k</Line>
+  </Level>
+  
+  
+  <Level>
+   <NewCharacters>lj</NewCharacters>
+   <Line>laja laka lajaj la lajal lakaj laja jaka laja</Line>
+   <Line>laja lakaj lak lakaja lajala l lakaj lajal</Line>
+   <Line>lakaj lak lajaj laka la laka lak laja lakaja</Line>
+   <Line>lajaj lak laja la lajaj lakaj lakaj laja lajala</Line>
+   <Line>jak lak jak lakaj laka lajaj lajal lakaj laka</Line>
+   <Line>jaka lajala jaka lakaja laka laka lajaj jak</Line>
+   <Line>lajaj laja jaka l jak lak jak lajaj laja lakaja</Line>
+   <Line>jaka la laja laja jaka laka laka jak lak jak</Line>
+   <Line>lajala lakaja lakaja jak lakaj laja jak jaka</Line>
+   <Line>lakaja lakaja lajaj lajaj laja la lakaj laka</Line>
+   <Line>jak la laja lajaj la lakaj lajala jaka lak</Line>
+   <Line>jak la lakaj laka jak la jaka jak l lakaj</Line>
+   <Line>l jaka l lajal jaka l lak lak laja laja l</Line>
+   <Line>l lajaj la laja laja lak lak lak lajaj laja</Line>
+   <Line>lajal lakaj lak la la laja laka laja laja</Line>
+   <Line>laja jaka lajala jaka lakaja jak jaka lak</Line>
+   <Line>jaka lajala lajal jaka lakaja lak laka laja</Line>
+   <Line>lajal lajala laka lakaj laka lakaja jak jaka</Line>
+   <Line>lak jaka lajal lajal l lakaja lakaja laja</Line>
+   <Line>laja lakaj lakaj laja l jak lajal lajal la</Line>
+   <Line>l l la lak laka jaka lakaj lajal l lajal la</Line>
+   <Line>l lakaj lajal lak lak la lajaj lak l lajaj</Line>
+   <Line>laka jaka jaka laja lakaj lajal laka laja</Line>
+   <Line>la lakaj laja la lajala laka lakaj laja laja</Line>
+   <Line>jak laja lakaja jaka jaka lakaj lakaja laka</Line>
+   <Line>lakaja l laja lak la l lakaj lajal lajal lak</Line>
+   <Line>laja l lajala lajaj la laka la jak lajal lajaj</Line>
+   <Line>l lajala la laja jak l lakaj lajaj lakaj lakaj</Line>
+   <Line>laja lakaj lajala lakaj l lakaja lajala lajala</Line>
+   <Line>lajal laja la lajala laja lakaja laka lajal</Line>
+  </Level>
+  <Level>
+   <NewCharacters>sč</NewCharacters>
+   <Line>sčsaka slaka čkala saj sklal skakaj skakljala</Line>
+   <Line>saka sla čka skaka s skakljala skakač skakaj</Line>
+   <Line>čča skaj skala sak čkaj skala skakljala</Line>
+   <Line>skal sla skaj čča saj slaka čka slaka sla</Line>
+   <Line>skakaj skaja skakljal skakalka sklala čkala</Line>
+   <Line>sklala skaja skakljal sak čs skakljal čs</Line>
+   <Line>skaklja čkala skaja skakal skaja skakala</Line>
+   <Line>sla čs slak skaja čsa skakačjča čkaj</Line>
+   <Line>slak skakljaj čs skaka skakaj skakač sala</Line>
+   <Line>slaka čča čkaj saka čjča skaj skala skakaččka čkala čča skakljaj čč čč skaja</Line>
+   <Line>skala čča slak čč čkala čkala skakljal</Line>
+   <Line>skakač sak čkal slak čja čj čsa skaka</Line>
+   <Line>skaka skakljala skakljaj skakljaj skakala</Line>
+   <Line>slaka skaj čja skakač skaklja skakljal skakaj</Line>
+   <Line>skakala čs skakljala skakalka čkala čsa</Line>
+   <Line>čkal skakalka čj čč skakal skakala čka</Line>
+   <Line>skal skakljaj sklal čsa čka čs skakalka</Line>
+   <Line>skal čs skakalka čjča čkala sla skakalka</Line>
+   <Line>čka čjča skakal čs čka skakalka s čč</Line>
+   <Line>skala skaj skaklja saka čkaj skala skaja</Line>
+   <Line>skakalk skakalka salsa sklala čča skakalk</Line>
+   <Line>sak skaja skakaččča slak slaka čs skal</Line>
+   <Line>skakalk skakljala skakač sala skakačskaklja</Line>
+   <Line>skakal slaka saka skakljaj čkaj skakalk skaklja</Line>
+   <Line>skakalka skal skal skaj saj čč skakljal</Line>
+   <Line>skakljala slak skakalččs skakalk salsa skaja</Line>
+   <Line>čkaj skaj slak sala čja sklal čs skakačskal salsa salsa skakalka sla salsa čka čs</Line>
+   <Line>čč čja čsa čkaj skakač čkal skakač</Line>
+  </Level>
+  <Level>
+   <NewCharacters>df</NewCharacters>
+   <Line>dajal dala dajalka dač dajal fasada fasada</Line>
+   <Line>dajalk dač dal faks dajalk dala dalja fasada</Line>
+   <Line>daj fasada faksa dajaj dajalk dajaj dala dačdajala dlaka dač dačfasada dajaj dajal dalj</Line>
+   <Line>daj dajala dala dalj dal dal dač dajalka</Line>
+   <Line>dajal dalj dač dač dajaj falska daj dajalk</Line>
+   <Line>dajalk dlak fasad dlak dalj fasada dalja daj</Line>
+   <Line>dalj fasada dal faks dlak dlak dlak dajaj</Line>
+   <Line>dajal falska dačfasad daj dala faksa faksa</Line>
+   <Line>dajaj dajala dajala dajal dalja fasada faks</Line>
+   <Line>faksa faksa dajalk daj fasada dajaj dajalk</Line>
+   <Line>dajalka dačdajaj dal dala dala dajalk dajalka</Line>
+   <Line>da dač fasada daj dajala da dlaka dala faksa</Line>
+   <Line>dal daj faks fasad dajalk dal dajalk dala</Line>
+   <Line>dalja dalja dlaka faksa dalj faks faksa dlaka</Line>
+   <Line>dajalka dajaj dajalk dala fasad dajala dala</Line>
+   <Line>dajala dalja dlaka fasad dalja falska falska</Line>
+   <Line>dal daj da dlaka dajaj dajalk dlak fasad daj</Line>
+   <Line>dala dač dlak fasada fasad fasada dalj da</Line>
+   <Line>fasada daj dajalk dal dalja dlak faksa dlaka</Line>
+   <Line>faks da da falska dajalka falska daj daj dajalka</Line>
+   <Line>fasad dajalk dajala dač dalj falska faksa</Line>
+   <Line>fasad faksa dalj dal dajal dajala dal dala</Line>
+   <Line>falska da faksa dlak dlak dačdačfasada dačdaj dajalk dačdačfalska dal da dlaka dajalka</Line>
+   <Line>dajalk dajaj dalj dajaj faks dajalka faks</Line>
+   <Line>dlak daj dajaj dajal dala da dalj dalj fasad</Line>
+   <Line>dajalka da dlak dačfalska dajaj dal dajaj</Line>
+   <Line>dajalk faks dlak dajalka dala daj dajalka</Line>
+   <Line>daj dajalk dalj fasada dačdala daj dajaj</Line>
+  </Level>
+  
+  <Level>
+   <NewCharacters>ie</NewCharacters>
+   <Line>ideale edafski ideje idilike idiliki iskala ikad</Line>
+   <Line>ideja ideale iskala ideja esej iskali idil jela</Line>
+   <Line>edafske edafska idilike idile esej idila idile daje</Line>
+   <Line>idili ideali iskali ideali eseja iskalki idila ideja</Line>
+   <Line>idili eseja ideali ideal idilike eseji eseje kisik</Line>
+   <Line>iskala ideji edafske iskalk iskalk idila edafske</Line>
+   <Line>idilike iskalki edafski iskale edafska iskali</Line>
+   <Line>iskal edafski iskalki edafski eseje ideali</Line>
+   <Line>ideali idilike idilike ideale ideal ideja</Line>
+   <Line>idilike iskale eseje idilik iskalka iskala</Line>
+   <Line>idil ideal idila idilika edafska idilika iskala</Line>
+   <Line>iskala iskaje ideala ideal ideali idej idila</Line>
+   <Line>idila idej ideji iskali ideali iskalk idila</Line>
+   <Line>eseje ideja ideale ideala idiliki idil iskalk</Line>
+   <Line>ideala iskalke ideji ideali esej iskale ideji</Line>
+   <Line>edafski eseja idilike idili iskalki ideje</Line>
+   <Line>idilik ideali ideji edafski edafske iskal</Line>
+   <Line>esej ideale iskaje idilike edafska iskalke</Line>
+   <Line>idiliki eseje idili edafska eseji idil ideji</Line>
+   <Line>eseje eseje iskaje idila edafski iskalka ideji</Line>
+   <Line>ideja iskalk iskali ideja edafski ideja iskali</Line>
+   <Line>esej idej ideale eseja esej idiliki iskalki</Line>
+   <Line>edafski iskaje iskalke idilika iskalke idila</Line>
+   <Line>idilik eseja ideala idilika iskale iskalk</Line>
+   <Line>ideala iskalka iskala eseji ideja iskalk idej</Line>
+   <Line>idilike edafska edafski idiliki ideala iskalke</Line>
+   <Line>iskalka edafski iskal idej idilika iskal edafski</Line>
+   <Line>ideala ideji iskale idili iskala ideal iskaje</Line>
+   <Line>iskalke edafske eseje idile eseje ideje ideje</Line>
+   <Line>iskali eseja edafski iskali idil iskalk ideali</Line>
+  </Level>
+  
+  <Level>
+   <NewCharacters>no</NewCharacters> 
+   <Line>časnik član članak dana danas dolje donosi dosljedno iako</Line>
+   <Line>dana danas dolje donosi dosljedno iako jačanje</Line>
+   <Line>dosljedno iako jačanje jasan jedan jednina kasno kočija</Line>
+   <Line>jasan jedan jednina kasno kočija koji lako liječnik</Line>
+   <Line>kasno kočija koji lako liječnik nakon naselja neki nekoliko</Line>
+   <Line>liječnik nakon naselja neki nekoliko nosi sklon nakon</Line>
+   <Line>dolje donosi dosljedno iako jačanje jasan jedan</Line>
+   <Line>iako jačanje jasan jedan jednina kasno kočija koji</Line>
+   <Line>dana danas dolje donosi dosljedno iako jačanje jasan</Line>
+   <Line>dolje donosi dosljedno iako jačanje jasan jedan jednina</Line>
+   <Line>jasan jedan jednina kasno kočija koji lako liječnik</Line>
+   <Line>danas dolje donosi dosljedno iako jačanje jasan jedan</Line>
+   <Line>koji lako liječnik nakon naselja danas dolje donosi dosljedno</Line>
+   <Line>dana danas dolje donosi dosljedno iako jačanje jasan</Line>
+   <Line>danas dolje donosi dosljedno iako jačanje jasan jedan jednina</Line> 
+</Level>
+
+  <Level>
+   <NewCharacters>rm</NewCharacters>
+   <Line>afrički čar dres ekonomski ima ime iridij jer korijen korisnik</Line>
+   <Line>lansiranje manje manji milijarda milijarde misao mjed</Line>
+   <Line>manji milijarda milijarde misao mjed namjene nar narod</Line>
+   <Line>ekonomski ima ime iridij jer korijen korisnik kraj lansiranje</Line>
+   <Line>dres ekonomski ima ime iridij jer korijen korisnik kraj lansiranje manje</Line>
+   <Line>misao mjed namjene nar narod nesmiljeno odmor ima ime iridij jer korijen</Line>
+   <Line>nesmiljeno odmor omjer riječ riječi rijedak rječnik samo </Line>
+   <Line>dres ekonomski ima ime iridij jer korijen korisnik kraj lansiranje</Line>
+   <Line>ime iridij jer korijen korisnik kraj lansiranje manje manji milijarda</Line>
+   <Line>milijarde misao mjed namjene nar narod nesmiljeno korijen korisnik kraj</Line>
+   <Line>ima ime iridij jer korijen korisnik kraj lansiranje manje manji milijarda</Line>
+   <Line>afrički čar dres ekonomski ima ime iridij jer korijen korisnik kraj</Line>
+   <Line>manje manji milijarda milijarde misao mjed namjene nar narod</Line>
+   <Line>nesmiljeno odmor omjer riječ riječi rijedak rječnik samo skoro</Line>
+   <Line>čar dres ekonomski ima ime iridij jer korijen korisnik kraj lansiranje</Line>
+  </Level>
+  
+  
+  <Level>
+   <NewCharacters>vt</NewCharacters>
+   <Line>analitičar aorist često četvrt čvrst deset dnevno donijeti dosta dovesti dvotočje</Line>
+   <Line>često četvrt čvrst deset dnevno donijeti dosta dovesti dvotočje</Line>
+   <Line>kontakti koristiti kositar kratak krevet ličiti ljeto lokativ matematika</Line>
+   <Line>dosta dovesti dvotočje ekonomisti esejista faktor imati isti javnost</Line>
+   <Line>vina visok vjerojatno vjerovati vlada vladavina voda vodik vokal vrijeme vrlo</Line>
+   <Line>start stav staviti strmija stvaran stvari stvorio stvoriti svaki svijet</Line>
+   <Line>mjesta mjesto moto nafta najavio nastaviti navodnjava nedavni nedovoljan</Line>
+   <Line>esejista faktor imati isti javnost jeftino jest kontakti koristiti</Line>
+   <Line>nedovoljan nivo nositi novi očekivati oklijevanje osnovni ostati otkriti</Line>
+   <Line>mentalni mjesta mjesto moto nafta najavio nastaviti navodnjava nedavni nedovoljan</Line>
+   <Line>slova smanjiti sredstva stalno staro start stav staviti strmija stvaran stvari</Line>
+   <Line>tenor termin test točka točno toranj trajati traje trend trotočka</Line>
+   <Line>ovaj rast raste rasti restorani sistem sjeverni skrivenost esejista faktor imati</Line>
+   <Line>tvrtke vanjski vatra vidjeti vina visok vjerojatno vjerovati vlada</Line>  
+  </Level>
+  
+  <Level>
+   <NewCharacters>pu</NewCharacters>
+    <Line>aluminij apsolutan časopisi čudan doprinijeti eksplodira eksponent esperanto fokusiranje impresivan infrastruk</Line>
+   <Line>eksponent esperanto fokusiranje impresivan infrastruktura isključen iskusan istaknuto</Line>
+   <Line>istaknuto kampanje kanu konkurirati konstruira korespondent lijep milijuna napisan</Line>
+   <Line>napraviti napravljen napredak naučiti nepopularan neprijatelj neutralan odnosu opasan opasnosti</Line>
+   <Line>opet pad palisade pao patiti pet pismo pita pitanje platina plivači</Line>
+   <Line>počelo početak pod područje pojačati pokrovitelj političari političko polje poljoprivreda popularan</Line>
+   <Line>političko polje poljoprivreda popularan portfelj posjetili posjetitelj postati</Line>
+   <Line>portfelj posjetili posjetitelj postati postavljanje posto postojan potisak praktičan</Line>
+   <Line>praunuče pravila pravopis prefiksi preko prema pridjev prijatelj prijateljski primjer</Line>
+   <Line>prirodni pristup projekti promijenit prvi pučka put putnik putovanje</Line>
+   <Line>rukomet sklonjenu slučajevi stručnjak struja stupanj sufiks</Line>
+   <Line>sumirati suočio titula trenutno turistička učen učenje učiniti</Line>
+   <Line>uključen ulje unaprijedi upitnik uslijed uspon usvojen utisak uvijek vaterpolo vukodlak</Line>
+   <Line>političari političko polje poljoprivreda popularan portfelj posjetili posjetitelj</Line>
+   <Line>turistička učen učenje učiniti uključen ulje unaprijedi upitnik uslijed</Line> 
+  </Level>
+  
+  <Level>
+   <NewCharacters>zg</NewCharacters>
+   <Line>akuzativ dolazi dragulji drugi dugo energija fizički fonologija genitiv glad gladan glagol glagoli</Line>
+   <Line>energija fizički fonologija genitiv glad gladan glagol glagoli glasovir glava</Line>
+   <Line>glavni godina gore govor govori govoriti govorni gradovi gramatika izazov izazvao</Line>
+   <Line>izgovor izlaz izlizan iznad izuzetak izvan izvanredan jezero glagoli glasovir</Line>
+   <Line>jezik jug konvergent magneti mnogi mnogo mogli morfologija nagli nalaza neregulara</Line>
+   <Line>neutralizirati njegov noga nogomet ogroman poduzeti poginuli pogled postignut postizanje</Line>
+   <Line>pozadina poznat predgovor pregleda prognoza proizlaziti proizvodnja razaranja</Line>
+   <Line>razgovor razlomak razuman razumije razumijeva razvoj regija</Line>
+   <Line>samoglasnik samostalan sigurnosti slog snaga stranog strateg suglasnik televizija</Line>
+   <Line>trag uglavnom ulaganje zadivljujući zagrada zaključak zaključuje zamjenjivi</Line>
+   <Line>zarez zatim zemlja zimski značajan značenja znakovi znanje zvan zvuk zvukovi</Line>
+   <Line>mnogi mnogo mogli morfologija nagli nalaza neregularan neutralizirati njegov noga</Line>
+   <Line>gladan glagol glagoli glasovir glava glavni godina gore govor govori govoriti govorni gradovi</Line>
+   <Line>nagli nalaza neregularan neutralizirati njegov noga nogomet ogroman poduzeti</Line>
+   <Line>suglasnik televizija trag uglavnom ulaganje zadivljujući zagrada zaključak zaključuje</Line> 
+  </Level>
+  
+  
+  
+  <Level>
+   <NewCharacters>šh</NewCharacters>
+   <Line>helij hrana hrvatski htjeti izvještaj izvršni još klišej košara</Line>
+   <Line>oštro pješačenje poništen poništiti pothranjen previše prihod promiješati</Line>
+   <Line>prošlost saharin savršen shvativši središnji tehnološki tih trošak troškovi</Line>
+   <Line>uspjeh više viši vrh zahtjev zahtjevi zašto zemljište šesnaest šest</Line>
+   <Line>šetače šetati šetnja šetnje šiljast širok što</Line>
+   <Line>helij hrana hrvatski htjeti izvještaj izvršni još klišej</Line>
+   <Line>oštro pješačenje poništen poništiti pothranjen previše prihod promiješati</Line>
+   <Line>prošlost saharin savršen shvativši središnji tehnološki tih trošak troškovi</Line>
+   <Line>uspjeh više viši vrh zahtjev zahtjevi zašto zemljište šesnaest šest</Line>
+   <Line>košarka lakše naše neriješeno njihov oglašavanje</Line>
+   <Line>košara košarka lakše naše neriješeno njihov oglašavanje</Line>
+   <Line>zahtjevi zašto zemljište poništen poništiti pothranjen previše</Line>
+   </Level>
+  
+  
+  
+  <Level>
+   <NewCharacters>bc</NewCharacters>
+   <Line>abonman agencija akcent atribut automobili bačve bakar barel barijera</Line>
+   <Line>bezbrojan bila bilješke biologija biti blesasta blizanac borili briga</Line>
+   <Line>barijere bas benzin beskoristan broj brundali brzo čamac ceste cijene činjenica</Line>
+   <Line>crtica djeca doba dobro globalan inicijali investicija</Line>
+   <Line>izbjegavati kalcij kapacitet kockastoga kombinacija kombiniran komunicira</Line>
+   <Line>komunikacija mjesec nacije nacionalna nacrtati najbolje nastavci</Line>
+   <Line>oba obitelji objavljen oblik obrasci obuzdati odbojka</Line>
+   <Line>ohrabriti opskrbiti ozbiljan parcela poboljšanje podcijeniti</Line>
+   <Line>poklopac populacija porcija poricanje poseban posebno</Line>
+   <Line>potreba potrebe potrebna prabaka pribor problem problemi proporcija</Line>
+   <Line>prosudbe putnici racionalna razdoblje sastanci situacija spojnica</Line>
+   <Line>stanovnici subjekt suglasnici sunce svibanj trebao turcizam</Line>
+   <Line>tvorba uputnica utjecaji uzroci vilica zajednica zamjenica zvjezdica</Line> 
+  </Level>
+  
+  
+  
+  <Level>
+   <NewCharacters>ž</NewCharacters> 
+   <Line>istraživan kaže kliženje možda može mreža nježan nježno nužno održavanje plaža</Line>
+   <Line>pretraživanje približava proždirati pruža ruža službeno tržište</Line>
+   <Line>ublažiti ugrožena zadržanoga zadržati žalili željezo žetva živjeti život</Line>  
+  </Level>
+   
+  <Level>
+   <NewCharacters>AKLJ</NewCharacters>
+   <Line>Afrika Agencija Ako Ali Amerikanci Analiza Arabija Arapin Audicija</Line>
+   <Line>Australija Autori Azijati Jedan Jezero Jim Jupiter Kao</Line>
+   <Line>Kina Kivan Knjige kombinacija Kovač Ljepota Ljubitelji Londonac Lošinjanin</Line>
+  </Level>
+  
+  
+  
+  
+  <Level>
+   <NewCharacters>SČDF</NewCharacters>
+   <Line>Čak Češka Često Čuo Dalmacija Danska Deseci Dlanovi Doktor Domet Dosta</Line>
+   <Line>Dostupnost Doviđenja Francuska Sada samoglasnik Sateliti Saturn</Line>
+   <Line>Sidney Sljedeća Slog Slovačka Slovenija Split Stanovnici Stavke Stop Studijski Svaki</Line>
+  </Level>
+  
+  
+  <Level>
+   <NewCharacters>IENO</NewCharacters>
+   <Line>Energija Engleska Engleski Europa Iako Iglica Indija</Line>
+   <Line>Iran Istra Istraživan Iznimke Izvori Najmlađi Najveći</Line>
+   <Line>Nakon Neki Njegova Norveška Obline Oceani Ocjena</Line>
+   <Line>Ocjena Odano Oman Oni Osiromašen Ovaj Indonezija Institut</Line>
+  </Level>
+  
+  
+  
+  <Level>
+   <NewCharacters>RMVT</NewCharacters> 
+   <Line>Mađarica Makedonija Malezija Mars Među Međunarodni Međutim Meksikanci Milijuni</Line>
+   <Line>Mjesto Mnogi Rabljeni Razdoblja Razgovarao Rekao Retrogradan Venezuelac</Line>
+   <Line>Rumunjska Tamo Temeljeći Trendovi Turčin Varaždinac Već Venera Vijesti Vrač</Line>
+  </Level>
+  
+  
+  <Level>
+   <NewCharacters>PUZG</NewCharacters>
+   <Line>Gazija Grčka Pakistan Pariz Pisanje Planina Planine Plitvice Pluton poboljšanje</Line>
+   <Line>Pod Pokušala Polirati Politika Polja Pomagala Pravopis Prednosti</Line>
+   <Line>Prijedlozi Primorje Procjene Promjene Uganda Uključujući Ulica</Line>
+   <Line>Unaprijedi Upoznajte Uran Zadar Zagrada Zagreb Zajedno Zemlje Znak Znakovi Zvjezdica Zvonik</Line>
+  </Level>
+  
+  
+  
+  
+  <Level>
+   <NewCharacters>HBC</NewCharacters>
+   <Line>Bangladeš Banka BBC Bez BODAC Bonvivana Bosna Bračka Britanija</Line>
+   <Line>Brodovi Bugarska Centar Hamletovski Hercegovki Hoteli Hrana Hrvatska HTV</Line>
+  </Level>
+  
+  
+  
+  
+  <Level>
+   <NewCharacters>Ž</NewCharacters>
+   <Line>Žana Žilica Istraživan Varaždinac Žana Žilica Istraživan Varaždinac</Line>
+  </Level>
+  
+  <Level>
+   <NewCharacters>Sentences</NewCharacters>
+   <Line>Crvendać je mala ptica, veličine vrapca, dužine oko 15 cm.</Line>
+   <Line>Čučavci se izvaljuju nakon dva tjedna sjedenja roditelja na jajima.</Line>
+   <Line>Već su otprilike s petnaest dana starosti sposobni za samostalan život.</Line>
+   <Line>Zimi se zadržava na područjima s boljom ponudom hrane.</Line>
+   <Line>Hrani se ponajviše kukcima i malim puževima, ali uzima i biljne plodove.</Line>
+   <Line>Danas je u zapadnoj Europi gotovo istrijebljen, a preostale populacije su male i međusobno odvojene.</Line>
+   <Line>Mjesec je najsjajnije nebesko tijelo nakon Sunca, svjetlost kojega odražava.</Line>
+   <Line>Mjesec nema tekuće vode ni značajne atmosfere.</Line>
+   <Line>Astronauti, a i neke letjelice bez posade postavljali su na Mjesec automatske seizmometre.</Line>
+   <Line>Mjesec je i reljefno vrlo zanimljivo nebesko tijelo.</Line>
+  </Level>
+  
+  
+ </Levels>
+</KTouchLecture>
