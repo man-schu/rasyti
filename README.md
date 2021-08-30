@@ -1,5 +1,35 @@
 # Rašyti
-Rašyti is a multilingual and multi-keyboard online touch typing trainer, currently covering English, German, French, Spanish, Italian, Lithuanian, Croatian, Slovenian, Danish, Catalan, Hungarian, Dutch, Norwegian, Polish, Finnish.
+Rašyti is a multilingual and multi-keyboard online touch typing trainer, currently covering the following languages:
+
+* Bulgarian (български)
+* Catalan (Català)
+* Croatian (Hrvatski)
+* Czech (Čeština)
+* Danish (Dansk)
+* Dutch (Nederlands)
+English
+Estonian (Eesti)
+Finnish (Suomi)
+French (Français)
+German (Deutsch)
+Greek (Ελληνικά)
+Hungarian (Magyar)
+Irish Gaelic (Gaeilge)
+Italian (Italiano)
+Latvian (Latviešu)
+Lithuanian (Lietuvių)
+Maltese (Malti)
+Norwegian (Norsk)
+Polish (Polski)
+Portuguese of Portugal (Português de Portugal)
+Portuguese of Brazil (Português do Brasil)
+Romanian (Română)
+Russian (русский)
+Slovak (Slovenčina)
+Slovenian (Slovenski)
+Spanish (Español)
+Swedish (Svenska)
+Ukrainian (українська)
 
 "Rašyti" is Lithuanian and means "to write". Lithuanian was the first language that I added since I am working on it.
 
@@ -7,20 +37,6 @@ This application is based on WebTypist version 1, see credits below. Since then,
 
 The word "rašyti" is Lithuanian and means "to write". The reason why I chose the name is simply that Lithuanian was the first language that I added.
 
-## Amendments
-
-### Lithuanian (Lietuvių) added.
-
-Original lessons have been taken from <a href="https://www.apt-browse.org/browse/debian/wheezy/main/all/ktouch-data/4:4.8.4-1/file/usr/share/kde4/apps/ktouch/Lecture/Lithuanian/lt.ktouch.xml">lt.ktouch.xml</a>.  Sentences  (last lesson) have been copied from Wikipedia.
-
-### Slovenian (Slovensko) added
-
-Original lessons have been taken from <a href="https://slackware.pkgs.org/14.0/slackware-i486/ktouch-4.8.5-i486-1.txz.html">slovenian.ktouch.xml</a>.
-
-### Croatian (Hrvatski) added
-
-<p>The basic exercises without real words have been taken from the open source Linux based application ktouch and are the same as for Slovenian. 
-Sentences  (last lesson) have been copied from Wikipedia.</p>
 
 
 ## Credits
