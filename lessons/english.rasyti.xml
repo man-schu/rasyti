@@ -1,0 +1,561 @@
+<RasytiLecture>
+ <Title>English</Title>
+ <Comment>created by Manfred Schulenburg</Comment>
+ <Levels>
+ <Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+<Line>file false fees idle sleek deal diesel ideal said</Line>
+<Line>sidle seek falsified lifeless desk defile self fail</Line>
+<Line>failed assail flail dead liked alkali disease aside leaf</Line>
+<Line>assess added feel seed sill filed else ladle lease sail</Line>
+<Line>sale easel dislike fake less aisle fill sealed side field</Line>
+<Line>addle dill skedaddle sisal ease skid life silk sales deeds</Line>
+<Line>lead lake skill jail flee saddle deaf dike skiff leak alike</Line>
+<Line>idea eased flea safe alias flake faded keel skilled fade like</Line>
+<Line>fiddle sled feed leek lees kiss kill fields fissle filled seal</Line>
+<Line>lessee slide dial skills disk flaked deed sell files allied</Line>
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line>denial lone senses defend inland finals flood linen online lien </Line>
+<Line>offense liana needlessness foods dandelion loans disdain finalise </Line>
+<Line>dose enfold needle silo anise idleness lined lineal nasal sedan </Line>
+<Line>defined infill noon inane dean landslide oilfield aeon alkaloid </Line>
+<Line>lessen silken session ended linefeed solo kilo needless skin leafiness </Line>
+<Line>deadline lessons done noise snaffle lank olden knee finned snake </Line>
+<Line>flank final alien solenoid solid fennel falseness looks sine losses </Line>
+<Line>noodle lands fineness landfill find slink saloon oneself sold fondness </Line>
+<Line>define kaolin flannel insane soon illness neediness nail deafness </Line>
+<Line>lanolin adenoid land sleekness soak none linden soaked addend aniline </Line>
+<Line>nonsense loaded senseless dissension look silliness ionise fosse </Line>
+<Line>kennel seasonal lose kind kiosk loneliness needs naked offal enjoin snail </Line>
+<Line>deafen annals doff line linseed akin leaden indeed fins flooded knife </Line>
+<Line>adjoin doll nine keen offside skein noodles also knead silkiness soil </Line>
+<Line>noose sadden lane diode linens dense iodine kink alkaline food dado </Line>
+<Line>inside oasis link lankiness sodden foil easiness anode sniff lend kneel </Line>
+<Line>fool loin sink need aloofness denseness odds jink fiend sane deadliness </Line>
+<Line>knoll lean offend kiln loosen sense offload dine loll join loss loan lion </Line>
+<Line>leanness fend load anneal fold offline sadness disjoin sloe lens ankle </Line>
+<Line>onion fine likeness senile saline loose sandal lesson kindness jadedness </Line>
+<Line>daffodil assassin island siskin soda foal sole felon season lasso sneak laden </Line>
+<Line>skinned loaf seafood oddness insole idol endless fondle sofa alone </Line>
+<Line>nakedness send liaison neon fossil nose sand node loon infield joke</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>adder mallard slanderer armed moral familiar arsenal means </Line>
+<Line>dominoes fakir desires ear meddlesome indoors snore roller </Line>
+<Line>forsake killer salesmen farm modern learner learn small seam </Line>
+<Line>mainframe ram darn remake role remedial mass mead farmed </Line>
+<Line>rod radian mission loom readers rink elder rise forename mine </Line>
+<Line>oedema misdeed order finder serenade immense dreamlike </Line>
+<Line>fanfare federalism airmail some adorned amass main reins mile </Line>
+<Line>soldered friends loafer reorder drone dread slim landsman arena </Line>
+<Line>offer saffron solemnise arse moan midfielder diamond amend </Line>
+<Line>frank mill seminar moose snare rename near infer ladder modem </Line>
+<Line>foreman modal deferred moaner miller seem snarl monsoon risk </Line>
+<Line>assessor affair earl mainland lamella redefine rareness maroon </Line>
+<Line>offender simian raffle mammal sire refer fried minimal idler desire </Line>
+<Line>smoke arrears mid smile ransom arm firemen drool foreseen deer </Line>
+<Line>morose infrared fillers sore animalism landlord resell renal solemn </Line>
+<Line>damask ford aria monomania dealers err damn lender alms room </Line>
+<Line>seller remorse madness mark fireman seldom fodder dissimilar </Line>
+<Line>morel oleander rooms remark amiss oral norm fireside oriole soar </Line>
+<Line>roe mandrake affirmed ensnare nominal airfield alarm mains fir raid </Line>
+<Line>liner menses mama seafarer realise fjord firmness deform lonesome </Line>
+<Line>jammed dermal mirror remission roofer model dork manner memoirs </Line>
+<Line>sniffer almandine reamer minified reader remarks mimosa lord friend </Line>
+<Line>mole admiral dominie jerk dome frisk resin maker dieresis meekness </Line>
+<Line>far sensorial skinner donor dimension sorrel meander more immemorial </Line>
+<Line>frond riddle floor reindeer dimmer dim referee elm mandolin aerosol </Line>
+<Line>median milliard farms rissole indorse insomnia idealism meld federal </Line>
+<Line>sellers snorer name moraine animals madman inferior emission demise </Line>
+<Line>release animal salamander mall afire dreariness marine farmer </Line>
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line>tattle kettle statesman environmental teat administer teller</Line>
+<Line>retrain filament divisor irritate steadiness soloist ornate deter</Line>
+<Line>vitamin volatile vendor alto imitator still ventilate takeover overall</Line>
+<Line>demonstrative aslant medieval annotation meditativeness level</Line>
+<Line>alleviation rated footstool enervate neatness visit sleeves distress</Line>
+<Line>stiletto items motivational sentiment tent sever floret strain</Line>
+<Line>intenseness differentiate trademark soonest motor strait dissemination</Line>
+<Line>denote oldest tremolo transmitter teens oven timeliness invasive</Line>
+<Line>alternate edits defrost farmstead indention divide sort trademarked</Line>
+<Line>feast steel radiation asset fitness oversea divisional dissertation</Line>
+<Line>marmot dividend assassination stink orientation mist otter alit anterior</Line>
+<Line>manometer ovate limit left laminated timeline itself retard intended</Line>
+<Line>elastomer modest intern elimination latter altimeter strike dilation teal</Line>
+<Line>satiated detail entered date navel toad resettle terse statement slave</Line>
+<Line>adverse roaster assist notion aliment servomotor illiterate oval</Line>
+<Line>earnestness dentate stare tendon tandem isolator streamer traitor</Line>
+<Line>dilatation salvation stains mistake overt initiative monition moisten</Line>
+<Line>indent disinformation assert float milt overleaf meantime identifier</Line>
+<Line>immaterial vanilla overseas referential identified materialism resilient</Line>
+<Line>information attestation failover stalk sedated investor restlessness interim</Line>
+<Line>saver vomer tale additive river invade remote vase litter transition lantern</Line>
+<Line>attendee lifter elite divineness details retrofit strident valet mainstream</Line>
+<Line>intake narrative foster tell raven molest talkative attention divine tear</Line>
+<Line>fate tenet devil after foot tiresome meditative ministerial moreover marital</Line>
+<Line>rival inflation easement traverse visitors remove leftie inverter allot till</Line>
+<Line>arrival talisman validation retentive flatten inattentiveness tonsil fatten</Line>
+<Line>dementia tenor mistress testament reliant love investee nestle often</Line>
+<Line>marionette straiten root last tension environment overestimation terrestrial</Line>
+<Line>idealist envier draft tendinitis manifestation takers tinted astride toddler national</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+ <Line>tulip unvaried assume saturation irresolute dispossess summon</Line>
+<Line>primrose fused patriotism plateau outlive units trespasser remould</Line>
+<Line>lute serious rounder dusk unnatural predestine lipid lapse utilities</Line>
+<Line>useless referendum jumpsuit tumour adaption villous runner insulated</Line>
+<Line>illustrate pep delirious primness valueless douser aspen resinous pipette</Line>
+<Line>undulation epaulet defaulted erratum fullness furtive effusion tumult pro</Line>
+<Line>spouse stopped pilaster inpatient appraisal auditor relapse outpost pre</Line>
+<Line>assault pollutant verdure reputation dissipate millennium default sperm</Line>
+<Line>pop pitfall pensioner pressroom porous pear appetent lampoon</Line>
+<Line>flunk palladium osmium partial pintail pleat pedal unfertile torturer neuter</Line>
+<Line>pioneer peer permission resentful nun topknot profane envious postulate</Line>
+<Line>amuse fluvial unfunded infamous aspidistra summation venturous persuade</Line>
+<Line>pine stapler suspense spill overprint disruption peritoneum predefine parser</Line>
+<Line>sumptuous upriver prompt impartial provost foodstuff perforated palsied</Line>
+<Line>perpetual speed transpire dampen luminaire supper sputum resound</Line>
+<Line>pretend arousal primula ensue spiteful opponent rejuvenate spin tremulous</Line>
+<Line>opt imperative mistrust pare opened addendum lapsed unmount reptile</Line>
+<Line>platen apostate volume assurer paramour repeater nameplate manual</Line>
+<Line>flap partner minimum reporter parasol trampoline tuition insulted</Line>
+<Line>parasitism ruinous reproof unaltered rustler redemption superstore splinter</Line>
+</Level>
+
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>grafter gains trilingual mirage kneeling gin patronage gouge legate</Line>
+<Line>programme profligate guerrilla using gleam organise rattling paraplegia</Line>
+<Line>sag flagellate spring rotting gorgeous griffin galvanised girt ganger fog</Line>
+<Line>stamping dog genesis grail logging aged planting flagman fling suiting</Line>
+<Line>proving flattening softening gluten frog splinting egoism sign grained</Line>
+<Line>offspring vigour giant outrageous verge digitalis largest gaiter refuge</Line>
+<Line>piping suggestive tattooing mitigate egret rag prong drudge failing spigot</Line>
+<Line>group sniffling avenge guillemot moaning fag sparing greasiness sneaking</Line>
+<Line>promulgate unmoving gourd guiltless migrants dagger stringer gravure</Line>
+<Line>digression gnome fagging sergeant longing gripe guard aggrieving prospering</Line>
+<Line>mangrove dung deferring trappings among gallant negro appealing genitals</Line>
+<Line>jarring regain legion entangle slogan godparents garrison glue dangerous</Line>
+<Line>panelling agitator filing strutting sponge ingestion needling disagree untangle</Line>
+<Line>rugged sintering organism framing leasing patenting refugee sparking governess</Line>
+<Line>gruff puffing glasses eagerness propagate replanting google gladness gamut</Line>
+<Line>setting governing girl annealing fungous pitting magistrate ruggedness</Line>
+<Line>dressage parenting gaits railing joining agile gilder logon goat dialog stoppage</Line>
+<Line>leaking grapevine neuralgia fomenting aerogram antagonist snoring message</Line>
+ </Level>
+ 
+<Level>
+ <!-- 10 b -->
+ <NewCharacters>y</NewCharacters>
+	<Line>inlay overlay angrily ternary derogatory type skylark spray ruffy petrify deformity</Line>
+	<Line>identity unseemly pettily payoff moldily jerky statutory synergy glottology jutty</Line>
+	<Line>stratify pylorus gyrate elementary gargoyle royal perky musty yours visionary playing</Line>
+	<Line>transitory sterilely yonder spinily laying voluntary grisly geyser snotty allegory</Line>
+	<Line>dumpy slovenly overjoyed volatility glassy severally pity ally infinity drayage</Line>
+	<Line>fumitory rarefy estuary salty gently pensionary snootily purely silty tautology</Line>
+	<Line>osprey entirety uneasy lampyrus stultify rotary impurity very unalloyed sloppy guy</Line>
+	<Line>sinology missionary gaudily stingray payout repay pigeonry mordantly usury gymnasium</Line>
+	<Line>temerity needy greenfly solidly ferry underlying lady fully asylum typing symmetry</Line>
+	<Line>madly yesterday formality loony animatedly valley silently definitely skydiving</Line>
+	<Line>deify sappy augury realty elatedly silky dysentery sodomy midgetly doyen dye disparity</Line>
+	<Line>stupidly porosity gingerly jelly deanery gravy repository strongly timidly yakking</Line>
+	<Line>flay prototype legendary maggoty argosy already gypsy keypad mesentery loyal youngster</Line>
+	<Line>regionally malignity fury urgently verify graveyard eyeglass torrefying rosary</Line>
+	<Line>flurry satisfy dynamo parry alloy tyre jealousy nasally royalty majority</Line>
+	<Line>forgery sly pillory tangly tarry plurality poundkey seniority salary</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 11 -->
+ <NewCharacters>z</NewCharacters>
+ <Line>legalize anodizing regularize zoologist tantalize zip frizzle tetanized</Line>
+<Line>zap razz amazement fertilize doze fuzziness monopolize graze zigzag</Line>
+<Line>fizzling gelatinize amazon organizer lozenge notarize atomize finalize</Line>
+<Line>motorize lazy ionize terrorize modernize deodorize glazier freeze polarize</Line>
+<Line>grizzled trapeze maze realize vaporizer pretzel dazzler paralyze stylize</Line>
+<Line>patronize amazed geezer zone gauze antagonize pulverized amaze</Line>
+<Line>revitalize mesmerized oozy visualize fizz summarize zipper guzzler idealize</Line>
+<Line>mezzanine zeal relativize magnetize nozzle suzerainty amazingly freezer</Line>
+<Line>dizzy aggrandize frieze eternalize pasteurize fraternize energize ooziness</Line>
+<Line>volatilize dramatize lizard vulgarize dozy jeopardize utilized laziness muzzle</Line>
+<Line>digitizing sozzled galvanize denizen initialize zoology apostatize atomizing</Line>
+<Line>marzipan puzzle spritz razor agonize reorganize influenza seizure maize</Line>
+<Line>plagiarize sneeze raze itemize energized dazed mezzo formalize appetizer</Line>
+<Line>dazzling ozone dozen utilize frenzy apologize sterilize amortize naturalize</Line>
+<Line>vizier sizzle zestfully pulverize pelletizer enzyme frozen fuzzy jazzy razzmatazz</Line>
+<Line>federalize optimizing zealous size pauperize stanza doziness optimize ooze</Line>
+<Line>moralize realized magazine totalize normalize mestizo glazed seizing anatomize</Line>
+<Line>azote fuzz gazelle fertilizer rendezvous guzzling dizzily antifreeze neutralize seize</Line>
+<Line>trapezoid minimize trivialize azalea sizing zing vaporize energizing organize guzzle</Line>
+<Line>sleaze puzzled jazz privatize amazing gauzy dozer drizzle ionization grazing</Line>
+<Line>atomizer prize dizziness memorize legitimize zestful solemnize organizing</Line>
+<Line>sleazy zero zoo dazzle appetizing oversized magnetized oversize tyrannize freezing</Line>
+ </Level>
+ 
+ 
+ <Level>
+  <NewCharacters>h</NewCharacters>
+<Line>dither unharmed hallelujah host rash plinth hardtop thirteen</Line>
+<Line>lathe sought hen harm humdrum shaman healing shrinkage forehead</Line>
+<Line>aphasia shellfish graph hay sharpen dishonest heaviness selfish delighted</Line>
+<Line>fanlight thereof humidity hoist enshrine letterhead preheater homologate</Line>
+<Line>pigeonhole helpful superhuman pantograph thanks hip metaphor shush</Line>
+<Line>pentathlon heptagonal intermesh hedging honoured polish petroglyph</Line>
+<Line>horse aftermath mesh apothem shaker thriller flourish shoulder varnished</Line>
+<Line>thin hat ghetto nihilism loathe pamphlet north hum shift third the think humanist</Line>
+<Line>her shelve daylight aldehyde overnight savannah inherit shaving hopefully</Line>
+<Line>mimeograph overhang heed overhaul helium hut death hill flashlight throng</Line>
+<Line>gash tighten sham flashing synthesize hypotenuse josh snapshot loutishly</Line>
+<Line>silhouette rehearse herself phlegm shim sashay hoarseness heartless henna</Line>
+<Line>three shutter hereafter handrail push symphony fresh halyard hanging horror</Line>
+<Line>nightdress telegraph euthanasia atmosphere shepherd doughy hussy prophesy</Line>
+<Line>shitter hitman uptight hop offish foppish heaven enough hearse rakishly eighthly</Line>
+<Line>honesty shire hotplate elephant dehumanize thinners soothe hardening aphtha</Line>
+<Line>liverish apish punish freighter dishonour greenish anything diphtheria shirking</Line>
+<Line>harlotry thinner hurt haze hazardous hangnail stronghold roughly handhold eyesight</Line>
+<Line>flighty hiring phenotype flight seventhly sheepdog freehold goldsmith lashings</Line>
+<Line>shrike potash distraught oath hotel famished unhappy lumpfish hurdle lengthen</Line>
+<Line>hold paragraph unhandsome thousand homonym insightful furlough hilarious</Line>
+ </Level>
+ 
+ 
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>comparable impeccable curability humpbacked brace catacombs pocketbook</Line>
+<Line>clipboard encumber scabies outbalance receivable bracelet cumbersome</Line>
+<Line>bedclothes accessible cloudburst abscess cybernetic become bijective becalm</Line>
+<Line>bellicose bioprocess blanch absence balances bicycle concubine cockscomb</Line>
+<Line>abject bottleneck embryonic biceps ambience public clobber alembic</Line>
+<Line>abdication buckle combatant crib debaucher thumbtack casebooks incumbency</Line>
+<Line>obedience cupboard feedback cumbrous cannibal cub turbulence touchable</Line>
+<Line>crossbar rollback crumb succumb censurable contraband chubbily bedeck</Line>
+<Line>biological carbonic microbe scuba cable buckshot abjection bioethics</Line>
+<Line>blackhead botching botch runback scrubbing abduction peaceable brocade</Line>
+<Line>incubate butchery bronchitis blacker combined scabbed diabetic sibilance</Line>
+<Line>buckaroo carbine celebrated greenback broomstick abundance herbicide</Line>
+<Line>compliably abduct branching balcony subjection cube blackbird subscribe</Line>
+<Line>abeyance clubfoot curb cubbyhole lumberjack birch benefactor cobbler</Line>
+<Line>chamber schoolbook balancer brick ambuscade blockhead broadcast background</Line>
+<Line>peaceably backbiter cranberry publicise bracken batch bisection backrest</Line>
+<Line>uncombed ballistic transcribe bucolic buttock butcheries buckler beacon</Line>
+<Line>benchmark bracelets bacteria abscission cobalt blackcock incredible unsociable</Line>
+<Line>backflush bishopric bunch backdated blacksmith buck blocked paperback comb</Line>
+<Line>comeback bleachers object barricade bronchus semblance bunched belch brooch</Line>
+<Line>because carboy archbishop boycott bullfinch breech besmirch buccaneer prescribe</Line>
+<Line>publican recyclable buttercup bifurcate beechnut irascible lubricant broccoli</Line>
+<Line>bedcover unscramble broaching obfuscate bracket branch cerebellum contribute</Line>
+ </Level>
+ 
+  
+ <Level>
+	<!-- 14 -->
+ <NewCharacters>q</NewCharacters>
+	<Line>acquit quaver liquefy parquet torque squelch squeeze qualify baroque enqueue lacquer</Line>
+	<Line>equate equidae quark squirm squire acquire quat quartet chequer quote squash equator squirt</Line>
+	<Line>quilt sesqui bequest squeak pique equal quash requiem quirk marquee oblique inquiry inquest</Line>
+	<Line>equip quota liquor quorum liqueur equally quaint quicken opaque quay quarter cheque sequel</Line>
+	<Line>quiver squint enquiry query qualm quiet quince quintet equine brusque equable squinty sequoia</Line>
+	<Line>quartz mosque piquant quit equably quickly quip request conquer unique antique quern quintal</Line>
+	<Line>quake quinine aquifer queen require quack equated square quirky quarry quality aquatic queue</Line>
+	<Line>inquire bouquet quite squall quietly claque unequal quibble squally glauque quadrat enquire</Line>
+	<Line>squared liquid squid squat quinsy quetzal banquet quest plaque equity sequin quitter quench quarrel</Line>
+ </Level>
+ 
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>w</NewCharacters>
+	<Line>wood fowl wiring wine weed crew swaddle witch wart wanton eelworm sawdust wind eyebrow</Line>
+	<Line>fawn warfare stowing wobbly wake weigh warped world swamp swallow inward walkway two maw dew</Line>
+	<Line>whiff dewlap whistle pew wastage weekday fewer worn where working yawn wheat wallet await</Line>
+	<Line>cowed awe throw whose dowry owlet bigwig unscrew owe redwing tow warm hallow mildewy wedel</Line>
+	<Line>showily pathway mowing wear wigeon trawl towel swarf writer mugwort mower wrench ribwort</Line>
+	<Line>warrior dwarf wed wharf slew tweak twinkle town wedging snowman cowshed willful width browser</Line>
+	<Line>brawny gawkily wane tweed walnut whorl rowdy dawn jetway wading mew drowse swipe whether known</Line>
+	<Line>scrawl wire dowdy awl waiver untwist wedlock swear swathe awed swivel will woollen wan know</Line>
+	<Line>whimper wedge wolf wooly weakly own wander cowpat crowd wean vow narrow hollow uptown fawning</Line>
+	<Line>beware swig whirl gateway wriggle wicked warp crowded washy bewitch wasted which windy</Line>
+	<Line>fellow warlock morrow answer nephew claw widgeon avowal wick dowser</Line>
+ </Level>
+ 
+  <Level>
+	<!-- 16 -->
+ <NewCharacters>x</NewCharacters>
+	<Line>mix fix vertex syntax hexagon extra exalt excrete fixture exhibit toxin exact dixie</Line>
+	<Line>styrax codex complex unfixed oxidize explode sphinx lexical influx axiom fixedly maximum</Line>
+	<Line>excited latex sexing expense taxi galaxy apex exalted exit gearbox context pixie sixteen expunge</Line>
+	<Line>extol texture fluxion flux mailbox axle anxiety larynx vortex exceed expanse anthrax relaxed expand</Line>
+	<Line>toxic excel oxidise oxide icebox equinox maxim exhale afflux examine helix box explain extrude marxism</Line>
+	<Line>relax boxing maximal convex expect hoax sexual perplex pixel annexed proxy exclude expose climax extent</Line>
+	<Line>reflux outbox exist exclaim telex oxidate buxom exempt narthex perspex exude cox expel mixing sixthly</Line>
+	<Line>cortex expert mixture moxie deluxe luxury exigent phoenix unexact text execute extort explore except</Line>
+	<Line>pixy fax sexy annex soapbox exile exhaust expired coccyx coax axed axe excite matrix calyx pretext</Line>
+	<Line>excerpt sexist lox exploit lax exposed bonxie toolbox tax coaxial fixator exam unfix flexure export</Line>
+	<Line>flexion foxtail pharynx inbox next exotic mixer expend extract sexton expiry sandbox exactly fixing prefix</Line>
+	<Line>oxygen cachexy sixth callbox kleenex exhort extinct jukebox paradox six expire thorax index pickaxe</Line>
+	<Line>boxer suffix coexist extreme example muskox dextrin axilla foxy sextant excuse xerox sex duplex</Line>
+	<Line>textile ibex affix sexism pixmap extend tuxedo exert exciter lynx taxable vixen mixed reflex fox bugfix phalanx</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+<Line>herbage. ancestry, metre. calfskin, stirrer. gene, instinctiveness. peek,</Line>
+<Line>sparrow, faith. herder, rationing. casement, scarcely. fir, reappointment,</Line>
+<Line>conjunct. confrontation, headgear. oat. anxiously, macerate, sodium. yacht.</Line>
+<Line>groaning, oscillator. grape, abortive. beamy, woodturning. listed, congeal.</Line>
+<Line>prance, soot. sport, justifiable, jury. nagging, insistence, arrogate. culpable.</Line>
+<Line>exhaustive. tenure, dissatisfy. stringy, leach. multiply, maple. caraway, tourism.</Line>
+<Line>pedagogical, discord. attainments, chaptalisation. excellence, inhabit. comrade,</Line>
+<Line>countermove. fireworks, unbosom. consuetude, ossuary. hump, commenting.</Line>
+<Line>bulletin, piss. betrayer, seventh. capricious, pantheon. storey, caretaker. preservation.</Line>
+<Line>bigot, aggrieve. mastitis. bodkin, employee, patrimony. antagonize, conversationalist.</Line>
+<Line>shoe, northeast, bristle. dissonant. mop, flee. skid, vitreous. sleigh, retrogressive.</Line>
+<Line>campground, jigsaw. sad, alpaca. transfusion. widow, smelting. ironmonger,</Line>
+<Line>rewarding, quintal. misdeed, spend. lag, defer. patency, circumcircle. actuate.</Line>
+<Line>debauch, bride, bolster. trumpet, curly. bloodsucker, hydrometeorology.</Line>
+<Line>somewhat, whom. lactic. wares, disjoin, grapple. lifelong, feeder. quake, kindness.</Line>
+<Line>escape, diatribe. encirclement, noblesse. rarely, sole. ingenuous, salad. downer.</Line>
+<Line>impertinence, pen, depopulate. foxglove. individually, despondently, err. squirrel,</Line>
+<Line>prissiness. gastronome. vacationer, botching. passive. anemometer, failover.</Line>
+<Line>reconnaissance, hilly. hostility, intent, prepared. vaccinator, directorate, elevenses.</Line>
+<Line>sanctum. rate, constriction. ignorance, quintuplicate. protract, flay. hostname, besides.</Line>
+<Line>gripes, battered, dye. discourage, papal. bid, perhaps. artificer, foundations. preprint,</Line>
+<Line>utility. beefy, blacker. seismology, deject. sheared, personal. heartburn. soldered,</Line>
+<Line>atheistic. harrow. wring, kitchenette, stockpile. unconditional. owl, pie. ounce,</Line>
+<Line>hypothetical. episode, windpipe. boggy, prone. manumit, fiberglass. progenitor,</Line>
+<Line>guesstimated. quern. shred. transmission, lynx. tastefulness, ski, taxi. contort, youngest.</Line>
+<Line>anatomy, stonemason. logo, benumb. didactic, insatiable. pair, normally. neuralgia.</Line>
+<Line>drumbeat, flapper. sackcloth, redefine. godly, measles. micrometre, ague. pester, clause.</Line>
+<Line>reedition, tannin. apprenticeship, straight. guiltiness, bioprocess, everywhere</Line>
+ </Level>
+
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>Capitals</NewCharacters>
+<Line>Xmas Olympics Coblenz Scot Epiphany Belgium Andalusian Denmark</Line>
+<Line>Albania Estonian Aztec Rhineland Greenland Asian Siberian Serbia African</Line>
+<Line>Aruba Irish Comoros Balkans Tyrol Finland Georgia February Caesarean</Line>
+<Line>Trinity Hebrew Uruguay Tanzania Latin Scotsman Turkey Curie Taoism</Line>
+<Line>Senegal Euclidean Swedish Madagascar Lebanese Siberia Girder Syrian</Line>
+<Line>Benedictine Spanish Saturday Sudanese Muscovite Russia Christian</Line>
+<Line>Scorpio Saxon Welsh China Canada Eurasian Swede Cuba Whitsun Nicaragua</Line>
+<Line>Mongolian Greece Monday Kenya Afghanistan Switzerland Mr Romania Ajman</Line>
+<Line>Latch Aquarius Japan Glutamine FAQ Venezuela Rhinelander Grenada</Line>
+<Line>Guyana Oceania Greek Mongolia Indian Jordan Mongol Mediterranean Kurdistan</Line>
+<Line>Taurus Tonga Basque Eritrea Gibraltar Italy Cyprian Excellency Prussian Rabbi</Line>
+<Line>Spaniard Intercom Germanic Chad Whitsunday Bucharest Capricorn Top Viennese</Line>
+<Line>Moldova Tuesday Luxembourgish Mister Estonia November Austria Vietnam</Line>
+<Line>Antarctic Myanmar WC Asia Finn Sunday Bavarian Afghan Monaco Aargau</Line>
+<Line>Pisces Etruscan Pentecost East Ghanaian Edinburgh Walloon Jesuit Togo</Line>
+<Line>Peruvian Cretaceous Friesland Georgian Brahmin American Trier Wend</Line>
+<Line>Friday Frankfurt Africa Zaire Monday America Slovak Scottish Dutchman Liberian</Line>
+<Line>Iran Ostrogoth Nazi Tokyo Scandinavia Roman Athens Thespian Whitsuntide</Line>
+<Line>Templar Luxembourg Ecuadorean Kiribati Visigoth Belarus Persian Romanian</Line>
+ </Level>
+
+ 
+
+  
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>some sentences</NewCharacters>
+<Line>The brown bear (Ursus arctos) is a large bear species found across Eurasia and North America.</Line>
+<Line>Brown bears are thought to have evolved from Ursus etruscus in Asia.</Line>
+<Line>Genetic testing is now perhaps the most important way to scientifically define brown bear relationships and names.</Line>
+<Line>The polar bear is a recent offshoot of the brown bear.</Line>
+<Line>Brown bears are apparently divided into five different clades, some of which coexist or co-occur in different regions.</Line>
+<Line>Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts.</Line>
+<Line>Salt in its natural form as a crystalline mineral is known as rock salt or halite.</Line>
+<Line>Salt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools.</Line>
+<Line>Edible salt is sold in forms such as sea salt and table salt which usually contains an anti-caking agent and may be iodised to prevent iodine deficiency.</Line>
+<Line>Sodium is an essential nutrient for human health via its role as an electrolyte and osmotic solute.</Line>
+<Line>Water plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture.</Line>
+<Line>Water is an excellent solvent for a wide variety of substances both mineral and organic; as such it is widely used in industrial processes, and in cooking and washing.</Line>
+<Line>From a biological standpoint, water has many distinct properties that are critical for the proliferation of life.</Line>
+<Line>More than 660 million people do not have access to safe drinking water.</Line>
+<Line>Currently, about a billion people around the world routinely drink unhealthy water.</Line>
+<Line>The human body contains from 55% to 78% water, depending on body size.</Line>
+<Line>Dew is small drops of water that are condensed when a high density of water vapor meets a cool surface</Line>
+<Line>The strain not only affects surface freshwater bodies like rivers and lakes, but it also degrades groundwater resources.</Line>
+<Line>This natural resource is becoming scarcer in certain places, and its availability is a major social and economic concern.</Line>
+<Line>Chlorine is a skin and mucous membrane irritant that is used to make water safe for bathing or drinking.</Line>
+<Line>Light pollution is the presence of unwanted, inappropriate, or excessive artificial lighting.</Line>
+<Line>It has been estimated that 83 percent of the world's people live under light-polluted skies and that 23 percent of the world’s land area is affected by skyglow.</Line>
+<Line>As a major side-effect of urbanization, light pollution is blamed for compromising health, disrupting ecosystems, and spoiling aesthetic environments.</Line>
+<Line>The solutions to light pollution are often easy steps, from readjusting lights to using more appropriate lightbulbs.</Line>
+ </Level>
+ 
+ 
+ 
+ </Levels>
+</RasytiLecture>

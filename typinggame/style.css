@@ -1,0 +1,106 @@
+html, body {
+	font-size: 20px;
+	line-height: 1;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+	background-color: #c8e5ff;
+		text-align: center;
+}
+
+p, li {
+	font-size: 0.9rem;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+.maxtime {
+	background-color: yellow;
+	color: red;
+}
+
+.time-left {
+	background-color: yellow;
+	color: red;
+}
+
+.score {
+	background-color: lightgrey;
+}
+
+.gameover {
+	color: red;
+}
+	
+header{background-color: green;}
+
+/*.text-success{color:#28a745!important}a.text-success:focus,a.text-success:hover{color:#1e7e34!important}*/
+
+#container1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+#game-section {
+	/*background-color: #c8e5ff;
+	border: 10px solid #014598d9;
+	border-radius: 5px;*/
+	/* margin: auto; */
+	/*max-width: 450px;
+	padding: 10px;
+	min-height: 450px;
+	min-width: 200px;*/
+}
+
+#show-word {
+	font-weight: bold;
+}
+
+#word-input {
+	font-size: 0.9rem;
+}
+
+/* good-input, bad-input, end-input are used in the js listeners, 
+they color assert-div */
+.good-input {
+	color: #006eff;
+}
+
+.bad-input {
+	color: #ff0000;
+}
+.end-input {
+	color: #8a2be2;
+}
+
+#display-time {
+	/*background-color: aqua;
+	width: 20px;
+	border: 5px solid orange;
+	padding: 25px;
+	margin: auto;*/
+}
+
+#first-div {
+	text-align: center;
+}
+
+#second-div {
+	font-size: 0.8rem;
+	display: flex;
+	flex-flow: row wrap;
+}
+
+#second-div>div {
+	flex: 1 1 0;
+	text-align: center;
+	margin: 0 1%;
+	padding: 4px;
+	border-radius: 10px;
+	background-color: lightblue;
+}
