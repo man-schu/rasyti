@@ -31,8 +31,6 @@ Rašyti is a multilingual and multi-keyboard online touch typing trainer, curren
 * Swedish (Svenska)
 * Ukrainian (українська)
 
-"Rašyti" is Lithuanian and means "to write". Lithuanian was the first language that I added since I am working on it.
-
 This application is based on WebTypist version 1, see credits below. Since then, a lot of further languages and lessons have been added.
 
 The word "rašyti" is Lithuanian and means "to write". The reason why I chose the name is simply that Lithuanian was the first language that I added.
