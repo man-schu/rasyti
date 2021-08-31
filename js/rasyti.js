@@ -5,8 +5,7 @@
 
 
 /**
- * Web Typing Tutor
- * a free, web-based, easy to use touch-typing tutor
+ * based on https://github.com/fabi1cazenave/webtypist
  */
 
 
