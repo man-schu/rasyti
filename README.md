@@ -39,7 +39,7 @@ The word "rašyti" is Lithuanian and means "to write". The reason why I chose th
 
 ## Credits
 
-This application is based on <a href="https://github.com/fabi1cazenave/webtypist">WebTypist (Github)</a>, version 1, which has been abandoned.
+Credits to <a href="https://github.com/fabi1cazenave/webtypist">WebTypist (Github)</a>, version 1, for providing the original engine.
 
 Credits also to the KDE project <a href="https://kde.org/applications/education/org.kde.ktouch">ktouch</a> for providing lessons for a lot of languages.
 
@@ -47,4 +47,4 @@ Credits to <a href="https://www.wikipedia.org/">Wikipedia</a> to provide a lot o
 
 Last and not least to mention that the project would not be possible without the precious remarks from users.
 
-A demo is available here: https://www.blueseal.eu/rasyti/.
+A working release is available here: https://www.blueseal.eu/rasyti/ and here: https://man-schu.github.io/rasyti/.
