@@ -69,7 +69,6 @@
 
 <!-- other -->
 
-
   <variant id="dk" include="es" name="Dansk">
     <key name="TLDE" base="½" shift="§" />
     <key name="AE03" base="3" shift="#" />
@@ -243,7 +242,6 @@
   <variant id="fi" include="se" name="Suomi">
   </variant>
 
-
   <variant id="tr" include="es" name="Türkçe">
     <key name="TLDE" base='"' shift="é" />
     <key name="AE02" base="2" shift="'" />
@@ -262,9 +260,6 @@
     <key name="AB10" base="." shift=":" />
   </variant>
 
-
- 
-  
   <!-- Non-Latin variants -->
     
     <variant id="gr" name="Greek - Ελληνικά">
