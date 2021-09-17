@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <RasytiLecture>
  <Title>Croatian</Title>
  <Comment>originally written by Jurij Turnšek for Slovenian, amended for Croatian with Croatian words by Manfred Schulenburg with amendmends proposed by users.</Comment>
@@ -372,7 +371,24 @@
 	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
  </Level>
   
- 
+  <Level>
+   <NewCharacters>Sentences</NewCharacters>
+   <Line>Crvendać je mala ptica, veličine vrapca, dužine oko 15 cm.</Line>
+   <Line>Čučavci se izvaljuju nakon dva tjedna sjedenja roditelja na jajima.</Line>
+   <Line>Već su otprilike s petnaest dana starosti sposobni za samostalan život.</Line>
+   <Line>Zimi se zadržava na područjima s boljom ponudom hrane.</Line>
+   <Line>Hrani se ponajviše kukcima i malim puževima, ali uzima i biljne plodove.</Line>
+   <Line>Danas je u zapadnoj Europi gotovo istrijebljen, a preostale populacije su male i međusobno odvojene.</Line>
+   <Line>Mjesec je najsjajnije nebesko tijelo nakon Sunca, svjetlost kojega odražava.</Line>
+   <Line>Mjesec nema tekuće vode ni značajne atmosfere.</Line>
+   <Line>Astronauti, a i neke letjelice bez posade postavljali su na Mjesec automatske seizmometre.</Line>
+   <Line>Mjesec je i reljefno vrlo zanimljivo nebesko tijelo.</Line>
+   <Line>Osnovne značajke buke sadržane su u njezinoj jačini (intenzitetu), ali i u njezinoj kakvoći (dodatni šumovi), visini, trajanju, isprekidanosti ili kontinuiranosti.</Line>
+   <Line>Buka u komunikacijskome kanalu je akustički šum koji nema funkcionalno značenje i koji ometa razumijevanje korisna zvučnog signala.</Line>
+   <Line>Magnezij je kemijski element atomskog (rednog) broja 12 i atomske mase 24,3050(6).</Line>
+   <Line>Magnezij je sličan aluminiju ili srebru (malo je tamniji), ali je više reaktivniji od aluminija (u pirotehnici nadasve).</Line>
+  </Level>
+  
   
  </Levels>
 </RasytiLecture>
