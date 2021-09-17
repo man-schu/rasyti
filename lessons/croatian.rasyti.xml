@@ -2,7 +2,6 @@
 <RasytiLecture>
  <Title>Croatian</Title>
  <Comment>originally written by Jurij Turnšek for Slovenian, amended for Croatian with Croatian words by Manfred Schulenburg with amendmends proposed by users.</Comment>
- <FontSuggestions>Monospace,10,-1,5,50,0,0,0,0,0</FontSuggestions>
  <Levels>
  
   <Level>
@@ -392,6 +391,10 @@
    <Line>Mjesec nema tekuće vode ni značajne atmosfere.</Line>
    <Line>Astronauti, a i neke letjelice bez posade postavljali su na Mjesec automatske seizmometre.</Line>
    <Line>Mjesec je i reljefno vrlo zanimljivo nebesko tijelo.</Line>
+   <Line>Osnovne značajke buke sadržane su u njezinoj jačini (intenzitetu), ali i u njezinoj kakvoći (dodatni šumovi), visini, trajanju, isprekidanosti ili kontinuiranosti.</Line>
+   <Line>Buka u komunikacijskome kanalu je akustički šum koji nema funkcionalno značenje i koji ometa razumijevanje korisna zvučnog signala.</Line>
+   <Line>Magnezij je kemijski element atomskog (rednog) broja 12 i atomske mase 24,3050(6).</Line>
+   <Line>Magnezij je sličan aluminiju ili srebru (malo je tamniji), ali je više reaktivniji od aluminija (u pirotehnici nadasve).</Line>
   </Level>
   
   
