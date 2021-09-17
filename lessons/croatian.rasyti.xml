@@ -72,6 +72,7 @@
    <Line>laja lakaj lajala lakaj l lakaja lajala lajala</Line>
    <Line>lajal laja la lajala laja lakaja laka lajal</Line>
   </Level>
+	 
   <Level>
    <NewCharacters>sč</NewCharacters>
    <Line>sčsaka slaka čkala saj sklal skakaj skakljala</Line>
@@ -103,6 +104,7 @@
    <Line>čkaj skaj slak sala čja sklal čs skakačskal salsa salsa skakalka sla salsa čka čs</Line>
    <Line>čč čja čsa čkaj skakač čkal skakač</Line>
   </Level>
+	 
   <Level>
    <NewCharacters>df</NewCharacters>
    <Line>dajal dala dajalka dač dajal fasada fasada</Line>
@@ -336,15 +338,12 @@
    <Line>Ocjena Odano Oman Oni Osiromašen Ovaj Indonezija Institut</Line>
   </Level>
   
-  
-  
   <Level>
    <NewCharacters>RMVT</NewCharacters> 
    <Line>Mađarica Makedonija Malezija Mars Među Međunarodni Međutim Meksikanci Milijuni</Line>
    <Line>Mjesto Mnogi Rabljeni Razdoblja Razgovarao Rekao Retrogradan Venezuelac</Line>
    <Line>Rumunjska Tamo Temeljeći Trendovi Turčin Varaždinac Već Venera Vijesti Vrač</Line>
   </Level>
-  
   
   <Level>
    <NewCharacters>PUZG</NewCharacters>
@@ -354,18 +353,12 @@
    <Line>Unaprijedi Upoznajte Uran Zadar Zagrada Zagreb Zajedno Zemlje Znak Znakovi Zvjezdica Zvonik</Line>
   </Level>
   
-  
-  
-  
   <Level>
    <NewCharacters>HBC</NewCharacters>
    <Line>Bangladeš Banka BBC Bez BODAC Bonvivana Bosna Bračka Britanija</Line>
    <Line>Brodovi Bugarska Centar Hamletovski Hercegovki Hoteli Hrana Hrvatska HTV</Line>
   </Level>
-  
-  
-  
-  
+   
   <Level>
    <NewCharacters>Ž</NewCharacters>
    <Line>Žana Žilica Istraživan Varaždinac Žana Žilica Istraživan Varaždinac</Line>
@@ -379,21 +372,7 @@
 	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
  </Level>
   
-  <Level>
-   <NewCharacters>Sentences</NewCharacters>
-   <Line>Crvendać je mala ptica, veličine vrapca, dužine oko 15 cm.</Line>
-   <Line>Čučavci se izvaljuju nakon dva tjedna sjedenja roditelja na jajima.</Line>
-   <Line>Već su otprilike s petnaest dana starosti sposobni za samostalan život.</Line>
-   <Line>Zimi se zadržava na područjima s boljom ponudom hrane.</Line>
-   <Line>Hrani se ponajviše kukcima i malim puževima, ali uzima i biljne plodove.</Line>
-   <Line>Danas je u zapadnoj Europi gotovo istrijebljen, a preostale populacije su male i međusobno odvojene.</Line>
-   <Line>Mjesec je najsjajnije nebesko tijelo nakon Sunca, svjetlost kojega odražava.</Line>
-   <Line>Mjesec nema tekuće vode ni značajne atmosfere.</Line>
-   <Line>Astronauti, a i neke letjelice bez posade postavljali su na Mjesec automatske seizmometre.</Line>
-   <Line>Mjesec je i reljefno vrlo zanimljivo nebesko tijelo.</Line>
-
-  </Level>
-  
+ 
   
  </Levels>
 </RasytiLecture>
