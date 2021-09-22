@@ -1,0 +1,19 @@
+{
+...
+  "config": {
+    "forge": {
+    ...
+      "publishers": [
+        {
+          "name": "@electron-forge/publisher-github",
+          "config": {
+            "repository": {
+              "owner": "man-schu",
+              "name": "rasyti"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
