@@ -52,6 +52,7 @@ A working release is available here: https://www.blueseal.eu/rasyti/ and here: h
 
 ## To do
 
-Work on the Electron release:
+Work on the Electron based desktop release:
 
-1. Do not open Develper Tools on startup. Otherwise it works fine, it is rather a cosmectical problem.
+1. Do not open Develper Tools on startup. Otherwise it works fine. It is rather a cosmectical problem.
+2. Add icon to the binary.
