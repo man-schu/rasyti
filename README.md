@@ -48,3 +48,10 @@ Credits to <a href="https://www.wikipedia.org/">Wikipedia</a> to provide a lot o
 Last and not least to mention that the project would not be possible without the precious remarks from users.
 
 A working release is available here: https://www.blueseal.eu/rasyti/ and here: https://man-schu.github.io/rasyti/.
+
+
+## To do
+
+Work on the Electron release:
+
+1. Do not open Develper Tools on startup. Otherwise it works fine, it is rather a cosmectical problem.
