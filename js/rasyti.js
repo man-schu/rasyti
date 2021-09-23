@@ -625,8 +625,7 @@ var gLessons = (function(window, document, undefined) {
       return;
 
     // select a random line in the current level
-  //  var lines = lessonsDoc.getElementsByTagName('Level').item(index)
-    var lines = lessonsDoc.getElementsByTagName('level').item(index)
+    var lines = lessonsDoc.getElementsByTagName('Level').item(index)
                           .getElementsByTagName('lines');
     var i = Math.floor(Math.random() * lines.length);
     return lines[i].childNodes[0].nodeValue;
