@@ -16,7 +16,7 @@
     "name": "Manfred Schulenburg",
     "email": "info@blueseal.eu"
   },
-  "license": "GNU",
+  "license": "GNU General Public License",
   "config": {
     "forge": {
       "packagerConfig": {},
