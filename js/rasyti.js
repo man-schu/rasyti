@@ -587,7 +587,8 @@ var gLessons = (function(window, document, undefined) {
     var href = 'lessons/' + name + '.rasyti.xml';
     XHR.loadXML(href, function(xmldoc) {
       lessonsDoc = xmldoc;
-      var levelNodes = xmldoc.getElementsByTagName('Level');
+    //  var levelNodes = xmldoc.getElementsByTagName('Level');
+	var levelNodes = xmldoc.getElementsByTagName('level');
 
       // fill the lesson selector
       ui.level.innerHTML = '';
@@ -624,7 +625,8 @@ var gLessons = (function(window, document, undefined) {
       return;
 
     // select a random line in the current level
-    var lines = lessonsDoc.getElementsByTagName('Level').item(index)
+  //  var lines = lessonsDoc.getElementsByTagName('Level').item(index)
+    var lines = lessonsDoc.getElementsByTagName('level').item(index)
                           .getElementsByTagName('lines');
     var i = Math.floor(Math.random() * lines.length);
     return lines[i].childNodes[0].nodeValue;
