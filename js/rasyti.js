@@ -587,8 +587,7 @@ var gLessons = (function(window, document, undefined) {
     var href = 'lessons/' + name + '.rasyti.xml';
     XHR.loadXML(href, function(xmldoc) {
       lessonsDoc = xmldoc;
-    //  var levelNodes = xmldoc.getElementsByTagName('Level');
-	var levelNodes = xmldoc.getElementsByTagName('level');
+      var levelNodes = xmldoc.getElementsByTagName('Level');
 
       // fill the lesson selector
       ui.level.innerHTML = '';
