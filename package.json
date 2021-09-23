@@ -19,7 +19,9 @@
   "license": "GNU General Public License",
   "config": {
     "forge": {
-      "packagerConfig": {},
+      "packagerConfig": {
+        "icon": "./icon"
+      },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
