@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "scripts": {
