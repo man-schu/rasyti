@@ -4,6 +4,7 @@
   "version": "0.9.4",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
+  "files": ["**/*", "build/icon.*"],
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
