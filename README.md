@@ -1,5 +1,5 @@
 # Rašyti
-Rašyti is a multilingual and multi-keyboard online touch typing trainer, currently covering the following languages:
+Rašyti is a multilingual and multi-keyboard touch typing trainer, currently covering the following languages:
 
 * Bulgarian (български)
 * Catalan (Català)
@@ -39,20 +39,12 @@ The word "rašyti" is Lithuanian and means "to write". The reason why I chose th
 
 ## Credits
 
-Credits to <a href="https://github.com/fabi1cazenave/webtypist">WebTypist (Github)</a>, version 1, for providing the original engine.
+Credits to <a href="https://github.com/fabi1cazenave/webtypist">WebTypist (Github)</a>, version 1, for providing the original engine. Version 2 of that engine shuffles words randomly which is handy for single words but makes offering whole sentences impossible.
 
-Credits also to the KDE project <a href="https://kde.org/applications/education/org.kde.ktouch">ktouch</a> for providing lessons for a lot of languages.
+Credits also to the <a href="https://kde.org/applications/education/org.kde.ktouch">ktouch</a> project for providing some lessons.
 
 Credits to <a href="https://www.wikipedia.org/">Wikipedia</a> to provide a lot of material that can be used as excercises.
 
 Last and not least to mention that the project would not be possible without the precious remarks from users.
 
 A working release is available here: https://www.blueseal.eu/rasyti/ and here: https://man-schu.github.io/rasyti/.
-
-
-## To do
-
-Work on the Electron based desktop release:
-
-1. Do not open Develper Tools on startup. Otherwise it works fine. It is rather a cosmectical problem.
-2. Add icon to the binary.
