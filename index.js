@@ -1,18 +1,6 @@
 const { app, BrowserWindow, Menu } = require('electron');
 const path = require('path');
 
-//const{app, BrowserWindow, Menu} = electron;
- const mainMenuTemplate = [
-     { label:'File',
-                 submenu: [
-       //        {label:'Upload File'},
-       //        {label:'Preferences'},
-               {label:'Exit'}
-           ]    } //,
-//     {label:'Tools'},
-//     {label:'Edit'}
- ]; 
-
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (require('electron-squirrel-startup')) { // eslint-disable-line global-require
   app.quit();
@@ -60,4 +48,28 @@ app.on('activate', () => {
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.
 
+const mainMenu = Menu.buildFromTemplate(menuTemplate);
+Menu.setApplicationMenu(null);
+  mainWindow.setMenu(mainMenu);
+//Change Menu.setApplicationMenu(mainMenu); to mainWindow.setMenu(mainMenu).
+
+
+const menuTemplate = [
+  {
+    label: 'File',
+    submenu: [
+            {
+        label: 'Quit',
+        accelerator: process.platform === 'darwin' ? 'Command+Q' : 'Ctrl+Q',
+        click() {
+          app.quit();
+        }
+      }
+    ]
+  }
+];
+
+if (process.platform === 'darwin') {
+  menuTemplate.unshift({});
+}
 
