@@ -48,11 +48,9 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) {
     createWindow();
   }
+const mainMenu = Menu.buildFromTemplate(menuTemplate);
+  Menu.setApplicationMenu(mainMenu);
 });
-
-// In this file you can include the rest of your app's specific main process
-// code. You can also put them in separate files and import them here.
-
 
 const menuTemplate = [
   {
@@ -68,19 +66,6 @@ const menuTemplate = [
     ]
   }
 ];
-
-function createMenu() {
- const menu = Menu.buildFromTemplate(menuTemplate);
-  Menu.setApplicationMenu(null);
- return Menu.setApplicationMenu(menu);
-}
-
-
-//const mainMenu = Menu.buildFromTemplate(menuTemplate);
-//Menu.setApplicationMenu(null);
-//Menu.setMenu(null);
-//Change Menu.setApplicationMenu(mainMenu); to mainWindow.setMenu(mainMenu).
-//mainWindow.setMenu(mainMenu);
 
 if (process.platform === 'darwin') {
   menuTemplate.unshift({});
