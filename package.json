@@ -8,7 +8,7 @@
         "buildResources": "build"
     },
   "files": [
-      "build/**/*",
+      "build/**/*"
     ],
   "scripts": {
     "start": "electron-forge start",
