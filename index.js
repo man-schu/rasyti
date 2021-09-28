@@ -69,12 +69,17 @@ const menuTemplate = [
   }
 ];
 
+function createMenu() {
+ const menu = Menu.buildFromTemplate(menuTemplate);
+ return Menu.setApplicationMenu(menu);
+}
 
-const mainMenu = Menu.buildFromTemplate(menuTemplate);
+
+//const mainMenu = Menu.buildFromTemplate(menuTemplate);
 //Menu.setApplicationMenu(null);
-Menu.setMenu(null);
+//Menu.setMenu(null);
 //Change Menu.setApplicationMenu(mainMenu); to mainWindow.setMenu(mainMenu).
-mainWindow.setMenu(mainMenu);
+//mainWindow.setMenu(mainMenu);
 
 if (process.platform === 'darwin') {
   menuTemplate.unshift({});
