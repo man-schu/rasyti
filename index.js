@@ -1,5 +1,9 @@
 const { app, BrowserWindow, Menu } = require('electron');
+
 const path = require('path');
+
+const childProcess = require('child_process')
+childProcess.setMenu('')
 
 var mainWindow;
 
