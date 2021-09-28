@@ -2,9 +2,6 @@ const { app, BrowserWindow, Menu } = require('electron');
 
 const path = require('path');
 
-const childProcess = require('child_process')
-childProcess.setMenu('')
-
 var mainWindow;
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
@@ -74,10 +71,10 @@ const menuTemplate = [
 
 
 const mainMenu = Menu.buildFromTemplate(menuTemplate);
-Menu.setApplicationMenu(null);
-  mainWindow.setMenu(mainMenu);
+//Menu.setApplicationMenu(null);
+Menu.setMenu(null);
 //Change Menu.setApplicationMenu(mainMenu); to mainWindow.setMenu(mainMenu).
-
+mainWindow.setMenu(mainMenu);
 
 if (process.platform === 'darwin') {
   menuTemplate.unshift({});
