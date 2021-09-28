@@ -7,7 +7,7 @@
   "directories": {
         "buildResources": "build"
     },
-    "files": [
+  "files": [
       "build/**/*",
     ],
   "scripts": {
@@ -37,16 +37,19 @@
         },
         {
           "name": "@electron-forge/maker-zip",
+          "icon": "build/icon.icns",
           "platforms": [
             "darwin"
           ]
         },
         {
           "name": "@electron-forge/maker-deb",
+          "icon": "build/icon.icns",
           "config": {}
         },
         {
           "name": "@electron-forge/maker-rpm",
+          "icon": "build/icon.icns",
           "config": {}
         }
       ],
