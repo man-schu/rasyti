@@ -12,8 +12,8 @@ if (require('electron-squirrel-startup')) { // eslint-disable-line global-requir
 const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    width: 1200,
-    height: 800,
+    width: 800,
+    height: 600,
   });
 
   // and load the index.html of the app.
@@ -71,6 +71,7 @@ const menuTemplate = [
 
 function createMenu() {
  const menu = Menu.buildFromTemplate(menuTemplate);
+  Menu.setApplicationMenu(null);
  return Menu.setApplicationMenu(menu);
 }
 
