@@ -3,7 +3,7 @@
   "productName": "Rasyti",
   "version": "0.9.64",
   "description": "Rasyti touch typing trainer",
-  "main": "src/index.js",
+  "main": "index.js",
   "directories": {
         "buildResources": "build"
     },
