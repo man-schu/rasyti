@@ -1,5 +1,11 @@
 # Rašyti
-Rašyti is a multilingual and multi-keyboard touch typing trainer, currently covering the following languages:
+Rašyti is a multilingual and multi-keyboard touch typing trainer
+
+## See Rašyti in action
+https://man-schu.github.io/rasyti/
+
+## Languages covered
+Currently Rašyti is covering the following languages:
 
 * Bulgarian (български)
 * Catalan (Català)
