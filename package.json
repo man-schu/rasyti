@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.67",
+  "version": "0.9.68",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -32,7 +32,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "rasyti"
+            "name": "rasyti",
             "setupIcon": "build/icon.ico",
             "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/build/icon.ico"
 
