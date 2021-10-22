@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.69",
+  "version": "0.9.70",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -26,33 +26,33 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "icon": "build/icon"
+        "icon": "images/icons/icon"
       },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
             "name": "rasyti",
-            "setupIcon": "build/icon.ico",
-            "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/build/icon.ico"
+            "setupIcon": "images/icons/icon.ico",
+            "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/images/icons/icon.ico"
 
           }
         },
         {
           "name": "@electron-forge/maker-zip",
-          "icon": "./build/icon.icns",
+          "icon": "./images/icons/icon.icns",
           "platforms": [
             "darwin"
           ]
         },
         {
           "name": "@electron-forge/maker-deb",
-          "icon": "build/icon.png",
+          "icon": "./images/icons/icon.png",
           "config": {}
         },
         {
           "name": "@electron-forge/maker-rpm",
-          "icon": "build/icon.png",
+          "icon": "./images/icons/icon.png",
           "config": {}
         }
       ],
@@ -71,7 +71,8 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "electron": ">=11.5.0"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
