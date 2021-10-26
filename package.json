@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "2.5.04",
+  "version": "0.9.72",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -47,7 +47,7 @@
         },
         {
           "name": "@electron-forge/maker-deb",
-          "icon": "./src/images/icons/icon.png",
+          "icon": "./images/icons/icon.png",
           "config": {}
         },
         {
