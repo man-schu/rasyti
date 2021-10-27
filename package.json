@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.75",
+  "version": "0.9.761",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -25,9 +25,9 @@
   "license": "GNU General Public License",
   "config": {
     "forge": {
-      "packagerConfig": {
-        "icon": "images/icons/icon"
-      },
+        "electronPackagerConfig": {
+        "icon": "images/icons/icon.icns"
+},
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
