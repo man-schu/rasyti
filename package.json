@@ -25,9 +25,9 @@
   "license": "GNU General Public License",
   "config": {
     "forge": {
-        "packagerConfig": {
-        "icon": "./images/icons/icon"
-},
+      "packagerConfig": {
+        "icon": "images/icons/icon"
+      },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
@@ -40,21 +40,20 @@
         },
         {
           "name": "@electron-forge/maker-zip",
+          "icon": "./images/icons/icon.icns",
           "platforms": [
             "darwin"
           ]
         },
         {
           "name": "@electron-forge/maker-deb",
-          "config": {"options": {
           "icon": "./images/icons/icon.png",
-        },},
+          "config": {}
         },
         {
           "name": "@electron-forge/maker-rpm",
-          "config": {"options": {
           "icon": "./images/icons/icon.png",
-        },},
+          "config": {}
         }
       ],
       "publishers": [
