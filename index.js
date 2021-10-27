@@ -3,12 +3,6 @@ const { app, BrowserWindow, Menu, Tray } = require('electron');
 
 const path = require('path');
 
-// tray icon for Linux
-let appIcon = null
-app.on('ready', () => {
-  appIcon = new Tray('/images/icons/icon.png')
-})
-
 var mainWindow;
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
