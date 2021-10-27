@@ -19,7 +19,7 @@
   },
   "electronPackagerConfig": {
     "icon": "images/icons/icon"
-}
+},
   "keywords": [],
   "author": {
     "name": "Manfred Schulenburg",
