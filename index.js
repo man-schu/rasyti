@@ -1,14 +1,13 @@
 const { app, BrowserWindow, Menu, Tray } = require('electron');
 
-// für Tray icon in Linux
-
-var win = '',
-    appIcon = null,
-    iconpath = path.join(__dirname, '/images/icons/icon.png');
-
-
 
 const path = require('path');
+
+// tray icon for Linux
+let appIcon = null
+app.on('ready', () => {
+  appIcon = new Tray('/images/icons/icon.png')
+})
 
 var mainWindow;
 
