@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.73",
+  "version": "0.9.74",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -17,6 +17,9 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
+  "electronPackagerConfig": {
+    "icon": "images/icons/icon"
+}
   "keywords": [],
   "author": {
     "name": "Manfred Schulenburg",
