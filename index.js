@@ -15,20 +15,12 @@ if (require('electron-squirrel-startup')) { // eslint-disable-line global-requir
   app.quit();
 }
 
-/*const createWindow = () => {
-  // Create the browser window.
-  const mainWindow = new BrowserWindow({
-    width: 800,height: 600,icon: __dirname + '/icon.ico',
-   webPreferences: {
-    contextIsolation: true
-  }
-  });*/
-
 
 const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-   show: false,icon: __dirname + '/images/icons/icon.ico',
+ //  show: false,icon: __dirname + '/images/icons/icon.ico',
+    show: false,icon: __dirname + '/images/icons/icon.png',
    webPreferences: {
     contextIsolation: true
   }
