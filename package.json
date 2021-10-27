@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "0.9.761",
+  "version": "0.9.762",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
@@ -25,8 +25,8 @@
   "license": "GNU General Public License",
   "config": {
     "forge": {
-        "electronPackagerConfig": {
-        "icon": "images/icons/icon.icns"
+        "packagerConfig": {
+        "icon": "./images/icons/icon.icns"
 },
       "makers": [
         {
