@@ -49,7 +49,7 @@
           "config": {
              options: {
                  icon: "./images/icons/icon.png",
-        },
+        }
           }
         },
         {
@@ -57,9 +57,9 @@
           "config": {
              options: {
                  icon: "./images/icons/icon.png",
-        },
-          }
         }
+          }
+        },
       ],
       "publishers": [
         {
