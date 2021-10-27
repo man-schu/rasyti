@@ -1,9 +1,11 @@
-const { app, BrowserWindow, Menu } = require('electron');
+const { app, BrowserWindow, Menu, Tray } = require('electron');
 
-/*const mainWindow = new BrowserWindow({
-  webPreferences: {
-    contextIsolation: true
-  }})*/
+// für Tray icon in Linux
+
+var win = '',
+    appIcon = null,
+    iconpath = path.join(__dirname, '/images/icons/icon.png');
+
 
 
 const path = require('path');
