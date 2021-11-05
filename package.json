@@ -1,11 +1,12 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "2.5.051",
+  "version": "0.9.74",
   "description": "Rasyti touch typing trainer",
   "main": "index.js",
   "directories": {
-        "buildResources": "build"
+        "output": "release-builds",
+        "buildResources": "resources"
     },
   "files": [
       "build/*"
@@ -40,19 +41,19 @@
         },
         {
           "name": "@electron-forge/maker-zip",
-          "icon": "./images/icons/icon.icns",
+          "icon": "images/icons/icon.icns",
           "platforms": [
             "darwin"
           ]
         },
         {
           "name": "@electron-forge/maker-deb",
-          "icon": "./images/icons/icon.png",
+          "icon": "images/icons/icon.png",
           "config": {}
         },
         {
           "name": "@electron-forge/maker-rpm",
-          "icon": "./images/icons/icon.png",
+          "icon": "images/icons/icon.png",
           "config": {}
         }
       ],
