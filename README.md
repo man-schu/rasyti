@@ -1,5 +1,5 @@
 # Rašyti
-Rašyti is a multilingual and multi-keyboard touch typing trainer
+Rašyti is a multilingual and multi-keyboard offline and online touch typing trainer.
 
 ## See Rašyti in action
 https://man-schu.github.io/rasyti/
