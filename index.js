@@ -77,7 +77,7 @@ const menuTemplate = [
 Menu.setApplicationMenu(Menu.buildFromTemplate(template));
 }
 
-if (process.platform === 'darwin') {
-  menuTemplate.unshift({});
-}
+/*if (process.platform === 'darwin') {
+ menuTemplate.unshift({});
+}*/
 
