@@ -74,7 +74,7 @@ const menuTemplate = [
     ]
   }
 ];
-Menu.setApplicationMenu(Menu.buildFromTemplate(menuTemplate));
+Menu.setApplicationMenu(Menu.buildFromTemplate(template));
 }
 
 if (process.platform === 'darwin') {
