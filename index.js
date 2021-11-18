@@ -76,8 +76,8 @@ const menuTemplate = [
 ];
 Menu.setApplicationMenu(Menu.buildFromTemplate(template));
 }
-
+/*
 if (process.platform === 'darwin') {
  menuTemplate.unshift({});
 }
-
+menuTemplate undefined => Problem on MacOS */
