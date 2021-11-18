@@ -58,6 +58,8 @@ const mainMenu = Menu.buildFromTemplate(menuTemplate);
   Menu.setApplicationMenu(mainMenu);
 });
 
+
+function setMainMenu() {
 const menuTemplate = [
   {
     label: 'File',
@@ -72,6 +74,8 @@ const menuTemplate = [
     ]
   }
 ];
+Menu.setApplicationMenu(Menu.buildFromTemplate(menuTemplate));
+}
 
 if (process.platform === 'darwin') {
   menuTemplate.unshift({});
