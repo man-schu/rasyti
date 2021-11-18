@@ -54,7 +54,7 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) {
     createWindow();
   }
-const mainMenu = Menu.buildFromTemplate(menuTemplate);
+const mainMenu = Menu.buildFromTemplate(template);
   Menu.setApplicationMenu(mainMenu);
 });
 
@@ -77,7 +77,7 @@ const menuTemplate = [
 Menu.setApplicationMenu(Menu.buildFromTemplate(template));
 }
 
-/*if (process.platform === 'darwin') {
+if (process.platform === 'darwin') {
  menuTemplate.unshift({});
-}*/
+}
 
