@@ -1,15 +1,10 @@
-const { app, BrowserWindow, Menu, Tray } = require('electron');
-
-
+const { app, BrowserWindow } = require('electron');
 const path = require('path');
-
-var mainWindow;
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (require('electron-squirrel-startup')) { // eslint-disable-line global-require
   app.quit();
 }
-
 
 const createWindow = () => {
   // Create the browser window.
@@ -21,17 +16,11 @@ const createWindow = () => {
   }
   });
 
-
   // and load the index.html of the app.
-  
- mainWindow.setMenuBarVisibility(false);
-  
-  mainWindow.maximize();
-  
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
 
   // Open the DevTools.
-//  mainWindow.webContents.openDevTools();
+  mainWindow.webContents.openDevTools();
 };
 
 // This method will be called when Electron has finished
@@ -54,30 +43,4 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) {
     createWindow();
   }
-const mainMenu = Menu.buildFromTemplate(template);
-  Menu.setApplicationMenu(mainMenu);
 });
-
-
-function setMainMenu() {
-const menuTemplate = [
-  {
-    label: 'File',
-    submenu: [
-            {
-        label: 'Quit',
-        accelerator: process.platform === 'darwin' ? 'Command+Q' : 'Ctrl+Q',
-        click() {
-          app.quit();
-        }
-      }
-    ]
-  }
-];
-Menu.setApplicationMenu(Menu.buildFromTemplate(template));
-}
-/*
-if (process.platform === 'darwin') {
- menuTemplate.unshift({});
-}
-menuTemplate undefined => Problem on MacOS */
