@@ -9,19 +9,14 @@ if (require('electron-squirrel-startup')) { // eslint-disable-line global-requir
 const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
- //  show: false,icon: __dirname + '/images/icons/icon.ico',
-    show: false,icon: __dirname + '/images/icons/icon.png',
-   webPreferences: {
-    contextIsolation: true
-  }
+    width: 1024,
+    height: 768,
+	icon: __dirname + '/images/icons/icon.png',
   });
 
   // and load the index.html of the app.
-mainWindow.setMenuBarVisibility(false);
-  
-  mainWindow.maximize();
-  
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
+  
 
   // Open the DevTools.
  // mainWindow.webContents.openDevTools();
@@ -48,6 +43,3 @@ app.on('activate', () => {
     createWindow();
   }
 });
-
-// In this file you can include the rest of your app's specific main process
-// code. You can also put them in separate files and import them here.
