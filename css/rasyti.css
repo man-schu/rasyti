@@ -5,6 +5,7 @@
 
 html, body {
   width: 100%;
+  height: 100%;
     margin-left: auto;
     margin-right: auto;
   padding: 0;
@@ -14,7 +15,7 @@ html, body {
 }
 
 #wrapper, #footer {
-  width: 840px;
+
 }
 
 embed { display: none; }
@@ -39,15 +40,13 @@ html #wrapper {
 }
 
 #content {
-  padding-bottom: 40px; /* >= height of the footer */
   background-color: white;
 }
 
 #footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
-  height: 34px; /* 34 + 1 + 5 = 40px */
-/*  border-top: 1px outset darkblue; */
+  height: 34px;
   padding-top: 5px;
   font-size: smaller;
   color: darkblue;
@@ -60,22 +59,12 @@ html #wrapper {
  
  
  
- #txtPrompt {
-     font-size:18px;
- }
-
-#txtInput {
-    font-size:18px;
-}
-
 #lessonInput {
   padding: 1em 0;
 }
 
 #lessonInput textarea {
  width: 100%;
- /*width: 680px;*/
- height: 85px;
 }
 
 #lessonInput textarea.error{
