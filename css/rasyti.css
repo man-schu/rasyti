@@ -12,7 +12,7 @@ html, body {
   border: none;
  /* background-color: #ccc;*/
   background-image: linear-gradient(180deg, black, blue);
-  background-attachment:scroll;
+  background-attachment:fixed;
 }
 
 #wrapper, #footer {
