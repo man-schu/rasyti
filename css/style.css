@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+ font-family: sans-serif;
 }
 
 #menu-bar {
@@ -35,8 +35,9 @@ h1 + p {
 }
 
 h1, h2 {
-  color: blue;
-  border-bottom: 1px inset blue;
+  color: black;
+  border-bottom: 2px inset black; /*the line under the headline*/
+  text-align: center;
 }
 
 dd, dt {

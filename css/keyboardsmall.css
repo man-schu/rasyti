@@ -1,16 +1,16 @@
 ul#keyboard, ul#keyboard ul {
-  width: 968px;
-  font-size:22px;
+  font-size:16px;
+  width: 664px;
   }
-  
+    
 * html ul#keyboard ul {
-  width: 1008px;
+  width: 672px;
 }
 
 ul#keyboard {
- margin: 30px auto;
+ margin: 20px auto;
   position: relative;
-  height: 345px;
+  height: 230px;
 }
 
 /******************************************************************************
@@ -20,53 +20,52 @@ ul#keyboard {
 /* rows */
 
 ul#keyboard li#row_AD {
-  top: 69px;
+  top: 46px;
 }
 ul#keyboard li#row_AC {
-  top: 138px;
+  top: 92px;
 }
 ul#keyboard li#row_AB {
-  top: 207px;
+  top: 138px;
     
 }
 ul#keyboard li#row_AA {
-  top: 276px;
+  top: 184px;
 }
 
 /* keys */
 ul#keyboard li li {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
 }
 
 /* special keys */
 ul#keyboard li.specialKey * {
-  font-size:18px;
+  font-size:13px;
 }
 li#row_AA li.specialKey {
- width: 82px;
+ width: 56px;
 }
 
 ul#keyboard li#key_TAB,
 ul#keyboard li#key_BKSP {
- width: 90px;
+ width: 60px;
 }
 ul#keyboard li#key_CAPS,
 ul#keyboard li#key_RTRN {
- width: 110px;
+ width: 73px;
 }
 ul#keyboard li#key_LFSH,
 ul#keyboard li#key_RTSH {
-  width: 144px;
+  width: 96px;
 }
 ul#keyboard li#key_SPCE {
-  width: 360px;
+  width: 240px;
   
 }
 ul#keyboard li#key_MENU {
-  width: 60px;
+  width: 40px;
 }
-
 
 
 /******************************************************************************
@@ -74,19 +73,19 @@ ul#keyboard li#key_MENU {
  */
 
 .pc105 li#key_LFSH {
-    width: 75px !important; /*neu*/
+  width: 50px !important;
 }
+
 .pc105 li#key_RTRN {
-      width: 40px !important;
-  height: 129px !important;
-  margin-top: -66px;
-  margin-left: 72px;
+  width: 27px !important;
+  height: 86px !important;
+  margin-top: -44px;
+  margin-left: 48px;
 }
 
 .pc105 li#key_BKSL {
- /* margin-left: -31px;*/
-    margin-top: 72px;
-  margin-left: -46px;
+  margin-top: 48px;
+  margin-left: -31px;
 }
 
 .pc105 li#key_LSGT {
@@ -97,19 +96,19 @@ ul#keyboard li#key_MENU {
 }
 
 .pc105 li#key_CAPS {
-    width: 90px !important;
+  width: 60px !important;
 }
 .pc105 li#key_CAPS, .pc105 li#key_RTRN {
 }
 
 .pc105 li#key_CAPS105 {
-      margin-left: -96px;
-  width: 109px !important;
+  margin-left: -64px;
+  width: 73px !important;
 }
 .pc105 li#key_RTRN105 {
-    margin-top: -66px;
-  margin-left: -66px;
-  width: 60px !important;
+  margin-top: -44px;
+  margin-left: -44px;
+  width: 40px !important;
 }
 
 
@@ -117,33 +116,33 @@ ul#keyboard li#key_MENU {
 */
 
 .pcrus li#key_BKSL {
-  margin-top: 72px;
-  margin-left: -45px;
+  margin-top: 48px;
+  margin-left: -31px;
 }
 .pcrus li#key_LSGT {
 }
 
 /* visual tweaks for CapsLock and Return */
 .pcrus li#key_CAPS105, .pcrus li#key_RTRN105 {
+  background-color: #e8e8e8 !important;
+  display: block;
 }
-
 .pcrus li#key_CAPS {
-    width: 90px !important;
+  width: 60px !important;
 }
-
 .pcrus li#key_CAPS, .pccyr li#key_RTRN {
+  z-index: 1;
 }
-
 .pcrus li#key_CAPS105 {
-  margin-left: -96px;
-  width: 109px !important;
+  margin-left: -64px;
+  width: 73px !important;
 }
 
 
 .pcrus li#key_RTRN105 {
-    margin-top: -66px;
-  margin-left: -66px;
-  width: 60px !important;
+  margin-top: -44px;
+  margin-left: -44px;
+  width: 40px !important;
 }
 
 
@@ -162,53 +161,52 @@ ul#keyboard li#key_MENU {
 }
 
 .tmx li#key_BKSL {
- /* margin-top: 94px;
-  margin-left: -96px;*/
- /*   margin-top: 141px;
-  margin-left: -144px;*/
-  margin-top: 140px;
-  margin-left: -139px;
-  
+  margin-top: 94px;
+  margin-left: -96px;
 }
+
 .tmx li#key_TLDE, .tmx li#key_TAB,  .tmx li#key_LFSH, .tmx li#key_LCTL,
 .tmx li#key_AE12, .tmx li#key_AD12, .tmx li#key_RTSH, .tmx li#key_RCTL,
 .tmx li#key_BKSP, .tmx li#key_RTRN {
-    width: 69px !important;
+  width: 46px !important;
 }
+
 .tmx li#key_LWIN, .tmx li#key_LALT, .tmx li#key_RWIN, .tmx li#key_RALT {
- width: 92px !important;
+  width: 63px !important;
 }
+
 .tmx li#key_TLDE, .tmx li#key_TAB, .tmx li#key_LFSH, .tmx li#key_LCTL {
-   margin-left: 8px;
+  margin-left: 3px;
 }
+
 .tmx li#key_AC01 {
-    margin-left: 83px;
+  margin-left: 55px;
 }
-* html .tmx li#key_AC01 { 
-    margin-left: 44px;
+
+* html .tmx li#key_AC01 {
+  margin-left: 29px;
 }
+
 .tmx li#key_AE06, .tmx li#key_AD06, .tmx li#key_AC06, .tmx li#key_AB06 {
- margin-left: 81px;
+  margin-left: 54px;
 }
 .tmx li#key_BKSP {
-    margin-left: -546px;
-  height: 129px !important;
+  margin-left: -378px;
+  height: 86px !important;
 }
 .tmx li#key_RTRN {
-    margin-left: -471px;
-    height: 129px !important;
+  margin-left: -326px;
+  height: 86px !important;
 }
-
 .tmx li#key_LFSH, .tmx li#key_RTSH {
-   height: 129px !important;
-    margin-top: -66px;
+  height: 86px !important;
+  margin-top: -44px;
 }
-
 .tmx li#key_RTSH {
-    margin-left: 72px;
+  margin-left: 48px;
 }
 .tmx li#key_SPCE {
-   width: 345px !important;
+  width: 230px !important;
 }
 
 
@@ -242,5 +240,5 @@ li#key_LFSH, li#key_RTSH {}
  */
 
 #badRendering {
-}
+ }
 

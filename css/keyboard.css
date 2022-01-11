@@ -9,17 +9,8 @@
 ul#keyboard, ul#keyboard ul {
   margin: 0;
   padding: 0;
-  width: 664px;
   background-color: #ffffcc;
   }
-* html ul#keyboard ul {
-  width: 672px;
-}
-ul#keyboard {
- margin: 20px auto;
-  position: relative;
-  height: 230px;
-}
 
 
 /******************************************************************************
@@ -35,24 +26,15 @@ ul#keyboard li {
 }
 ul#keyboard li#row_AD {
   position: absolute;
-  /*top: 46px;*/
-  top: 46px;
 }
 ul#keyboard li#row_AC {
   position: absolute;
-  /*top: 92px;*/
-  top: 92px;
 }
 ul#keyboard li#row_AB {
   position: absolute;
-  /*top: 138px;*/
-  top: 138px;
-    
 }
 ul#keyboard li#row_AA {
   position: absolute;
-  /*top: 184px;*/
-  top: 184px;
 }
 
 /* keys */
@@ -60,8 +42,6 @@ ul#keyboard li li {
   position: relative;
   float: left;
   clear: none;
-  width: 40px;
-  height: 40px;
   margin: 2px;
   border: 1px solid black;
    -webkit-border-radius: 5px;
@@ -70,6 +50,7 @@ ul#keyboard li li {
         -o-border-radius: 5px;
            border-radius: 5px;
 }
+
 ul#keyboard li strong {
   position: absolute;
   font-weight: normal;
@@ -84,7 +65,7 @@ ul#keyboard li em {
 }
 ul#keyboard li .deadKey {
   font-size: larger;
-  color: red;
+  /*color: red;*/
 }
 
 /* special keys */
@@ -92,37 +73,27 @@ ul#keyboard li.specialKey {
   background-color: #ddd;
 }
 ul#keyboard li.specialKey * {
-  /*font-size: 13px;*/
-  font-size:13px;
   font-style: italic;
 }
 li#row_AA li.specialKey {
- /* width: 56px;*/
- width: 56px;
 }
+
 ul#keyboard li#key_TAB,
 ul#keyboard li#key_BKSP {
- /* width: 60px;*/
- width: 60px;
 }
+
 ul#keyboard li#key_CAPS,
 ul#keyboard li#key_RTRN {
- /* width: 73px;*/
- width: 73px;
 }
+
 ul#keyboard li#key_LFSH,
 ul#keyboard li#key_RTSH {
-  /*width: 96px;*/
-  width: 96px;
 }
+
 ul#keyboard li#key_SPCE {
-  /*width: 240px;*/
-  width: 240px;
-  
 }
+
 ul#keyboard li#key_MENU {
-  /*width: 40px;*/
-  width: 40px;
 }
 
 /* hide LSGT for pc104 (default) */
@@ -136,18 +107,14 @@ li#key_LSGT, li#key_CAPS105, li#key_RTRN105 {
  */
 
 .pc105 li#key_LFSH {
-  width: 50px !important;
 }
+
 .pc105 li#key_RTRN {
-  width: 27px !important;
-  height: 86px !important;
-  margin-top: -44px;
-  margin-left: 48px;
 }
+
 .pc105 li#key_BKSL {
-  margin-top: 48px;
-  margin-left: -31px;
 }
+
 .pc105 li#key_LSGT {
   display: block;
 }
@@ -157,19 +124,16 @@ li#key_LSGT, li#key_CAPS105, li#key_RTRN105 {
   display: block;
 }
 .pc105 li#key_CAPS {
-  width: 60px !important;
 }
+
 .pc105 li#key_CAPS, .pc105 li#key_RTRN {
   z-index: 1;
 }
+
 .pc105 li#key_CAPS105 {
-  margin-left: -64px;
-  width: 73px !important;
 }
+
 .pc105 li#key_RTRN105 {
-  margin-top: -44px;
-  margin-left: -44px;
-  width: 40px !important;
 }
 
 
@@ -177,8 +141,6 @@ li#key_LSGT, li#key_CAPS105, li#key_RTRN105 {
 */
 
 .pcrus li#key_BKSL {
-  margin-top: 48px;
-  margin-left: -31px;
 }
 .pcrus li#key_LSGT {
   display: block;
@@ -189,21 +151,16 @@ li#key_LSGT, li#key_CAPS105, li#key_RTRN105 {
   display: block;
 }
 .pcrus li#key_CAPS {
-  width: 60px !important;
 }
+
 .pcrus li#key_CAPS, .pccyr li#key_RTRN {
   z-index: 1;
 }
 .pcrus li#key_CAPS105 {
-  margin-left: -64px;
-  width: 73px !important;
 }
 
 
 .pcrus li#key_RTRN105 {
-  margin-top: -44px;
-  margin-left: -44px;
-  width: 40px !important;
 }
 
 
@@ -224,46 +181,41 @@ display: none;
   display: none;
 }
 .tmx li#key_BKSL {
-  margin-top: 94px;
-  margin-left: -96px;
 }
+
 .tmx li#key_TLDE, .tmx li#key_TAB,  .tmx li#key_LFSH, .tmx li#key_LCTL,
 .tmx li#key_AE12, .tmx li#key_AD12, .tmx li#key_RTSH, .tmx li#key_RCTL,
 .tmx li#key_BKSP, .tmx li#key_RTRN {
-  width: 46px !important;
 }
+
 .tmx li#key_LWIN, .tmx li#key_LALT, .tmx li#key_RWIN, .tmx li#key_RALT {
-  width: 63px !important;
 }
+
 .tmx li#key_TLDE, .tmx li#key_TAB, .tmx li#key_LFSH, .tmx li#key_LCTL {
-  margin-left: 3px;
 }
+
 .tmx li#key_AC01 {
-  margin-left: 55px;
 }
-* html .tmx li#key_AC01 { /* IE6-specific hack */
-  margin-left: 29px;
+
+* html .tmx li#key_AC01 {
 }
+
 .tmx li#key_AE06, .tmx li#key_AD06, .tmx li#key_AC06, .tmx li#key_AB06 {
-  margin-left: 54px;
 }
+
 .tmx li#key_BKSP {
-  margin-left: -378px;
-  height: 86px !important;
 }
+
 .tmx li#key_RTRN {
-  margin-left: -326px;
-  height: 86px !important;
 }
+
 .tmx li#key_LFSH, .tmx li#key_RTSH {
-  height: 86px !important;
-  margin-top: -44px;
 }
+
 .tmx li#key_RTSH {
-  margin-left: 48px;
 }
+
 .tmx li#key_SPCE {
-  width: 230px !important;
 }
 
 
@@ -296,7 +248,6 @@ li#key_LFSH, li#key_RTSH {
 * html li#key_LFSH, * html li#key_RTSH {
   background-image: url(keyboard/key-shift.gif);
 }
-
 
 /******************************************************************************
  * Displayed if the keyboard rendering is altered by an ad blocker

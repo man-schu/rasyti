@@ -31,29 +31,6 @@ html #wrapper {
 }
 
 
-#lesson {
-font-size: 18px;
-}
-
-#level {
-font-size: 18px;
-}
-
-#shape {
-font-size: 18px;
-}
-
-#layout {
-font-size: 18px;
-}
-
-#variant {
-font-size: 18px;
-}
-
-#hints {
-transform : scale(1.5);
-}
 
 #lessonInput textarea {
  height: 85px; 
@@ -68,5 +45,21 @@ transform : scale(1.5);
  width: 80%;
   }
 
+/******************************************************************************
+ * Visual hints: hands picture
+ */
 
+#hands {
+  margin-top: 112px;
+  width: 150px;
+  height: 90px;
+}
 
+#hands span {
+  width: 300px;
+  height: 90px;
+}
+
+#hands.shift span {
+  left: -150px;
+}
