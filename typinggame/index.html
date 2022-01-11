@@ -9,12 +9,16 @@
   <title>speed typing game</title>
 </head>
 <body>
-<header>
+<div id="white">
 <br>
 <h1>Speed Typing Game</h1>
 <p>Beat your highscore! The game will start as soon as you select a language.</p>
-<br>
+</div>
+<div id="wrapper">
+
+<header>
 </header>
+<br>
 
 <p>Choose a language to start:<select style="font-size:20px;" name="language" id="language-select"  onchange="showWord(valueSpan);init();">
 <option value="">Select language</option>
@@ -45,9 +49,10 @@
 			<br>
 			
 <p><button style="font-size:20px;" onClick="window.location.reload();">Restart game</button></p>
+</div>
 
 <!--<p>Game over? To restart just type the word</p>-->
 <script  src="./script.js"></script>
-   
+
 </body>
 </html>

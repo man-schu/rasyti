@@ -2,6 +2,31 @@ html, body {
 	font-size: 20px;
 	line-height: 1;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    border: none;
+    background-image: linear-gradient(180deg, black, blue);
+   background-attachment:fixed;
+}
+
+#wrapper {
+  position: relative;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 20px;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  background-color: white;
+  -webkit-box-shadow: 0px 1px 10px #888;
+  -moz-box-shadow: 0px 1px 10px #888;
+  box-shadow: 0px 1px 10px #888;
+}
+
+#white {
+  color: white;
 }
 
 body {
@@ -35,26 +60,23 @@ h1 {
 	color: red;
 }
 	
-header{background-color: green;}
+header{
+	background-color: #ffffcc;
+	margin:0;
+	padding:0;
+	top: 0%;
+}
 
-/*.text-success{color:#28a745!important}a.text-success:focus,a.text-success:hover{color:#1e7e34!important}*/
-
+/*
 #container1 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
 }
+*/
 
 #game-section {
-	/*background-color: #c8e5ff;
-	border: 10px solid #014598d9;
-	border-radius: 5px;*/
-	/* margin: auto; */
-	/*max-width: 450px;
-	padding: 10px;
-	min-height: 450px;
-	min-width: 200px;*/
 }
 
 #show-word {
@@ -79,11 +101,6 @@ they color assert-div */
 }
 
 #display-time {
-	/*background-color: aqua;
-	width: 20px;
-	border: 5px solid orange;
-	padding: 25px;
-	margin: auto;*/
 }
 
 #first-div {
