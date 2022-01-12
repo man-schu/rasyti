@@ -1,0 +1,613 @@
+<RasytiLecture>
+ <Title>Deutsch</Title>
+ <Comment>created by Manfred Schulenburg</Comment>
+ <Levels>
+ <Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+<Line>falke kiesel fiedel lakai affe leid kasse jedes sisal</Line>
+<Line>esel allee seife laie dekade lesesaal diele kalif kiel</Line>
+<Line>klassik elfe elle kliff feile idee assel seil eisdiele</Line>
+<Line>fliese fade askese diesel klee seide dieses kleid fell</Line>
+<Line>adel filiale sessel fidel kladde lilie delle safe alle eile</Line>
+<Line>kleie kessel laffe edel kaffee kelle diese keks alias elle</Line>
+<Line>leise feld ideal fessel falle klasse seeaal deal jede</Line>
+<Line>fels seele fassade lila alkali kies dill ekel dies lake</Line>
+<Line>alles lese kess edelfalke kaskade lied kali keil</Line>
+
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line>solid anfallen endend senken keifen anlassen knallen dessen</Line>
+<Line>lesend dein lokal sinken feinen innen kleiden klein sinnen einsinken</Line>
+<Line>online sniffen loslassen nennen lallen landen feilen fassen sieden</Line>
+<Line>einlassen link eins nass finden einfallen lesen laden einfassen klonen</Line>
+<Line>also flink kneifen eilen kokeln andenken fallenlassen sinnlos leidend</Line>
+<Line>denken losen danke fliesen knien lose offline konfessionell lenken</Line>
+<Line>essen fallen anseilen indessen keines fesseln sein leiden doof nasal</Line>
+<Line>losflennen kennen offen klaffen denkend allein einseifen solide nein</Line>
+<Line>kein sollen jedenfalls endlos allenfalls fein einkleiden dienen senden</Line>
+<Line>eilends indes neiden fossil lassen eine niesen soll enden keinesfalls</Line>
+<Line>jene einlenken adeln ankleiden fallend seine denn anekeln seiden</Line>
+<Line>flennen dank kleine anfeinden einkesseln sonnen einkeilen senil kalken</Line>
+<Line>ansiedeln dann fesselnd einladen jenes keine fokal nieseln kolonial</Line>
+<Line>deins danken links kolossal faseln anfassen einlesen einklinken elend</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>marmorn rasieren reifen federn karieren riskieren drinnen arm</Line>
+<Line>dekorieren kreisen irreal konsolidieren innere konfirmieren missfallen</Line>
+<Line>formlos melden namenlos dinieren addieren ersinnen anders ansammeln</Line>
+<Line>ankern anliefern radial formell keiner reif narren mimen dominieren</Line>
+<Line>krank fordernd jemand dressieren idealisieren riffeln drall allesfressend</Line>
+<Line>erkranken reimen mies ordnen insofern kolorieren kassieren karikieren</Line>
+<Line>kreieren reffen marinieren einreden rammen formen klamm reisen klerikal</Line>
+<Line>adern normen kommen skandieren radieren demolieren sofern anfressen</Line>
+<Line>morsen ledern fremd lernen dreidimensional erleiden ionisieren erdenken</Line>
+<Line>niederkniend defilieren lindern mildern mir moderieren deiner anreden</Line>
+<Line>rinnen malen man moralisieren anordnen anmelden fern kennenlernen</Line>
+<Line>flankieren massieren frisieren real erkennen darin erinnern messen</Line>
+<Line>leider isolierend irr oder animieren makellos diesmal saldieren einliefern</Line>
+<Line>dekodieren drosseln markieren dosieren formalisieren flimmern allerlei</Line>
+<Line>erlesen sondern erfrieren klar linieren rein modern fressen krakeelen</Line>
+<Line>normalisieren liniieren frieren modernisieren ermorden kardial aneinander</Line>
+<Line>mein keimfrei einfordern diskriminieren melken einordnen jemals flammen</Line>
+<Line>einrenken rasseln eisern feiern frankieren florierend meins missionieren</Line>
+<Line>informell niemals anmalen liefern sammeln alkalisieren anerkennen kramen</Line>
+
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line>entfalten materialisieren rastlos traditionell rattern aktiv stellen</Line>
+<Line>tosen formatieren selten eminent streiken dividieren renovieren</Line>
+<Line>kontrastiv vermissen kleinkariert verstellen rivalisieren tiefrot treffen tadelnd</Line>
+<Line>viermal vielmals kneten altern vermitteln davon fest rotieren international</Line>
+<Line>anraten treffend einatmen andererseits vorderer taktil teils einleiten</Line>
+<Line>verfinstern intensiv etikettieren veranstalten vermessen stinkend transferieren</Line>
+<Line>entarten trimmen montieren indifferent mental nesteln konkav demoralisiert</Line>
+<Line>entflammen verlernen voranstellen flirten stramm entladen erkrankt stimmen</Line>
+<Line>entnerven vertieft entsinnen direkt oval darstellen darstellend inaktiv entartet</Line>
+<Line>atomisieren eiternd ratsam servieren sentimental netto mitteilsam konservieren</Line>
+<Line>favorisieren verkleinernd fatal immateriell involviert entfallen kontinental </Line>
+<Line>verstimmen inkorrekt verfilmen relativieren konsterniert entkleidet erst reaktivieren</Line>
+<Line>missraten streiten orten verteilen interferieren einst eintreten deinstallieren erteilen</Line>
+<Line>dekadent teilerfremd jovial jenseits entrinnen verleimen feist vermasseln ratlos</Line>
+<Line>maskiert kristallklar rasant verdanken stranden indefinit demontieren verkalken</Line>
+<Line>rediskontieren verrammeln erstens entfremden verankern notleidend verteilen </Line>
+<Line>riskant verfeindet radioaktiv knitterfrei sakrosankt tolerieren demonstrieren </Line>
+<Line>entleeren violett nerven emotional vorne viele vorn fetten informativ klarstellen</Line>
+<Line>kontaktieren verdammt verelenden erstarren standfest seitdem ertrinken</Line>
+
+
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+
+<Line>anlaufen pressen pflastern einlullen verteuern aufspalten sparsam uralt stur</Line>
+<Line>sprossen sauer aufstapeln empor platt perfid mutlos laut verdunkeln deuten</Line>
+<Line>piekfein operieren andauern laufend spaltend unreif intuitiv knipsen murren</Line>
+<Line>justieren aufprallen tapsen aufrauen super munkeln rustikal kultiviert dauernd</Line>
+<Line>stapeln erneut missdeuten mitunter auspumpen ausspannen klopfen autonom</Line>
+<Line>drapieren verstopfen kopflos verkuppeln passen teuer rupfen verfaulen</Line>
+<Line>amputieren impfen ausmessen polar umklappen kippen prellen umfassend</Line>
+<Line>ansteuern verstreuen knausern neutral polstern umformend deduktiv ausleeren</Line>
+<Line>respektlos ausreden paniert separat studieren einkaufen untreu planieren kauern</Line>
+<Line>anspannen kopieren auskuppeln empfinden destruktiv treu deponieren demutsvoll</Line>
+<Line>ausreifen optimieren umlenken verdoppeln planlos dumpf modulieren vorlaut</Line>
+<Line>ramponiert andauernd ruiniert feuern streuen erneuern aufmerksam knapp uneins</Line>
+<Line>unfair pausieren verlaust kumulativ annulliert vermauern per frustriert verpfeifen</Line>
+<Line>skalpieren spenden tun verkrampft ausstopfen pissen unfrei steppen auslassen</Line>
+<Line>pinseln ermuntern stampfen verspielen einsparen potent staunen unverdient klappen</Line>
+<Line>kauen duldsam verpestet speien neun paddeln umleiten kaputt aufklaren</Line>
+<Line>reparieren auffordern paaren spalten einplanen kommunal neunte pudern jaulen</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>ergrauen derartige mittig geneigt ungeteilt unpaarig rundkantig gefrieren</Line>
+<Line>eng ausgedient moosig geduldig rangieren grauenvoll angeregt arrogant</Line>
+<Line>vergoren karg eiligst krustig geriffelt aussteigen ermutigen fragend davonjagen</Line>
+<Line>auferlegen umlegen austragen verlagern transgen segnen reuig progressiv</Line>
+<Line>nageln gratis eingeengt versengt gutartig gummiartig einsaugen regional</Line>
+<Line>anklagen entgleisen gemustert durstig monogam angreifend verlagert</Line>
+<Line>gestapelt vertragen versiegelt geregelt anregen gedenken vergolden ungereimt</Line>
+<Line>gemeldet genesen gemeinsam ungeeignet gespannt kotig luftig grimmig</Line>
+<Line>jonglieren spiegeln rassig sandig einsegnen darlegen struppig graduell geleiten</Line>
+<Line>versiegen damalig launig analog gefeiert unmutig vergriffen voreilig ulkig</Line>
+<Line>gesondert egal riesig liegend gaffen geradlinig ledig verlogen stetig logieren</Line>
+<Line>triggern redselig ergo gemein ergattern dreieinig tilgen feindselig moderig</Line>
+<Line>getreu affenartig gefiedert vergeudend singen liegen gekuppelt legal getrennt</Line>
+<Line>entgegen diejenigen geformt gelieren auffliegen angeekelt orange vierseitig</Line>
+<Line>streng niedriger ungenannt gefroren erstmalig konvergent gekrempelt plagen</Line>
+<Line>aussagend signieren folgern entgegnen allgemein gekippt gefallen geeignet</Line>
+<Line>ungemein eigenartig anlegen stagnieren auskugeln vergreisen splitterig</Line>
+<Line>aufsteigen diesig gestaltlos eigens erledigt einstimmig ungerade einspurig vorgestern</Line>
+
+ </Level>
+ 
+<Level>
+ <!-- 10 b -->
+ <NewCharacters>y</NewCharacters>
+<Line>assyrien dynamik spray myriade typologie eukalyptus yankee</Line>
+<Line>lautsystem yeti synergie typ syndikat altsystem dialyse mystiker</Line>
+<Line>mystik etymologe dynamit typus myalgie dandy androgyn type</Line>
+<Line>dynastie gymnasiast analyse loyal gymnasium polysemie etymologie</Line>
+<Line>mimikry symposium royalist pyramide typenrad asylant notsystem</Line>
+<Line>spraydose paraguay party papyrus yoga geysir myrte jury gymnastik</Line>
+<Line>satyr polyamid dynamo nylon polyeder yard polygon syrer martyrium</Line>
+<Line>polygam syndrom tyrann krypta asyl glykol synkope pyjama antonym</Line>
+<Line>synonym analytiker symptom polyp ysop katalyse systole syndikus layout</Line>
+<Line>tyrannei groggy uruguay olympiade guyana laryngitis idylle sylvester elektrolyt</Line>
+<Line>prototyp systematik ypsilon symmetrie tayra akronym polynom polyglott</Line>
+<Line>pyromane analysis mysterium synode polygamie essay pseudonym</Line>
+<Line>asylantrag styropor foyer symptome gully dyslalie mayonnaise</Line>
+<Line>paraguayer asymptote flyer malaysia polyester synagoge dyspnoe pyrometer</Line>
+<Line>asymmetrie lyrik syrien polynesien lyra stereotyp system anonym lyriker</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 11 -->
+ <NewCharacters>zh</NewCharacters>
+<Line>dahinter siezen fehlend johlen verhandeln genehmigt ungelehrig umdrehen</Line>
+<Line>stehen rundherum letztes einhellig flehend aussetzen hassen einheften hausen</Line>
+<Line>andrehen ihm jederzeit glanzvoll ringsherum aufsitzen dreizehn daher aufhalsen</Line>
+<Line>festfahren verzerren einhalten aufkreuzen trotz hinfallen zinken zugehen harzig</Line>
+<Line>anhaltend hinkend reduzieren ausstehend fernhalten mannhaft hinlangen einrahmen</Line>
+<Line>verdutzt ausleihen haltlos verheddern zureden zustellen mehrstufig verzurren</Line>
+<Line>zulassen umerziehen asozial dehnen zahlen zerren verkohlen verhohlen heutzutage</Line>
+<Line>verziehen sagenhaft empfohlen runzeln hupen letzte jetzt heimelig grenzenlos</Line>
+<Line>entsalzen gelehrt ausziehen sezieren engherzig finanziell zehn namhaft salzarm</Line>
+<Line>neunzehn huldvoll zahm unverzollt anzeigen umzingelt zupfen massenhaft ahnden</Line>
+<Line>festhalten strotzend aufziehen aufseufzen zahn einhufig zumindest zentrieren</Line>
+<Line>zufrieden fehlgehen verhehlen ungenutzt inhaltlos sehnig verrohen tonhaltig</Line>
+<Line>unverletzt platzieren vorziehen haaren einnehmend stehend ansetzen ausnehmen</Line>
+<Line>verletzt reihen sesshaft holperig herangehen zuerkennen jahrelang pelzig enthaupten</Line>
+<Line>langohrig verhindert geheuer dazu anhand sehr reizen einziger musizieren angenehm</Line>
+<Line>vornehm fehlerlos versetzt rothaarig umgehen zerkratzen drehend hierzu</Line>
+<Line>ungelehrt zuteilen salzlos herkommen heiligen versalzen zerfetzt untersetzt hoffen</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>kubanisch absacken abschicken machbar bedenklich abdecken blechen</Line>
+<Line>obdachlos schreiben achtgeben biblisch befruchten beschuht beschatten</Line>
+<Line>blicken beschirmen beschicken scheinbar biologisch albanisch abstecken aschfarben</Line>
+<Line>schiffbar bauschig barock abbrechen belauschen erblicken schlabbern brach</Line>
+<Line>absichern abschaffen besinnlich hochbegabt blockieren buchen schubsen</Line>
+<Line>abschlagen abscheiden beichten unbedeckt baskisch bescheiden nachbilden</Line>
+<Line>bocken aufblicken befrachten ausbrechen abgleichen abschirmen karibisch</Line>
+<Line>botanisch altbacken umbrechen bedeckt bestechen brechen hochbetagt bleichen</Line>
+<Line>bauschen behaglich abhorchen befindlich abendlich hochheben baulich beklecksen</Line>
+<Line>leiblich unbedacht bayrisch brauchbar rebellisch berichten abkochen brackig</Line>
+<Line>betucht berechnen berauschen beschmutzt nachgeben beschaffen unbeachtet</Line>
+<Line>erbaulich unbefleckt schaben backen barsch begleichen buckelig abrichten vergeblich</Line>
+<Line>bedacht schrauben zerbrechen anbacken absprechen beharrlich bereichern befeuchten</Line>
+<Line>beruflich brachial amphibisch vorgeblich herbstlich serbisch besuchen betrachten</Line>
+<Line>obgleich pausbackig abrechnen bedecken abschaben beimischen symbolisch beleuchten</Line>
+<Line>absuchen britisch abdichten fruchtbar gebraucht bleich abflachen zuschieben gebrauchen</Line>
+<Line>begehrlich bauchig benachbart abpacken bescheuert baltisch abschalten besprechen</Line>
+<Line>berechnend sibirisch bildlich beschenken lieblich anbrechen verbraucht gelblich</Line>
+<Line>abschieben bechern abmachen einbuchten bockig beachten abdrucken angeblich</Line>
+<Line>beschissen brauchen abbuchen behorchen losbrechen beflecken abtrocknen beschlagen</Line>
+<Line>verbuchen rabbinisch schrubben abzeichnen zerbrochen sterblich bedrohlich berechtigt</Line>
+<Line>beknackt diebisch ablecken beobachten lesbisch beschallen libysch befleckt binomisch</Line>
+<Line>abschotten kubisch bedruckt blaumachen nachgiebig beschmiert bezeichnen abstechen</Line>
+<Line>ehebrechen abhacken besticken buschig arabisch obschon erheblich bucklig abrutschen</Line>
+<Line>einbrechen blockiert gebrochen barbarisch angebracht siebenfach erblich belgisch</Line>
+<Line>einbrocken schnauben erbrechen bedachen sichtbar ausbuchen akribisch</Line>
+<Line>aufbrechen grabschen schieben baugleich beleuchtet beachtlich erbleichen</Line>
+
+ </Level>
+ 
+  
+ <Level>
+	<!-- 14 -->
+ <NewCharacters>q</NewCharacters>
+<Line>fangquote reliquie quergriff quellkraut qualitativ aquarium</Line>
+<Line>quaken quadrant quittung quasi querdenker requiem</Line>
+<Line>qual quantum querelen kolloquium marquis quartett querulant</Line>
+<Line>querflinte quadratur quark quartal quotieren kaulquappe</Line>
+<Line>quittieren magerquark faq qualle quaddel qualvoll quer</Line>
+<Line>quartier sequoia quasseln querlenker qualmen aufquellen</Line>
+<Line>quadrat quelle quirl queller liquidator quotient quendel equipment</Line>
+<Line>mannequin aquarell quersteg querformat quellen quote</Line>
+<Line>quersumme liquid quintett quitte quirlen quell quader quorum</Line>
+<Line>qualm quast quinte quant requisiten konsequent quaste</Line>
+ </Level>
+ 
+ 
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>w</NewCharacters>
+<Line>rechtswidrig  verwahren weismachen walten hochwertig verschwenderisch</Line>
+<Line>wechselseitig abwaschen preiswert verzweigen bewaffnen schluckweise</Line>
+<Line>wirbellos woraus auswendig versuchsweise hinauswerfen lauwarm</Line>
+<Line>verwunderlich wetteifern wiederaufladen erzwingen beweisen abschwellen</Line>
+<Line>mittwochs forstwirtschaftlich wehtun beschwichtigen einfachwirkend liebenswert</Line>
+<Line>weglaufen zweizeilig beschwipst altersschwach verwundet gewiss wollen</Line>
+<Line>zweigeteilt anzweifeln bemerkenswert wohin wiedererlangen hochentwickelt</Line>
+<Line>zweimonatig schwedisch sonderbarerweise abweisend angewidert wieder</Line>
+<Line>zwielichtig wittern wegfallen vollwertig nachweisen rechtswirksam wiederverkaufen</Line>
+<Line>verschwunden wiedererscheinen gewieft verwittern verwechseln wuchernd</Line>
+<Line>verwerfen verwirrt zweiwertig wild wattieren unterwandern aufzwingen unterwerfen</Line>
+<Line>artverwandt dieweil weiterfahren wiederum werfen zweifellos bisweilen twittern</Line>
+<Line>widerhallen widrig zweckentfremdet weitschweifig wenn wellig wetzen schlafwandeln</Line>
+<Line>einstweilen gewaschen wohlverdient pflichtbewusst zweitausend verzweifeln welken</Line>
+<Line>insoweit nichtsdestoweniger weithin weise ausweichen verweben bezwingen</Line>
+<Line>abwehren entzweien einwertig nachtwandeln warnend wohnen waagerecht winzig</Line>
+<Line>wenngleich verschwimmen aufwachen irgendwo erzwungen schwirren wahrlich</Line>
+<Line>abwarten verschweigen weinerlich weswegen abschweifen wulstig ausgabenwirksam</Line>
+<Line>wirtschaftlich wiederkommen wickeln minderwertig verewigen schwappen gewinnen</Line>
+<Line>unwiderstehlich beantworten wegwerfen abwischen wasserarm unterbewertet wichtig</Line>
+<Line>verfassungswidrig wehleidig schwefelig unwiderruflich langweilig weitergehen soweit</Line>
+<Line>verwundert gewaltig zwangsweise widersprechen abwracken schwelen wenigstens entwickeln</Line>
+
+ </Level>
+ 
+  <Level>
+	<!-- 16 -->
+ <NewCharacters>x</NewCharacters>
+<Line>lexikographisch existent experimentieren existieren exzellent</Line>
+<Line>extravertiert faxen textil exotisch paradox dreiaxial extrapolieren</Line>
+<Line>heterodox exklusiv behext exzentrisch explodieren sexistisch</Line>
+<Line>konvex extrahieren toxisch flexibel boxen exakt sexuell taxieren</Line>
+<Line>unflexibel orthodox oxidieren extensiv exzerpieren behexen experimentell</Line>
+<Line>reflexiv extremistisch koaxial mexikanisch exzessiv lax oxydieren</Line>
+<Line>kontextbezogen koexistieren maximieren existentiell hexen</Line>
+<Line>marxistisch heterosexuell verhexen komplex toxikologisch extern</Line>
+<Line>maximal mixen explizit fix verflixt extrem luxemburgisch fixieren</Line>
+<Line>lexikalisch eloxieren exhumieren exkommunizieren fixiert extravagant</Line>
+<Line>exogen exportieren expansiv verhext exponentiell perplex extra fixieren explosiv</Line>
+
+ </Level>
+
+ 
+ <Level>
+ <!-- 17 -->
+ <NewCharacters>ö</NewCharacters>
+<Line>abschwören herkömmlich tödlich abhören kreisförmig gehören fördern möglich</Line>
+<Line>löslich abtönen gekörnt nördlich entwöhnen abtöten spröde ringförmig königlich</Line>
+<Line>beköstigen rautenförmig zugeknöpft höfisch tölpelhaft zweiwöchentlich unterhöhlt</Line>
+<Line>versöhnend förderlich tröpfeln abschöpfen blöd vermögend anhören tönen blödsinnig</Line>
+<Line>obszön sichelförmig verpönt unauflöslich schwören veröffentlichen löcherig</Line>
+<Line>köpfen vergöttern unkörperlich nörgeln herumnörgeln wunderschön kapselförmig</Line>
+<Line>manövrieren bevölkern löschen zerbröckeln vermöge getönt erröten mörderisch</Line>
+<Line>eröffnen töricht gehörig spindelförmig herauslösen bildschön einölen dazugehören</Line>
+<Line>störrisch schön stöbern schnöde gehörlos durchlöchert körnerfressend königstreu</Line>
+<Line>böswillig flöten zerstörend homöopathisch glatzköpfig ölen erlöschen</Line>
+<Line>nötigenfalls abbröckeln vergröbern abnötigen unveröffentlicht römisch</Line>
+<Line>tödlich röcheln betören ablösen auslösen porös zugehörig glockenförmig religiös</Line>
+<Line>zeremoniös persönlich frömmelnd hakenförmig gewölbt fördernd entvölkern zögern</Line>
+<Line>wellenförmig bewölkt sinusförmig unhöflich schlangenförmig trösten verstört</Line>
+<Line>föderativ intravenös menschenmöglich ungelöst kugelförmig fröhlich auflösen</Line>
+<Line>zerstören anpöbeln körnen verzögern völlig argwöhnen klöppeln ausschöpfen</Line>
+<Line>hören verzögert trapezförmig verblöden unaufhörlich zerbröseln zuknöpfen</Line>
+<Line>stöhnen auslöschen tödlich unerhört durchlöchern abhörsicher fröstelnd</Line>
+<Line>gewöhnen geöffnet mysteriös verknöchert stören töten schöpferisch dickköpfig</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 18 -->
+ <NewCharacters>ä</NewCharacters>
+<Line>einschläfern abhäuten verhärtet schwärmen färben befähigen unverträglich</Line>
+<Line>eigenständig nämlich volljährig vierjährig hauptstädtisch gänzlich bestätigen</Line>
+<Line>unbeschädigt zahlungsfähig unterjährig durchtränken ländlich abträglich belästigen</Line>
+<Line>abzugsfähig zählen färben verdächtigen aufschäumen einschlägig porträtieren</Line>
+<Line>verhätschelt verschwägert währenddessen blutschänderisch einschränkend umständlich</Line>
+<Line>auswärtig ungefähr nachäffen abräumen zufälligerweise vergegenwärtigen selbstgefällig</Line>
+<Line>wässrig vortäuschen fähig gegenwärtig sekundär siebzigjährig kräftig vorstädtisch</Line>
+<Line>einäugig gelähmt schrägen konkurrenzfähig buchstäblich präpositional lästern</Line>
+<Line>freihändig wählerisch rumänisch abschäumen täuschen abzählbar aufwärts imprägniert</Line>
+<Line>zuhängen näselnd dichtgedrängt angelsächsisch blättrig unschädlich hänseln</Line>
+<Line>talabwärts unbeschäftigt länderunabhängig nachträglich unverständlich zugänglich</Line>
+<Line>wärmebehandeln beschränkt vulgär äthiopisch durchhängen beschäftigt abzählen</Line>
+<Line>eingeschränkt bekämpfen vergrämt querschnittsgelähmt untertänig absägen</Line>
+<Line>wiederkäuend jährlich beängstigend prämieren dämmrig nächstes enttäuscht</Line>
+<Line>unzurechnungsfähig schlängeln fälschlicherweise unverändert militärisch mähen</Line>
+<Line>mittelständisch zuverlässig imaginär demnächst anhäufen versäumen reaktionsfähig</Line>
+<Line>träumerisch erklären grundsätzlich ernähren beäugen schmähen rechtshängig</Line>
+<Line>täuschend exportfähig verhärmt nähen betäuben bestätigend dienstfähig verträumt</Line>
+<Line>schmächtig spätgotisch vorgetäuscht längsgestreift anschwärzen bärtig sphärisch </Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>ü</NewCharacters>
+<Line>gekünstelt übergeordnet abschürfen entschlüsseln reumütig einhüllen</Line>
+<Line>gebührenpflichtig zerdrückt rühren abkürzen unübersehbar krümelig</Line>
+<Line>hinüberbeugen bürsten aufschnüren zusammenknüllen entlüften entführen</Line>
+<Line>prüde gestützt fühlen durchprügeln markerschütternd zücken grün ausrüsten</Line>
+<Line>verführen grüblerisch aufmüpfig ausdünnen überwiegend kümmerlich</Line>
+<Line>sensationslüstern heimtückisch demgegenüber prüfend überlesen verzücken</Line>
+<Line>worüber notdürftig urwüchsig verschlüsseln brüderlich zurücktun zerkrümeln</Line>
+<Line>zünden drogensüchtig überladen fünfte selbstsüchtig geschützt blutrünstig</Line>
+<Line>verjüngt würdevoll hinabstürzen nachprüfen selbstgenügsam brüllen niedergedrückt</Line>
+<Line>mürrisch zufügen abwürgen einflüstern zurückgeblieben aufwühlen überzogen</Line>
+<Line>kürzen zurückbekommen wünschen überlagern rückvergüten beschützen unwürdig</Line>
+<Line>südwestlich vergnügt abzüglich ungeschützt anlügen zerpflücken trübe gefühllos</Line>
+<Line>umstürzen tollwütig überschütten verehrungswürdig schwülstig verknüpfen betrüben</Line>
+<Line>bestürmen schützen überreizen mürbe ausgeschmückt gegenüberliegend einschnüren</Line>
+<Line>berüchtigt kürzlich befürchten übersiedeln ehemündig übergreifen feuersprühend</Line>
+<Line>spüren düngen unterstützend entzünden plündernd anfüllen zurückschicken</Line>
+<Line>überstreichen bedürfen genügsam denkwürdig günstig geprüft kühlend verfügbar</Line>
+<Line>einschüchtern zerklüftet üppig zermürben heldenmütig parfümieren überblenden</Line>
+<Line>ausklügeln verhütend vorschützen bedrückt rühmen unerwünscht abstützen übergeben</Line>
+<Line>ausnützen beflügelt wollüstig süffig abdrücken hineinschlüpfen volkstümlich dünnwandig</Line>
+
+ </Level>
+ 
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>ß</NewCharacters>
+<Line>süßlich verdrießen unbotmäßig ebenmäßig unumstößlich unrechtmäßig</Line>
+<Line>zusammenschließen großkotzig außertariflich größter geißeln routinemäßig</Line>
+<Line>reißfest abschließen begrüßen riesengroß gestoßen mutmaßlich anreißen</Line>
+<Line>siebenunddreißig berufsmäßig rausschmeißen zuckersüß gleichmäßig äußerst</Line>
+<Line>fleißig außereuropäisch vergießen herzzerreißend barfuß auseinanderreißen</Line>
+<Line>zurückfließen anstoßen anteilmäßig ausgießen großsprecherisch abreißen</Line>
+<Line>niederschießen büßen fahrplanmäßig fünfunddreißig größte stoßweise</Line>
+<Line>behelfsmäßig aufreißen weißlich veräußern zerfließen süßsauer verheißungsvoll</Line>
+<Line>schließlich dreißigster spaßig außerplanmäßig mittelgroß außergesetzlich aufstoßen</Line>
+<Line>außerstande maßgeblich anbeißen verfassungsmäßig planmäßig zerreißen vergrößern</Line>
+<Line>genießbar verstoßen angeschweißt unsachgemäß unzeitgemäß ausfließen abfließen</Line>
+<Line>abstoßen durchschießen gemäß vertragsschließend maßstabgerecht entrußen abgießen</Line>
+<Line>mäßigen vorschießen dreißigtausend fortreißen vorstoßen großherzig außerehelich</Line>
+<Line>beschließen standardmäßig gutheißen spitzenmäßig satzungsgemäß weißen</Line>
+<Line>verhältnismäßig anmaßend neununddreißig plattfüßig begießen auftragsgemäß</Line>
+<Line>zufließen gewissermaßen maßvoll stoßen ausschließlich erschießen unverhältnismäßig</Line>
+<Line>äußern zweckmäßig großfüßig ausmeißeln meißeln schwarzweiß entblößt durchfließen</Line>
+<Line>gesetzmäßig beißen größtes mitreißend einschließlich abschießen vergrößert gemäßigt</Line>
+<Line>außerdienstlich weiß vierunddreißig groß geschweißt buchmäßig schweißtriefend</Line>
+<Line>außergewöhnlich entreißen verheißen größenwahnsinnig vorbeischießen einschießen</Line>
+<Line>herunterreißen müßig unbußfertig entschließen schließen veräußerlich naturgemäß</Line>
+
+ </Level>
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+<Line>Franke, Flame. Mittelmeer, Ostsee. Pole, Schlesier. Schotte, Serbe, Syrer.</Line>
+<Line>Tiroler. Mittelmeer, Harz. Rheinländer, Jura. Syrer, Baske, Braunschweig. Erzgebirge.</Line>
+<Line>europaweit, Georgier. Ghanaer, Katalane. Libyer, libysch. Magellanstraße, Malaie.</Line>
+<Line>Schweizer. Albaner, Andalusier. Libanese, Oman. Suezkanal, Westsahara. Wien.</Line>
+<Line>Skandinavien, Skandinavier. Afghane, Afrikaner. Ägypten, Apennin. Appalachen.</Line>
+<Line>Argentinien, Argentinier. Azoren, Balkan. Belgien, Belgier. Bermuda, Bolivianer.</Line>
+<Line>Brasilianer, Chile. Chinese, Cuba. Däne, Dänemark. Dolomiten, Dominikaner.</Line>
+<Line>Ecuador. Ecuadorianer, Ekuador. Ekuadorianer, Elfenbeinküste. Este, Falklandinseln.</Line>
+<Line>Finne. Franken, Franzose. französischsprachig, Grieche. Guatemalteke, Holländer.</Line>
+<Line>Honduraner. Honduras, Indonesier. Iraker, Iraner. Iraner, Ire. Isländer, Israeli. Israelit.</Line>
+<Line>Italiener, Japan. Japaner, Kamerun. Kolumbianer, Kolumbien. Koreaner, Kroate.</Line>
+<Line>Kuba. Kubaner, Lateinamerika. Lette, Lette. Lima, Litauen. Litauer. Mongole, Mongolei.</Line>
+<Line>Nicaragua. Nicaraguaner, Botswana. Niederlande, Niederländer. Norwegen.</Line>
+<Line>Norweger, Österreich. Österreicher. Pakistaner, Panamakanal. Paraguay. Paraguayer.</Line>
+<Line>Peru, Peruaner. Portugal. Rumäne, Russe. Schwede. Schweden. Schweizer. Senegal.</Line>
+<Line>Slowake. Slowakei. Spanien. Portugiese. Spanier. spanischsprachig. spanischsprechend.</Line>
+<Line>spanischsprechend. Südafrikaner. Südamerika. Surinam. Taiwan. Tansania. Togo.</Line>
+<Line>Tokio. Tonga, Toskana. Tscheche, Spanierin, Tunesien, Türke. Ukraine. Palästina.</Line>
+<Line>Ukrainer, Ungar. Uruguay, Uruguayer. USA, Venezolaner. Venezuela, Vietnamese.</Line>
+<Line>Vogesen. Ägypter, Amerikaner. Araber, Arabien. Aragonier, Asturier. Edinburgh.</Line>
+<Line>England, Europäer. Färöer, Großbritannien, Hessen. Lissabon, Marokko.</Line>
+<Line>Mexiko. Moskau, München. Nizza, Oberpfalz. Peking, Philippinen. Polen, Prag. Rom.</Line>
+ </Level>
+
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>Großbuchstaben</NewCharacters>
+<Line>Familienstand Rotfußfalke Höchstgewicht Bremsleuchte Halbschuh Abstellvorrichtung</Line>
+<Line>Trefferliste Staubring Individualität Plakatwerbung Bundeskriminalamt Beispiel</Line>
+<Line>Drehbuchautor Budgetverwaltung Tyrannei Statistiker Kernbrennstoff Stoppelfeld</Line>
+<Line>Winkelmaß Unähnlichkeit Zensur Betragsberichtigung Stromerzeuger Kolben Grundschule</Line>
+<Line>Fixieren Faktor Spielfilm Talfahrt Ölquelle Schöpfer Böschungswinkel Uhrzeiger Bankkonto</Line>
+<Line>Endauslieferung Zuvorkommen Moor Ausfüllen Pausenmodell Versicherungswert</Line>
+<Line>Materialbewertung Verdienst Zahnfleischbluten Schatzamt Kleinstunternehmen</Line>
+<Line>Konkurrenzfähigkeit Großschreibung Festhalten Foyer Plünderung Kosmologie Urschrift</Line>
+<Line>Plutonium Kuhstall Schuhriemen Zitrone Ausbruch Bauchspeicheldrüse Schaustellung</Line>
+<Line>Barde Schindeldach Sonderschicht Geographie Kilowatt Erweiterungssteckplatz</Line>
+<Line>Selbstunterbrecher Türpfosten Großzügigkeit Elf Alkoholiker Liegestütze Buchhandlung</Line>
+<Line>Fuhrwesen Sprachgrenze Einfältigkeit Impfung Zahnreihe Rheinländer Braten</Line>
+<Line>Industrialisierung Weißbirke Briefwaage Balkendiagramm Veruntreuung Maultrommel</Line>
+<Line>Bunsenbrenner Verarbeitungsindustrie Abschwörung Quartalabschluss Gewinnzuwachs</Line>
+<Line>Würde Hochverfügbarkeit Scharren Schlüsselteil Ernennung Gesinnung Personalausweis Begegnung</Line>
+<Line>Randalierer Flügelrad Aussterben Teppichboden Notizzettel Mumps Dung Revanche Tadel</Line>
+
+ </Level>
+
+ 
+
+  
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>einige Sätze</NewCharacters>
+<Line>Wasser ist als Flüssigkeit durchsichtig, weitgehend farb-, geruch- und geschmacklos.</Line>
+<Line>Wasser ist die einzige chemische Verbindung auf der Erde, die in der Natur als Flüssigkeit, als Festkörper und als Gas vorkommt.</Line>
+<Line>In der Natur kommt Wasser selten rein vor, sondern enthält meist gelöste Anteile von Salzen, Gasen und organischen Verbindungen.</Line>
+<Line>Der menschliche Körper besteht zu über 70 % aus Wasser.</Line>
+<Line>Im Jahr 2019 erklärte das Weltwirtschaftsforum Wasserknappheit und ihre Auswirkungen als die größte Gefahr des kommenden Jahrzehnts.</Line>
+<Line>Wasserknappheit als Resultat von Übernutzung wird vor allem durch die Landwirtschaft und hier vor allem durch die Viehzucht verursacht, aber auch durch die Industrie.</Line>
+<Line>Ein Großteil dieses Verbrauchs wird durch indirekten Wasserverbrauch, zum Beispiel in der landwirtschaftlichen oder industriellen Produktion von Konsumgütern verursacht.</Line>
+<Line>Der Eisbär (Ursus maritimus), auch Polarbär genannt, ist eine Raubtierart aus der Familie der Bären (Ursidae).</Line>
+<Line>Das gelblich-weiße Fell stellt in eisigem Umfeld eine Tarnung dar und besteht aus einer dichten Unterschicht und den äußeren Fellhaaren.</Line>
+<Line>Beim Körperbau unterscheiden sich Eisbären von anderen Bärenarten durch einen langen Hals und einen relativ kleinen, flacheren Kopf.</Line>
+<Line>Eisbären sind tagaktiv und vor allem während des ersten Tagesdrittels in Bewegung.</Line>
+<Line>Der Uhu (Bubo bubo) ist eine Vogelart aus der Gattung der Uhus (Bubo), die zur Ordnung der Eulen (Strigiformes) gehört.</Line>
+<Line>Der Größenunterschied zwischen Männchen und Weibchen zeigt sich auch bei der Flügelspannweite.</Line>
+<Line>Die größten Verursacher von Lichtverschmutzung sind Großstädte und Industrieanlagen, die die Nacht durch Straßenbeleuchtung, Leuchtreklamen, Videowände, Flutlichtanlagen und Industriebeleuchtung erhellen.</Line>
+<Line>Insgesamt sind mehr als 80 % der Weltbevölkerung von Lichtverschmutzung betroffen, in Europa und den Vereinigten Staaten sind es über 99 %.</Line>
+<Line>Auf Inselarchipelen sind vor allem junge Seevögel wie Sturmtaucher oder Sturmschwalben durch Lichtverschmutzung gefährdet.</Line>
+<Line>Pflanzen werden durch eine künstlich aufgehellte Umgebung in ihrem Wachstumszyklus beeinflusst: Was bei Zuchtpflanzen in Gärtnereien durchaus erwünscht ist, kann für empfindliche Naturpflanzen zum Problem werden.</Line>
+<Line>Als Lärm oder auch Krach werden Geräusche (Schall) bezeichnet, die durch ihre Struktur (meist Lautstärke) auf die Umwelt (insbesondere Menschen) störend (Störschall), belastend oder gesundheitsschädigend wirken.</Line>
+<Line>Lärm kann den biologischen Rhythmus (siehe auch Tag-Nacht-Rhythmus) stören (Ruhestörung) und Schlafstörungen verursachen bzw. fördern.</Line>
+<Line>Magnesiummangel verursacht aufgrund der zahlreichen Körperfunktionen des Magnesiums meist mehrere Symptome gleichzeitig, so dass man von einem Magnesiummangelsyndrom spricht.</Line>
+</Level>
+ 
+ 
+ 
+ </Levels>
+</RasytiLecture>

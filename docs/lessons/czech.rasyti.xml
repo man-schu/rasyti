@@ -1,0 +1,888 @@
+<RasytiLecture>
+ <Title>čeština</Title>
+ <Comment>created by Manfred Schulenburg</Comment>
+ <Levels>
+ <Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+
+
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+
+<Line>sedadla leskle jedle lilii kdes lidi ideje sedlal aleje lilek sekali</Line>
+<Line>ledajak jedli seje jede klasik jedl kakai klade klid jeli seslal lesk</Line>
+<Line>leji sekla lilie leda kila kdesi jela kladli lekl klesla idea klesl sele</Line>
+<Line>kalili laika jaksi jesle ladili sedl laik asii klesal idei sedle sesedli</Line>
+<Line>alias lije klasika sedadle sedali asie lekla klekl sedla sekal sedli</Line>
+<Line>selka kafe klesala ledek seda kile lese lila leje sedadel leka lesa</Line>
+<Line>klika jedla seli sejde lesk idei lidi kdes lije seli lilie kdesi laik selka</Line>
+<Line>jeli ideje lekla lese jedla leje sekal sele leji sedle sedlal klasika klesl</Line>
+<Line>ledajak klesla kalili leskle jede ledek klekl klade kila aleje kafe sedadle</Line>
+<Line>asii sedl lilii sedadla sejde kakai klesala jesle jedli sesedli sedli lila seda</Line>
+<Line>leka idea seje lekl jedl seslal kile klika sedla sekla klasik laika kladli asie</Line>
+<Line>klid klesal sedali lilek lesa ladili alias leda sedadel jaksi jela sekali jedle</Line>
+
+
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+
+<Line>nasaje lenin jednali nasadila odnes loje aloise odejela jednal kadidlo jakkoli</Line>
+<Line>odsekl koleno klene nosili neslo sedne jedna odnesli jelo onen kolej koleji</Line>
+<Line>nedali nesli neklekli odejdi odladili jedlo linie jednala</Line>
+<Line>jelen najela odjelo neseno oleji jednak odejde oklik nose osada</Line>
+<Line>kolona nesen lokl nedojede kosi sena kola oddal jelene kolonie nejinak</Line>
+<Line>nasedne kdekoli jedena oleje klesne naklonila neodjel nenese kose odjede</Line>
+<Line>naklade linek kino seno kolonek nalil odnesl jako kofein odklidil sedadlo nedodal</Line>
+<Line>nikde jasno nalila nedal klisen nasadili nalodili nasedali odejel</Line>
+<Line>osle nanosili najedl naklonil anno jinak jinde osel koleni osedlali linolei</Line>
+<Line>saldo odsedla nanesena linii najeli nedaleko nasedlo kina kladen jasnilo</Line>
+<Line>odsekla nikoli onak nedej kakofonii nejedli kdekdo odklon</Line>
+<Line>kasin koleje nesnadno idol odjela nalije jedno nejedl okolo jinan najdi</Line>
+<Line>olej nekladli lososa jednalo lodi neodnesli kolos kilo neodjeli najde kolosea</Line>
+<Line>kole nesla seklo nekladl jeden nefandili jednej naklonilo nejednal nejelo</Line>
+<Line>ofsajd odklonil kolen nelenil neodolal line nenasadila nakladla oken</Line>
+<Line>nasekala kdosi kdokoli nedosadili nasedl nosila kloak kolo nejednala jelena anakond</Line>
+<Line>nejsi nosil nejel osad loni kolonii neklesne kosa klonilo nedala sedlo odeslal</Line>
+<Line>ananas nesejde jane sedni nesnilo odeon nejela odolala losos jeleni kasina neskonale</Line>
+<Line>kladena odjel nasedli lana konalo odsaje leskne oslnil kolena neklid</Line>
+<Line>konala nakolik nejedla kojila anoda neklesla koni nade nejedno lidojedi lalok</Line>
+<Line>kolonka nesl naoko nedokonale nedalo odklad okno odnese linka kakao odskok kolik</Line>
+<Line>kolika nasadil nedojel seskok najede kloaka najali linolea odjeli lanka odnesla</Line>
+<Line>konal najel nadejde nejde nekonal ledna naladila okna leden lano anakonda nejede</Line>
+<Line>najedli nesedne nedojde nekonalo lanko neklade osla jasna neneslo nefandil nenesl</Line>
+<Line>kiosk nenajde najal nejen nijak jedni sako nejdokonaleji nikdo nese kolek sedalo</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>rafinerie krmili semeni oral nejenom lankem maminko mini</Line>
+<Line>narodilo kraje nikam milenek nedojme koloseem kormidle kameraman</Line>
+<Line>makrele krajin orali jenom rej karosa nemine rakije osadami</Line>
+<Line>nosem misi komora aerosolem okraden krajane kadmii</Line>
+<Line>sardele klaksonem nenajdeme roklemi semen majora kord masek</Line>
+<Line>rak neradi miskami kreslen jasem krmil klademe semlelo narodil</Line>
+<Line>radikalismem melodie kronika sardinek nemrkla neodradila melodiemi</Line>
+<Line>memoranda mloka nekrmil lomila kolmo krajanem jara karas</Line>
+<Line>nejedeme kajmani mokra kradli jasnem omdlel ledolam modelem mankem</Line>
+<Line>sedneme mimika akademikem klidem nakreslila norem marek nedrala</Line>
+<Line>rodem rasami nalomen narkomanem najdeme jader kra okrsek</Line>
+<Line>maniak korida masa rodil jsme linoleem milodar narkomanie ramena idolem</Line>
+<Line>linkami komorami ideami sami narodila jaro nalijeme</Line>
+<Line>komisi okradla rok nakreslil kamenem narkomane orle nim saldem lord rasa jimi</Line>
+<Line>nenarodilo milenka ironii omak nerad ananasem rada mami akademie rodea</Line>
+<Line>orel reji morfii miliarda kamsi lomem mikroklima neseme risk</Line>
+<Line>nasedneme kradla medaile semele mim nakrmila lidmi nerada kinofilm</Line>
+<Line>laikem mlok narkomani mamka mol iridiem okradl narodili mrkl ronili</Line>
+<Line>mase okraje lordi kilem kalifornii masami semene kamer krkem mandlemi</Line>
+<Line>liniemi nejdeme kalifornia oslem oknem kamene okraj jakmile miminko rodili</Line>
+<Line>maminkami mono semenem kormidlem mikrofarad semena jarem rodinka ranilo</Line>
+<Line>ramen kolem nenarodili komandem nimi kadmiem lamelami kosami</Line>
+<Line>kolenem iridia mdle radami mlaskl oralo koridor mlelo jinam nadme</Line>
+<Line>rod jedem komikem ramene nejmileji odradil ros osmi minimem kamera kreslila</Line>
+<Line>kros oklikami rokle kajman odrolem mileji oklamala odmala akademika korek mas mor</Line>
+
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+
+<Line>mladosti identifikovala orient realita nalevo kolonialistovi</Line>
+<Line>manifestovat okolnostem nejtrvaleji motivovat majetkem majiteli</Line>
+<Line>netvorova odvedl neidentifikoval kolektiv artisto aktivitami rostla</Line>
+<Line>jalovina asistovat netrval jmenovali nositelka artista nemodifikovali</Line>
+<Line>namontovat neovlivnili nesetkalo aristokrat klasikovi rasistovi artistovi</Line>
+<Line>odolnosti rasisto jevilo rekreantem okolnostmi kladivo revolverem infikovat</Line>
+<Line>namaloval laskavost investoval intrikami otvor konformista latina informovala</Line>
+<Line>konat aktiv jednatelova kotvit motorista nedovedl narkomanovo matadorem</Line>
+<Line>ovlivnil krovek infarkt atraktivnosti lidstva krasotinka nakladatel</Line>
+<Line>morfinistovi ostrovana nedotkla otestoval realistovi rovna metodik nalodit monster</Line>
+<Line>odvodil atletika nerovnostmi motovidlo kravata satanem informatika</Line>
+<Line>rentami jevit idealistova artiklem asfalt artistova nestanovila moralista</Line>
+<Line>nemrava senilita neefektivnost lemovali oslnit melivo nedostal nekvalitnost</Line>
+<Line>koledovat larva neinformovanost selata oliva identit kontrolami otrlosti</Line>
+<Line>motal loterii kredit alternativ neomalenost kontrolovali infinitivem nestorem jadrnosti</Line>
+<Line>natrvalo kotlem astronomovi oklamat netrefil realista majitelova namotejte</Line>
+<Line>investovat navodit neratifikoval nedovedete informoval kvasinek rostlin metronom</Line>
+<Line>sektor referente neklekejte nestavte redaktora kosova nikotin kotev</Line>
+<Line>monitorem klasikovo levnost intrik kvadrantem matematikovo investorova rektore</Line>
+<Line>kolovala kosti jednotlivostmi nedovolila krajanova nemilost nejste rasistova odvolal</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+<Line>majetku krajinu milosrdnou potomstvem protokolu odstoupit</Line>
+<Line>politikovo louku milujete poklesli implikuje propukla napsala nudit</Line>
+<Line>aspirovat muset neupravuje poklesek normu osopila riskuje paritu</Line>
+<Line>profesoru plutonia neklidu omluvenou optimista rentu radu sektoru</Line>
+<Line>naklepeme projedou plavidla praktik karavanu patent plev pintou</Line>
+<Line>postoji odpor optimistou kajut odfukoval plivat postup</Line>
+<Line>odtamtud kolosu protiklad intelektu lopatu koukali moskevskou</Line>
+<Line>kulminoval pop namaluji satanu poklusem politikovi aktivujeme</Line>
+<Line>posuneme pedantskou posuvem podtlaku politikova korkovou</Line>
+<Line>proti pivo kanadskou podle odmlouvat petrolej panenkou popil</Line>
+<Line>oponentovi rosu opakovat kdepak pavoukovi lanovou kufru</Line>
+<Line>kraluje oplatili louda neuvolnil ptala litevskou poskokem</Line>
+<Line>poklonu parametru rukomluva polena nevkusu poslalo povel</Line>
+<Line>koloritu pros sepsala protikladu projelo odpojit nultou kopl</Line>
+<Line>mikrofonu podlost automat krosu koupe autokar koukol jednomu konstatuje</Line>
+<Line>praktikuje podali letuje outsidera politikovu patronem napadat</Line>
+<Line>asketou apostrof plno poroste nedopadlo opilosti maturuje posuvu reklamou</Line>
+<Line>seknout potomkem nepodali lektorovou poranil patra sestavujte opakuje</Line>
+<Line>pravidlu sakura jevu proseknul prostou metodou putujeme operuje</Line>
+<Line>pletivem podnikovou komunardem promlsat postavena kompot projektu</Line>
+<Line>juniorovi profilu podmanit partou aut nepravda reklamu konfliktu kompletuje</Line>
+<Line>polapili autem rusistou postojem promineme projektor odpustila kutilu periodika</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>ignorujeme anglofil katalogem logaritmus neurologa orangutani</Line>
+<Line>paragrafem autogram metalurg liturgii rentgenu argumentem ideologova</Line>
+<Line>analog programuje reguluje logik analogii monologu ring</Line>
+<Line>prolog nereagoval rentgen organismem kongres ideologovi legenda</Line>
+<Line>kolegovou pedagogiku negovanou astrologu logiku algoritmem</Line>
+<Line>igelitovou ideologu legie alergie argumentu nefungoval propagovat</Line>
+<Line>lagunami paragrafu korigovat orangutan kolegu pedagogova metalurga</Line>
+<Line>orangutanu omega inkognito regionu magnetem orangutana pedagogovi</Line>
+<Line>pedagogika legend ignorovala reagovat lagun segmentem astrologa orgiemi</Line>
+<Line>argument kolegiem podprogram kanagon prognostik segmentu</Line>
+<Line>ideologa prologu organismus pigment reagovali pigmentem</Line>
+<Line>antropolog regeneruje meteorolog propagoval magnetofon anglofilu navigovat</Line>
+<Line>nostalgii kolegii ligou pergamenu nereaguje ignorovat reaguje</Line>
+<Line>kardiologu ligu privilegia neurologu paragraf pedagog orgie lstg algoritmus</Line>
+<Line>morfologii ignoruje kilogramu kolegovu metalurgem analgetika reagovalo</Line>
+<Line>programem ignoruj pedagogem ringu avantgardu kolegova ignoroval</Line>
+<Line>kartografa kolegovo omegou liga prologem katalogu integrovat ignorovali</Line>
+<Line>apologeta anglofilem kolegiu registru algoritmu igelit</Line>
+
+ </Level>
+ 
+<Level>
+ <!-- 11 -->
+ <NewCharacters>y</NewCharacters>
+<Line>karty napojeny kulomety ostny nemysleme panenky ryk norsky autority</Line>
+<Line>samoty mytologie lososy autokraty mykologova kutilovy odepsaly seniory</Line>
+<Line>nevyrovnal odkryla jmenovaly nevysadila pleny pokynula podtypu pevniny</Line>
+<Line>nastydnout odmysli posypou medoviny novy ideologovy nikdy rty nedomysli</Line>
+<Line>lyseji segmenty klepadly anonymem rysu nesly neunikly odpady odnesly</Line>
+<Line>krmivy rydlo roury kyselou monopoly nenapadaly lyrikovo nepomyslil</Line>
+<Line>praporky mysem sedadly kursy nesmysl jedny proslovy myslilo rusistovy</Line>
+<Line>opsaly produkty internisty myslit pekly rakovy nepomyslel plameny</Line>
+<Line>pseudonymy omyl savany prasaty kreslily kysanou rysy polykat</Line>
+<Line>komponenty potomkovy propriety noty organismy atomy seskupeny kopyto</Line>
+<Line>kostry kroniky kvartety lumkovy pletly kdykoliv odklady nevypadne</Line>
+<Line>pokrmy rydly navyknout nekonaly podsady pokrytou pokryty prsteny kresleny</Line>
+<Line>nepovolily klasy sekyry akvaristy nevyskytne provedeny reformy</Line>
+<Line>metodiky povyrostu plemeny mravy paragrafy pony kyselina sedaly kostky</Line>
+<Line>olovy milimetry promyslel maturity potvrdily kroupy poryvy pokryje nasytily</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>zh</NewCharacters>
+<Line>muziku nevyhovuji mizely nahrazuje poukazuje mnohem kazet nahrnuli</Line>
+<Line>hlasu hmatu nepomohou mizinu rozumovou hranostaj rozpadne hotovi</Line>
+<Line>alkoholem rozpoutal mrznout hladina hlavy roztopili odjezd hafniu kozy</Line>
+<Line>hrstkou rozvahy rozhledny selhaly rozdrtit odsouzeni odhalen</Line>
+<Line>osazujeme hlomoz nadlouho narozen odhalovaly knihu odrazit</Line>
+<Line>neznamenal odsuzoval navazuje nepohltila nasazuje hltanu povahu</Line>
+<Line>hop pozorujeme poukazu rozpravy okruhovou hraje pohromy humusu</Line>
+<Line>jezem neklouzala nevzpomene rozvinuty horaly mazadlo lezl mrzutou</Line>
+<Line>hravou nevymizely nesklizena pohnutky hnojivy kvizu jih hrady</Line>
+<Line>pohnul rozmotej hostovu leh hmota heuristika horalovo hnaly pomohlo</Line>
+<Line>hranostaji holek holdoval jazz pozvedlo rozvoje rutheniu horlivou nazval</Line>
+<Line>nervozity lhal nohu hastrmana pinzetou nezeptal metafyziko odrazilo</Line>
+<Line>lithiem hastrmanu pohrozil nestihl hmyz mosaz hranu hroznou proklouzla</Line>
+<Line>hafniem rozmluvit iluzemi rozpustili krizi pahorku rozrostly harmoniku hostitelka</Line>
+<Line>rozmrzeni hladem horalovu nevrzal nemohlo hymny phdr harmonika</Line>
+<Line>konzola rozvrhu prorazila nemrzli lezli podjezd mezivrstvu poznali holi odvezu</Line>
+<Line>rozmrzeti kazajkou neznali rozhodl horu rozvodu hrot rozptylu handrkovat lehkou</Line>
+<Line>hodinku nalezena okouzlilo lhostejno kalhoty nenavazuje mnoho hranou hrom</Line>
+<Line>hady rzi opozdily nahoru mazivem pinzety rozvozu havany odhadem</Line>
+<Line>popruh mrazy hormony nedohonila hlasy posluha osazenstvo navazoval plzni</Line>
+<Line>hymnu neukazuje napomohly poznamenej hostitel nenalezne prohrajeme</Line>
+<Line>rozpustil nenahradil nenarazili kalhot alkoholu humnem muzeum prezentuje</Line>
+<Line>hekla rozvinuli horalovou hranami inzeroval nazad hrazen motouz omezeno</Line>
+<Line>nestihnu neomrzla rozplynuly rozkazu nemrzet nepohodl odhaluje hesly riziku</Line>
+
+ </Level>
+ 
+
+ 
+ <Level>
+ <!-- 14 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>nabyli barony poslechla obecnou produkce polednici hrabaty leckterou</Line>
+<Line>kompenzace racci minimech inscenaci kabele komplice milencem krupice</Line>
+<Line>obligace ozdobena reakcemi schylovalo kilobajt koptech obnoven osobnosti</Line>
+<Line>plachetky lakomec kooperaci kupcovo lichotek obdivuje momentech nachodili</Line>
+<Line>lichotka neubylo ocenil ropuchu lacino akrobata pozbyli hrdinech librety</Line>
+<Line>otrubami absolvuji nabyvatele pocity nemocnici kloubech sbohem ovulaci</Line>
+<Line>kojencovi obdiv ocas belveder opilcovy kombinace bahna nadstavby</Line>
+<Line>plavcem blankytu archa inspekce mravencova pobytem jubileum objet licence</Line>
+<Line>ruchu kolejnice poslechl oborech selekce mocnou obzory bilionech oboru psychika</Line>
+<Line>obal hrozbou kaplanech ocasy sekce obklopena klubku producenty</Line>
+<Line>probouzeti anglicky poslancovi samec akcentem obou nenechte restauraci</Line>
+<Line>nominaci koncertem procesorem pohybovou nectnosti projevech</Line>
+<Line>obraceni rozboru podroboval radnici oddechl myslivce nebudili</Line>
+<Line>psychologa bibliofila kostech pozlobit metodicky provozech ochrany</Line>
+<Line>atrakci puberta otcovo bezduchost obrovy pramenech inzerci</Line>
+<Line>pokrytec recitovat objektem pachole bezesnou kaloricky babi obinadlech kapitulaci</Line>
+<Line>bankami ledovcem neobjevil barium porotcem odcizili neurvalec okapech rozdrcen</Line>
+<Line>rozchodu azbuka plic ovcemi karabinou poruchami obraz nechovali rovnice metodici</Line>
+<Line>kytice plesech rybolovu pochytat prochodila nezbytnou nabobtnat bifteky pracuje</Line>
+<Line>obzoru schovanou karborundy sejfech blaho obalech nebrat sebevrazi psohlavec</Line>
+<Line>hloubi oblevami numerickou princeznu koalici leckam poslouchal kauci bidlech</Line>
+<Line>perokreseb bavilo mnich hypochondr baletka kumulace hlodavcovu povrchy blanska</Line>
+<Line>prskavec prezentaci blecha obrazovka odstavcem nedbalost akvizicemi letadlech bibliofili</Line>
+
+ </Level>
+
+
+
+
+
+
+  
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>q (English)</NewCharacters>
+	<Line>acquit quaver liquefy parquet torque squelch squeeze qualify baroque enqueue lacquer</Line>
+	<Line>equate equidae quark squirm squire acquire quat quartet chequer quote squash equator squirt</Line>
+	<Line>quilt sesqui bequest squeak pique equal quash requiem quirk marquee oblique inquiry inquest</Line>
+	<Line>equip quota liquor quorum liqueur equally quaint quicken opaque quay quarter cheque sequel</Line>
+	<Line>quiver squint enquiry query qualm quiet quince quintet equine brusque equable squinty sequoia</Line>
+	<Line>quartz mosque piquant quit equably quickly quip request conquer unique antique quern quintal</Line>
+	<Line>quake quinine aquifer queen require quack equated square quirky quarry quality aquatic queue</Line>
+	<Line>inquire bouquet quite squall quietly claque unequal quibble squally glauque quadrat enquire</Line>
+	<Line>squared liquid squid squat quinsy quetzal banquet quest plaque equity sequin quitter quench quarrel</Line>
+ </Level>
+ 
+ <Level>
+	<!-- 16 -->
+ <NewCharacters>w (English)</NewCharacters>
+	<Line>wood fowl wiring wine weed crew swaddle witch wart wanton eelworm sawdust wind eyebrow</Line>
+	<Line>fawn warfare stowing wobbly wake weigh warped world swamp swallow inward walkway two maw dew</Line>
+	<Line>whiff dewlap whistle pew wastage weekday fewer worn where working yawn wheat wallet await</Line>
+	<Line>cowed awe throw whose dowry owlet bigwig unscrew owe redwing tow warm hallow mildewy wedel</Line>
+	<Line>showily pathway mowing wear wigeon trawl towel swarf writer mugwort mower wrench ribwort</Line>
+	<Line>warrior dwarf wed wharf slew tweak twinkle town wedging snowman cowshed willful width browser</Line>
+	<Line>brawny gawkily wane tweed walnut whorl rowdy dawn jetway wading mew drowse swipe whether known</Line>
+	<Line>scrawl wire dowdy awl waiver untwist wedlock swear swathe awed swivel will woollen wan know</Line>
+	<Line>whimper wedge wolf wooly weakly own wander cowpat crowd wean vow narrow hollow uptown fawning</Line>
+	<Line>beware swig whirl gateway wriggle wicked warp crowded washy bewitch wasted which windy</Line>
+	<Line>fellow warlock morrow answer nephew claw widgeon avowal wick dowser</Line>
+ </Level>
+ 
+  <Level>
+	<!-- 17 -->
+ <NewCharacters>x (English)</NewCharacters>
+	<Line>mix fix vertex syntax hexagon extra exalt excrete fixture exhibit toxin exact dixie</Line>
+	<Line>styrax codex complex unfixed oxidize explode sphinx lexical influx axiom fixedly maximum</Line>
+	<Line>excited latex sexing expense taxi galaxy apex exalted exit gearbox context pixie sixteen expunge</Line>
+	<Line>extol texture fluxion flux mailbox axle anxiety larynx vortex exceed expanse anthrax relaxed expand</Line>
+	<Line>toxic excel oxidise oxide icebox equinox maxim exhale afflux examine helix box explain extrude marxism</Line>
+	<Line>relax boxing maximal convex expect hoax sexual perplex pixel annexed proxy exclude expose climax extent</Line>
+	<Line>reflux outbox exist exclaim telex oxidate buxom exempt narthex perspex exude cox expel mixing sixthly</Line>
+	<Line>cortex expert mixture moxie deluxe luxury exigent phoenix unexact text execute extort explore except</Line>
+	<Line>pixy fax sexy annex soapbox exile exhaust expired coccyx coax axed axe excite matrix calyx pretext</Line>
+	<Line>excerpt sexist lox exploit lax exposed bonxie toolbox tax coaxial fixator exam unfix flexure export</Line>
+	<Line>flexion foxtail pharynx inbox next exotic mixer expend extract sexton expiry sandbox exactly fixing prefix</Line>
+	<Line>oxygen cachexy sixth callbox kleenex exhort extinct jukebox paradox six expire thorax index pickaxe</Line>
+	<Line>boxer suffix coexist extreme example muskox dextrin axilla foxy sextant excuse xerox sex duplex</Line>
+	<Line>textile ibex affix sexism pixmap extend tuxedo exert exciter lynx taxable vixen mixed reflex fox bugfix phalanx</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 18a -->
+ <NewCharacters>ů</NewCharacters>
+<Line>pedagogům odchodům ostrovanům kohoutům mistrům hrůzy majitelů hercům</Line>
+<Line>podnikům argentinců motorům bassův nehtů kladivům poznatkům poutům</Line>
+<Line>rusův rublů milencův lhůta projetků prasatům policistům kutilům satanům</Line>
+<Line>asiatův nezůstanou pacientům průkazy nepokojů japoncův ideologům kůlnou</Line>
+<Line>sedadlům nezůstalo humnům půlkruhu autorův okupantův blůzka pesimistův</Line>
+<Line>pomůcku krasavcův hostům lektorů izraelcův samcům otců průniku průjmem</Line>
+<Line>napůl astrologům invalidův schůzku hroznům rozpaků atletům kontům rouchům</Line>
+<Line>referentů osivům narkomanův průrvy anarchistů katům satanův působnost hrdinům</Line>
+<Line>pozůstatků paprsků profesorův okrajům schodů kůstka referentův krojů rodokapsů</Line>
+<Line>registrům kaplanův působivou mudrců kancům průchodech půl růstu saldům</Line>
+<Line>průvan obkladů havranův pevnůstka jezdců půlnoc apostrofům hrůza pohovorům</Line>
+<Line>kmotrův pramenům prutům ledovců libovůli prostojů provinilců ostnů robotů</Line>
+<Line>opilcům pomůckami pijanům odrůdovou průvlaky rizikům ministrům pachatelů</Line>
+<Line>půjde heců půllitrem kanců klasikům můstek protonů sebevrahům baskům</Line>
+<Line>průjezd paprskům nudistův poradcův autokratův motivů původ pacifistům</Line>
+<Line>pacientův jedincův beranům mravenců postihů hlupcův půlminuta lotrům okům</Line>
+<Line>půlhodina lodivodů okruhům můrou odrůda hokejistův průzkumy průpravou</Line>
+<Line>průnikem revizorů retů horalův metalurgům rakův lumpů povstalců hospůdky</Line>
+<Line>kristův bilionům pevnůstky otvůrky půjdem kojencům marxistův rusistův redaktorův</Line>
+<Line>myslivců otcův resortům investorův postojů hůrka hitlerův hugenotů havranům</Line>
+<Line>hostitelův listům hostitelům metrům oblakům nepůjdou průtok rektorů krystalků</Line>
+ </Level>
+ 
+<Level>
+ <!-- 18b -->
+ <NewCharacters>ř</NewCharacters>
+<Line>proutkaře řinuly přestupky nepatřiti předtisk patřily odumřeleji kasaře</Line>
+<Line>kasař přichycen přijedeme přeplout přinucen nevyvařte nedopřejme</Line>
+<Line>nevykouřil přitiskla předpony peřeje opatřily neponořme přiřadili podařit</Line>
+<Line>hospodařte křupala převařila rektoři neutvořily řev převzatou přepluly</Line>
+<Line>připadnou postřik nespořme provařte přineste řadou nenakuř připravil</Line>
+<Line>přibudou protřepat neudeřit karikatuře neřeknu nevnořilo odřekl kouřil</Line>
+<Line>prohřeje neokřikuje přivedla představou obdařit neuvařily nedařili podezřelou</Line>
+<Line>povařil koulaře ředili nevnořili pořadovou neopeřiti přibelhal křeslem nakřivo</Line>
+<Line>hyřme naspořili přeplave potřebnou nakouřilo odřeknut kukuřici řemeslech</Line>
+<Line>přestřelce přivezete připojila rozhořel podbořany neuvařeno přenosovou</Line>
+<Line>nepřevařen nepřeji namořit nevařil řezankou hovoře přivazoval nepodpořme</Line>
+<Line>připustil nepřilnul kořenem rozředit navařen seřazenou připlujeme přibrzdilo</Line>
+<Line>přikrmovat přimysleti ohřev podepřenou kuchař přemlouval hřebci mořeplavbu</Line>
+<Line>přichystal přehledu povařeny ponoř povařiti neopatřily obdařiti převodovky</Line>
+<Line>odpařovat prohyřte předpisem řezy nekuř neuspořiti hřebeny provařiti proceduře</Line>
+<Line>hovořte překotnost neuzavřeme prokouřiti nejmodřeji přepych neutvořil pokřiku</Line>
+<Line>nehyř připsala bedřicha nepovařiti převezena nepovařily podpořilo obřady keře</Line>
+<Line>podpořili koulař přijat nevydařily řezivo proutkaři řeřichu přesilovka přeskupme</Line>
+<Line>receptuře přestoupil neudeřte připomenul otřesou kadeř kořistit přineslo moudře</Line>
+<Line>řazeny přihodit nehovořme přivodily křesel připojuje přehled nenavařen nezařadili</Line>
+<Line>přepravy ponořen kobře kuchařova přiřkl předstihla pokuřte převezou přebory</Line>
+<Line>řezanou rozvařilo přesunul nepřijedou křesly převrhly přepravit přisoluje nevytvořit</Line>
+<Line>nevykuř přelakujte přizvat přesilou přepadl nekouřiti otevřela přemysl obdařeny</Line>
+<Line>lotři ředitelce odpředu redaktoři přepsat sadař odumře převzala kuře podepřen</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 18b -->
+ <NewCharacters>ě</NewCharacters>
+<Line>pradědova opěradlem rozvětvuje nesolidně monolitně oběhem</Line>
+<Line>sdělila pozměněn andělovu popularitě neprospěch pozitivně</Line>
+<Line>hronově pěkněji pohromadě poutavěji naivně ovdovělou sběratelem</Line>
+<Line>porozuměti pevnině patě neproběhl bělorusovo podběhl autonomně</Line>
+<Line>rozměrněji někom podnětu pronikavě pamětlivi pletivě seděl pohromě</Line>
+<Line>invalidně knězovo němec seběhla hněv odběhnu jedovatěji plněněji</Line>
+<Line>odběru rozměrově hrozněji prostějova nechutně květinami neopomněli</Line>
+<Line>proměnlivo hubě jednotlivě měj nepověsili hněvy komisně nechvěl ledě</Line>
+<Line>selektivně běloruskem andělu konstantně kontinentě mocnině levicověji</Line>
+<Line>hraběnka seběhne naplněnou proměnili matěj hrabětovo obědy neznělo</Line>
+<Line>porozuměli jasněji odpovězte reliktně kompletně raně nezměněnou kousavě</Line>
+<Line>rtěnku sdělujeme interně pěvci pohodlně odběr korytě nejplaněji samovolně</Line>
+<Line>květech nespěchat nevybaveně pohostinně květinka intenzitě paměti objasněny</Line>
+<Line>květina obětuje odvětit pozorněji osvětou kajutě odpudivě nesměla němcovu</Line>
+<Line>poděly obětmi nerozuměl pětiny nenaletěli městu objemněji prostějov</Line>
+<Line>opravdově proděkani osamělost bělidlo posmutněla pokojně rozdělili nejnověji</Line>
+<Line>hraběti nitěmi beznaděj rodině hospodyně argentině rovnocenně pěstuji</Line>
+<Line>rozezněly proběhne heslovitě rozletět poděl bělidlu pohodě nastěhoval neuděluje</Line>
+<Line>hodnověrně medvědovi nezměrnou rezavě nevhodně maloměsto nezahaleně</Line>
+<Line>opevněna kolektivně korektně lichotivě medvěd rozdělenu poněkud obnově</Line>
+<Line>jedovatě nutně pohodlněji mluvě koloběhu bezradněji osaměl pololetně hněte</Line>
+<Line>nejtěsněji opraveněji rostlině obě neefektně objasněn kromě bezděky komorně</Line>
+<Line>osaměly rozhodněji petrohradě oběhla naděje krutěji mizině jazykověda nesměly</Line>
+<Line>pohotově neviděli laděněji palbě pohledněji medvědovu bedně pravicově horně</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 18 -->
+ <NewCharacters>š</NewCharacters>
+<Line>odrušit rozruš rušeny nevyrušeno netušila prokouše nezlepšiti osušte</Line>
+<Line>šablonou odešlou nezrušena ohništi myšleny korejština nevyšel leoš</Line>
+<Line>napište šedin šatstvem lišek nenavršil navyšme postrašit neodtušili</Line>
+<Line>odlišovali nenarušila neosušil nenarušit bazilišek nedovršen osušeno</Line>
+<Line>neodtušiti olšany šaškuje salaše neodlišili nevylepšen sešlo konšel</Line>
+<Line>mušlemi rušeni narušte nasušit revanšisto nepršelo neodrušiti pohoršil</Line>
+<Line>neodrušilo neporušeno prošla nedošel odstrašilo odlišena nadšencovy</Line>
+<Line>šatstvo nelišiti popište neosušen narušen pštros lišky našel sešitku poškodit</Line>
+<Line>šatech koše myšlenky poplašnou pohoršeno nezkoušeli ryška plošinu</Line>
+<Line>neusušte neodlišeno prošel pokoušeli mši hledišti netušiti neušla sešel</Line>
+<Line>myšlenkou neusušen postrašili oraništi jevišti šachovnici narušit šablonku</Line>
+<Line>prozkoušet letišti nestrašit neodlišen kašny letošek odstrašila pochoduješ</Line>
+<Line>napišme rozlišil nepolepšil šerosvitem beruškami nedovršiti rozrušeno</Line>
+<Line>šachistova netušili hastroš povšimnout nešikovu nevršiti porušili lišit litomyšl</Line>
+<Line>neslušelo lišili nepište porušenou nejtišeji nenarušuje prošijete angrešty</Line>
+<Line>nezvyšovat pušky nezmenšuje našincovo macešky nesušena neušly porušeno</Line>
+<Line>myška neodrušeny navršena pštrose nevršit praštil nešlo rušena proškoleno</Line>
+<Line>lišeny neporušilo menšina lišila rozbušku nezlepšila nehoršily pušku našla jmenuješ</Line>
+<Line>nehraješ pšenici neosušili nedostaneš neosušeny nešla neosušily nevysušena</Line>
+<Line>nestraš poušti promyšlena koš pojedeš neslušnost narušilo ploše poštval pyšni</Line>
+<Line>osušila parkovišti nasušen nedovršeny nelišil pokoušelo nesušila jeptišky luboš</Line>
+<Line>šachista neusušeny lotyšsku nadšencova sešla revanšistu nasušte poškodilo</Line>
+<Line>nelišila nasušil porušeny našeptal kšandy rodišti neodrušili šachisty našincovi</Line>
+<Line>nadšencem nadešlo sešitem nevyrušeny nevyšlo odtušeny šatstva poslyš osušeny</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>č</NewCharacters>
+<Line>neručil pavlači neučinili sčsp otlučenou neurčitost rozcvičila neničeny poručme</Line>
+<Line>nedoničila kladečovou netlačena nedoničily hlavička potlačeny otočeni odrezovače</Line>
+<Line>neničili neroztočit močily nedostrčte neurčeni neničit pootočily obličeje senoseč</Line>
+<Line>označili paniček nezatočeno nepoučili krč podtoče odličte babička pokrčily rozmočilo</Line>
+<Line>nezačneme netyčily kytičkami kaučuk ručily pračku nepostačil kojenče roztlačila</Line>
+<Line>neskrčeny roztlačeni promočeno poručily prostrčilo nekrčit ničili rosnička mrzačena</Line>
+<Line>necvičte kanče natočeno ovečku načteny načti navlečte hubičky nedoručme nedotočily</Line>
+<Line>nevymočme nesloučily končili roztočily roztlačena rozcvičeno neodtočena nenakročil</Line>
+<Line>panečku naučiti nesmočily krosček ačkoli občanovi nevykročit označil neskoč krčilo</Line>
+<Line>pokrčeni nestočiti protočili netyčiti obtočili nemrzačte označily nekončete kvočny</Line>
+<Line>mrzačil lidičky procvič neučily nezastrčit kladeče neodtlač leničko nevkročili babičku</Line>
+<Line>popisovači nečistotu paličovy pečovat rozpočtem nedotlačme poručili počitek rozkročeno</Line>
+<Line>nečistota nezakročme pokročiti rozkročila hlavičkou nedoručen nedotočen krabičce</Line>
+<Line>ročenka nelič poničme nevycvičil mrzačily prostrčeni odskočil natlače prostrčte</Line>
+<Line>pečlivost neznačeno seskočili močilo ničil odlehčili neponičila nevystačit pootočeny</Line>
+<Line>netočte rozčiluje poličky neloučil nedoučit počalo punčoch protočit sedačky mrzačen</Line>
+<Line>neotočen jihočech označ nenatočiti osmičku roztlačeno nacvičen podtočeni počest</Line>
+<Line>otočce nevytočme nezaručeny načetli neotočil procvičeno neučili natočme poznačeni</Line>
+<Line>neprotlač ničila nepodtočit neutlačeni označte počala nedoručil odmlčela nepodmočil</Line>
+<Line>prostrčen netečnost osočila propočtem samičku odskoč rodičem obličeji krčiti jedinče</Line>
+<Line>neloučilo končin odlehčeny bezdomovče označit nevymočeny neodbočilo pučisty</Line>
+<Line>nedočkal podtočily pomeranč končetiny secvičte klička poučen odbočuje kačera nalič</Line>
+<Line>nevybočiti promočila roztlačiti nosičovi odmlčel hlubičovy prarodiče neodbočme lovče</Line>
+<Line>neluč občinou močte necvičme mezisoučet namočme mrzačte pečivo krčily nepoučiti</Line>
+<Line>natlačiti perlička obouruč netlačilo neznačte potlačila neodtoč praček rodičovi ničenou</Line>
+<Line>neodnaučil naznačeny neničte samička neseskočte podstrčme roztočil pavlače potlačen</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>ž</NewCharacters>
+<Line>nezdržuj jižana nepoložila bližte manželi rozmnožte odtržena</Line>
+<Line>mnohonožky množila jehož neubližte odvažme položily nevydržel</Line>
+<Line>ponožek potaženy kožich ploužil hemžili pružiny otužujeme bažanta</Line>
+<Line>prožila koželužnu pižmech požadovat podtrženo odtrženost požadavek</Line>
+<Line>posloužit jižany jenomže oželel podtrženy ježek osmaženou sdružovat</Line>
+<Line>neudržela použijeme rozložen provažme požitek rozmnožily obdržet</Line>
+<Line>mužnosti proležel neuvaž nevydrželi nesnažit neležely posloužily</Line>
+<Line>podložkami sdruženy kožka nimiž pražce prožitek sdruženi kužel</Line>
+<Line>pažnic odložily manželko provždy navažme koželužen nerozvažme</Line>
+<Line>manažera ležet navrženy podložena kalužiny nastražila nabažit proužku</Line>
+<Line>obložily rozložila nakažlivou neživou kaluž rozvaž nežije mažeme papež</Line>
+<Line>navržen manželkou ložisek rozvrženou rozvažme prožitkem požitkem</Line>
+<Line>nevažme oživen nelžou ožehneme jižani bažiny lyžovat manželovou</Line>
+<Line>považujte pokožku louže loupeži naloženou položil bažanty mužatka</Line>
+<Line>neužije obsloužit ježily neubližme masožravec obtiž manžel nastražily</Line>
+<Line>sdružena nevyužita nevažte ježila jižan odložili jakživ mžik nastražme</Line>
+<Line>jenže kroužek nesnažila bažantovi proležet ležel pražany jakožto ponižme</Line>
+<Line>podrželo jimiž lže položte navrženou neudržel lžeme použita ponožce</Line>
+<Line>bažin podmnožinu bažant ponožky použity možnostem selže bažinami</Line>
+<Line>manželovo režimem požadavkem jenž povraždil bažantovo nelže poražen</Line>
+<Line>leželi jakož prožilo položilo nožka kužele obsloužen možnost položka</Line>
+<Line>loupeže nesnažil prožitky prokaž prožiji nezvaž považuji angažovat</Line>
+<Line>oženil režim podložce jižanovu nepoužije nemožnosti mžouraly pružnost</Line>
+<Line>mužstev blaženu nedodrželi navažte navždy rozvrženo nastražili protaženou</Line>
+
+ </Level>
+ 
+
+ <Level>
+ <!-- 21 -->
+ <NewCharacters>ň</NewCharacters>
+<Line>koňovo kaňkou podmiňuje koňovou kachňat odmocňovat hospodyňka</Line>
+<Line>baňku koňak nenaplňuje ohňostroj oceňovali ochraň ovlivňoval baňka</Line>
+<Line>kňour podceňoval kňouru ňader kaňonu jehňat kňoury odsuňme pomiňme</Line>
+<Line>kadaň pivoňka ochraňovat kuchyňkou odstraň roveň nezapomeň meruňkami</Line>
+<Line>koňova naplňovat ochraňuje mezistupeň ňadry koňmi kuchyňku naň ovlivňuje</Line>
+<Line>hospodyňky oslňovaly plzeňsky oceňoval kaňonech plzeň objasňuje posuňte</Line>
+<Line>kolegyň odňata naplňuje koňovi ochraňoval kňourovo napomeňte obviňuje</Line>
+<Line>odstraňuje aspoň koňskou nevyplňuje naplňujeme ňadra podmiňoval promiň</Line>
+<Line>povstaňte odstraňte koňmo jehňata plzeňskem kňoure kuchyňskou objasňovat</Line>
+<Line>nemluvňat koňaku kňourem povodeň nesplňoval plaňkami kňoura nedoplňuje</Line>
+<Line>obrňovali jeskyňky nedoceňuje opravňuje naplňovalo podmiňovat kampaň</Line>
+<Line>odkloňte odstiňuje kňourovy jehňaty odňato navoň kodaň ovlivňovat ňadro</Line>
+<Line>baňce neskloňuje libeň oheň kňourova ohňovou plzeňsko nemluvňaty laň</Line>
+<Line>kachňata koňovu plzeňsku ňadru kaňky kaňonem promiňte kuchyň naplňovala</Line>
+<Line>kňourovi pochodeň oceňuje meruňky kňourovou keňu koňovy nezmiňoval</Line>
+<Line>keňa posuň ňadrech kňourovu promarňuje podceňuje naplňte loňska jeskyň plzeňska</Line>
+<Line>nezmiňuje podceňovat ňadrem oceňujeme nesplňuje rozviň alespoň hlaveň kňourech</Line>
+
+
+ </Level>
+
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>ý</NewCharacters>
+<Line>husitovým laciným pohotovými moudrými modulových rozvodový</Line>
+<Line>beranových kmitavý lanový latinských karpatský bezmocných</Line>
+<Line>pokrývaly lhostejný rozvedeným satanovými nezletilým mezerovým</Line>
+<Line>nicotných mýlilo majorových hochovýma numerickým odolným mýty</Line>
+<Line>hrubým palcovými radostným nechvalný minulých rozjetý omezenými</Line>
+<Line>palmovým bezelstný laciný lyrikovým napnutý lesnatým mistrovými</Line>
+<Line>kolovými klasických kvasným neplodný mými barmský podsaditý</Line>
+<Line>pracných nemalý pozemský oslazených heslovitý ohýbal narýsujete</Line>
+<Line>horkých krajinných lhostejným nevýhodou nezbytný hnojených rýnský</Line>
+<Line>nevyzývalo jedových poctivých pozvolným nezvyklým odporných okýnka</Line>
+<Line>rozhodných podmanivý neoplýval krmným netopýrech analýzy klenutý</Line>
+<Line>pozornými nevýhodným ohnivý betonovým propranými posetých kreslenými</Line>
+<Line>masnými hadovýma leckterý obrovýma mistrovým konaných analýz</Line>
+<Line>neplatný rýha raketový obchvatný potýkal bezvodým naprostý bledý mistrových</Line>
+<Line>rybinových nulových obrovskými pochybných hokejových horalovýma posypaný</Line>
+<Line>lyrikovými pontonový nesmrtelný prudký ploský markýzovo rumunskými</Line>
+<Line>kyselých napitý jmenovaný posazený rozmoklý atletovýma pozvaný jiných</Line>
+<Line>nerovný panský prasklých odchylný kladenský mýtus ruských bedlivý ocasatých</Line>
+<Line>javorovými horským nebeský klidným rohovitý logickým nevyspalý indickým</Line>
+<Line>nezbývalo lumkových baldachýn hojným rodný oslnivý prohnaných hubený</Line>
+<Line>povedeným hadovitým kývl kalový poddaný hloubavý semitovým lipnických</Line>
+<Line>popisných blokových lovcovým nechutný hrdinovýma analýzou korýtek osudovým</Line>
+<Line>okýnko kladeným kluzkým narýsujte rakouských mýtech hlupcovými pozemskými</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 23 -->
+ <NewCharacters>ť</NewCharacters>
+<Line>marťani ohodnoťme marťany nepleťte rukojeť pociťujeme marťanu</Line>
+<Line>marťanovu marťane marťanovo laťkami pusťte naťukl kleť pusť marťanova</Line>
+<Line>napusťte prsť obraťte odpusť rtuť pociťovat koťata nepleť pouť marťanem</Line>
+<Line>opusťme laťka pleť laťku neboť pociťovaly laťky laťce laťkou pociťuje</Line>
+<Line>marťanovou padrť marťana marťanovy pociťovala nechť pociťoval pleťovou</Line>
+<Line>obrať nedopusťme marťan rozťal pociťuji marťanech aťsi perleťovou nechuť</Line>
+<Line>marťanovi labuť neztraťte nať opusťte nedopusťme marťanem perleťovou</Line>
+<Line>pociťovaly nať napusťte nechť marťana marťanu naťukl neztraťte nepleť</Line>
+<Line>laťkami rtuť marťanova pociťovala marťanovou marťanovo marťan obraťte</Line>
+<Line>opusťme rukojeť padrť marťanech nepleťte nechuť pleť laťka marťanovi</Line>
+<Line>pociťuje marťanovy koťata pociťoval ohodnoťme rozťal marťane pociťuji</Line>
+<Line>pociťujeme odpusť pociťovat laťkou prsť kleť marťani marťany aťsi labuť</Line>
+<Line>pouť neboť laťce pusť opusťte pleťovou pusťte marťanovu laťku laťky obrať</Line>
+ </Level>
+ 
+
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>á</NewCharacters>
+<Line>komentátore antverpách lajdáckost rovnováhu prokurátorům</Line>
+<Line>nakladená návrh internacionálně neznečištěná radiátorů pořádaná</Line>
+<Line>rámcem pájet nasávána necelá hruškách rozpoznány nemáte rozprávěl</Line>
+<Line>nepřesouvá areál naložená nápaditost pomluvám průjezdná hrůzovládcovo</Line>
+<Line>odcházelo kuřákových lájoš postál projednávaných panák komentátorovu</Line>
+<Line>regulátorem primátorovýma potácela náhle nemáme odvolávala senátore</Line>
+<Line>následnost jiráskovým převázána plánu maršála přivyká náhradami náhlá</Line>
+<Line>republikách pásmem otáčka oceánská porostlá operáto neuváženě různá</Line>
+<Line>měšťákovou bakteriofágovýma nezdolná koksáren rozdělá nezávadně</Line>
+<Line>prokurátoru patnáctikilometrový prohrává odpadá kladivářů obávaný</Line>
+<Line>nakrájená robinzonádu komentátorových náchylná obhájcova mágův</Line>
+<Line>semenářských kamarádka márnici rozhodná lijákům kladivářova nehodlá</Line>
+<Line>komentátorův potravinářovým přepadá naloká plnoprávným přestávce</Line>
+<Line>podrážděni požadováno kontrarevolucionářov procházce ptáče plátcovo</Line>
+<Line>implementován nesmrtelná ozbrojená neovládal kozách portálovým jeřábovi</Line>
+<Line>kontrarevolucionářem kastelánovy nechávaly sdruženář neodvážili liškám</Line>
+<Line>laureátovi přepážek sázejte nalámaný jádřinců obcházených přednášce</Line>
+<Line>internacionálů patách hrůzám mocnářem italská linkách pětilitrová nevrátil</Line>
+<Line>plachá nástupcovu nastavován kalkulátoru prosťáček napadán křižácká</Line>
+<Line>odházet podepsaná lukáš nerozházely novinkách revolucionářových</Line>
+<Line>nepopocházel sedlářův jugoslávče jávy navázat mistrovská látková</Line>
+<Line>přiváděla patnáctiminutový běláskovy převáže náves přidávám navázán</Line>
+
+ </Level>
+ 
+
+ <Level>
+ <!-- 21 -->
+ <NewCharacters>í</NewCharacters>
+<Line>přetlumočíte jižními používanějších ozdobnějších pravdivější seříznutějšího</Line>
+<Line>připraví přistrčíce poschodí nepřetíži krokovacím nejklidnějšího naskytnutí</Line>
+<Line>neřídícímu řídí nejnavrhovanější nasbírali otevírací neprobouzíš nudící</Line>
+<Line>nejvěrohodnějšímu nejnepoživatelnějšíc oblíbencích nekolektivního nedělními</Line>
+<Line>nadpraporčíky rotujícím nezatajením nedružstevním nesílícího neodliší</Line>
+<Line>podmíněným nepřehození nenazdobení laníma netušících myslitelnějšími</Line>
+<Line>ovinutích nebydlících nejnebezpečnějším nepřímých okupačních neobchodního</Line>
+<Line>nestojím nepřesetí nejperifernějším nepřihozením přírodních nejnezhoubnějších</Line>
+<Line>nejzastřenějšími odvyknutím konkurenčních nejosobnějšími nepropůjčím</Line>
+<Line>nejoblíbenějšímu nejneuvědomělejších ležícíma nemístnými nepochopitelnějším</Line>
+<Line>perfektnější konstruktivnějšími nejzarytější nesoudními kostelích modřejší</Line>
+<Line>přesetím měřítko nejmrazivější pustší překlenutí nepobízíš nakladením</Line>
+<Line>nejzbytnějších jedení bíločerní bezvýslednějšímu představeních nevybočením</Line>
+<Line>nejstudenějšího nezamrznutím nejpohlednějšího neuniknutí nereakčních</Line>
+<Line>nepodtrhnutím nejnevyrovnanějších provozovatelích planoucí hnisavějších</Line>
+<Line>nejvyzbrojenějšími koníkových krkavčí nesecvičíte odškrabovaní hroznějšímu</Line>
+<Line>potřebnější nevykreslením nejbělejšíma neškolení odrušíme nízkým přetisknutí</Line>
+<Line>jasněními nedotočím nenaříznutí nejúnavnějších babímu nejriskantnějším</Line>
+<Line>odsadí ozbrojenějším křížencovy neusvědčíš podmíněních nezaplatíte</Line>
+<Line>nejvýkonnějším neumožňujících schůdnějších blokovacího přiřazovacím</Line>
+<Line>poplatnějšími nejnezaslouženějšího angínou nesmetení nejnepoužívanější</Line>
+<Line>odbaveními neběžícího oslíkovým nepřizpůsobením pestřejšímu nenalíčíte</Line>
+<Line>neponižujícímu poctít proslulejšími neprobíhajícímu neporadím promyslíš</Line>
+<Line>přeškolení nevyplývající přeskočíc příšernější nejezdíš neodklízej neparlamentnímu</Line>
+<Line>neposmívají sestavovacího aktualizačního předurčíc neprojevením neposkytujícímu</Line>
+<Line>okořeníme organizačnějších nejpravdivějšímu rozpustnějšího odlišují provinilcích</Line>
+
+ </Level>
+
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>é</NewCharacters>
+<Line>krédy naléhali pěkné rozhodném rovnocenném absentéru</Line>
+<Line>kolumbijské kukuřičné logické neuvolněného léčebna nepojmenované</Line>
+<Line>ostrované roztroušené konstruktérovými poklidnému nepohodlného</Line>
+<Line>rozhodného krajinné prohlédneme neblokované sémanticky</Line>
+<Line>neuvěřitelného karlovarské rozpačité aritmetickému séry nahlédli</Line>
+<Line>předdůchodovém nalévali provoněné proklamované jakého plachého</Line>
+<Line>jmenované honzové nepravé alfanumerickému neřešitelné neplést</Line>
+<Line>baltském jmenovitému průhledného poznačené mezerovité režisérům</Line>
+<Line>prožitého lehkého popisovaném jednokrokové obhospodařovaného</Line>
+<Line>průsvitné léčky rakouského nesporné prodaného nezasažené pravděpodobné</Line>
+<Line>neurčené povodňové movitého historickém hrdélko kupeckého propadlé</Line>
+<Line>individualisté odpojené igelitového absentérovou montérem přiděleného</Line>
+<Line>panamské rybolovné půvabné pasažérovu přenositelného požadované</Line>
+<Line>seniorské nutnému rozložené atmosféru léčivěji přepočtové lékařovým</Line>
+<Line>rekonstruovaného podporované hrubého jadranském jakémsi neekonomickému</Line>
+<Line>nahlédnout autorizované odlétal nehořlavého bludného neproměnném</Line>
+<Line>sestavené libeňského ovdovělému planého poskytované manželského</Line>
+<Line>nepravidelné libverdské kostěné magnetickému šéfkuchařům neobvyklého</Line>
+<Line>rozběsněnému lékařových řešeného léčili sebeméně neopakovatelné</Line>
+<Line>premiérovy šedého hodnocené polévek pohyblivé bezmocné prostém</Line>
+<Line>autorizovaného podivné přehlédli podélnými kryté nalinkovaného nedalekém</Line>
+ </Level>
+ 
+
+ 
+ 
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+<Line>týdennímu, korálky. povely. nedozvěděli, dětinskou. internímu, vyskytují.</Line>
+<Line>zobrazujících, plížilo. extrémistu, povinnosti. vystoupil, názorného. čtení.</Line>
+<Line>beletrii, směřujícími, naskládali. klučíkovou, nabouráním. pomstě, vybudovaly.</Line>
+<Line>instruovat, rétorická. neumístí, efektem. výuky, nehezkých. informovali. zaklesnutýma.</Line>
+<Line>prolínáním, námořního. přepadal, šesterákům. kořalka, pohovořím. čtou, uklouzne.</Line>
+<Line>volitelovu. němém, nazývaly. ničemné, přeměříte. rozcházela, poradního. neuzrání.</Line>
+<Line>nerušilo, podáte. kulisu, tělocvikářích. nezaručíme, zbytečnou. pětatřicátníkovo.</Line>
+<Line>nejfrekventovanějším, aparát. podmíněněji, datech. nejneotřesenějších, osobnější.</Line>
+<Line>nežádoucím. vnesení, předváděné. objevitelovými, maskováních. domluvili, odviselo.</Line>
+<Line>manifestování. anýzu, fenoménem, přívlastku. dialektickému, zahálčivým. nelíhnou.</Line>
+<Line>střelcovi, vypsano. automatizovaně, konzola. vymluvení, annapurna. čtyřiasedmdesáti.</Line>
+<Line>útlejšímu, dvojími. vyjednat, uschováme. neshrnutí, slovince. zakřiknutým, zaopatřím.</Line>
+<Line>světovému. vydolovala, dozorem. horolezecká, povaříc. pleš, nejrozvinutějších.</Line>
+<Line>nejprudším. zdolaných, mohérovým. energetickém. nejpovznesenějšími, purkrabí.</Line>
+<Line>zůstávat. uživatelským, ředitelovou. zkazek, nejproklatějších. přestaň, kojencovýma.</Line>
+<Line>jakási. baronek, kmitočet, tušena. palmy, revolucionářův. adresního, teroristo. chudobu.</Line>
+<Line>motorový, nejdrobněji. sladká, promile. cvičitelův, fanfarónové. nejnevytápěnějšími.</Line>
+<Line>třicetkrát, panenském, odčiněním. nijaký, buňka. citovat, nepootoč. tesař, napodobované.</Line>
+
+ </Level>
+
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>velké písmeno (Capital letters)</NewCharacters>
+<Line>Hovězí Kmetiněves Hájek Říčany Černíkovice Mašovice Hrušovany</Line>
+<Line>Křenice Klabava Martinice Doksy Žeranovice Čelechovice Mostek</Line>
+<Line>Hřivice Bačetín Hůrky Hradčovice Rumburk Komárov Milhostov Krásná</Line>
+<Line>Vilantice Rožná Paršovice Librantice Václavice Pržno Budkov Kámen Vykáň</Line>
+<Line>Kovač Kyjovice Spomyšl Zvíkov Kostelec Vlastibořice Dalešice Úbislavice</Line>
+<Line>Skály Velvary Třebenice Blazice Vanov Křesetice Borek Přepeře Blatnice</Line>
+<Line>Chrášťovice Chocnějovice Vrbice Kamenec Vystrčenovice Kovalovice Nerestce</Line>
+<Line>Loučky Zborovice Studénka Křečovice Podhradí Ivaň Divec Radenín Chotilsko</Line>
+<Line>Všesulov Otnice Verušičky Lysovice Vědomice Dobršín Starovičky Borovnička</Line>
+<Line>Dobřichovice Seninka Černilov Třebušín Milíkov Rajhradice Díly Šedivec Přeckov</Line>
+<Line>Sobotovice Těškovice Bořitov Meclov Nepomuk Sudslava Lipová Březolupy</Line>
+<Line>Trpišovice Snovídky Koberovice Malonty Křtomil Duchcov Bušovice Choceň</Line>
+<Line>Křenek Prušánky Černotín Zubčice Štítov Bohumín Nekvasovy Mukařov Janoušov</Line>
+<Line>Sukorady Líšná Kaliště Kasalice Rakousy Slapy Měkynec Běleč Soběhrdy Radotice</Line>
+<Line>Krtov Kocbeře Čejkovice Němětice Stanovice Brněnec Všepadly Sobětuchy Tisová</Line>
+<Line>Chaloupky Třemešná Janská Letonice Čaková Nikolčice Římov Ústrašice Stolany</Line>
+<Line>Močovice Sedliště Veselá Bruzovice Víska Hlohovice Břest Tuhaň Chlumec Holasice</Line>
+<Line>Osečná Zdislava Boršov Bučovice Všenice Svor Borovnice Krupá Borek Trusnov</Line>
+<Line>Vrchlabí Otov Jetětice Mohelno Val Krhov Rašín Vraný Zubří Samšín Třebestovice</Line>
+<Line>Strojetice Stavenice Jeseník Zámrsk Člunek Hřebečníky Radíkov Chvalkovice Záchlumí</Line>
+<Line>Dětkovice Dlouhoňovice Lovosice Záboří Vestec Dasnice Ondřejov Číhošť Bořetín</Line>
+<Line>Jinačovice Horšice Rohozná Olšany Šimanov Němčice Vlkov Hostěradice Xaverov</Line>
+<Line>Vinec Hroubovice Dvory Třešť Poříčany Beřovice Grunta Vršovice Hvozd Borotín</Line>
+<Line>Dřenice Biskupice Lednice Černíny Záluží Bělá Osek Pernarec Kratušín Podbořany</Line>
+<Line>Cheb Salaš Fulnek Vlčkov Psáry Zvěstovice Kyjov Svatá Zemětice Ořechov Chromeč</Line>
+<Line>Benátky Petrovice Krajková Radkov Halenkovice Slatina Drhovle Budětsko Dzbel</Line>
+<Line>Úsobí Poniklá Březnice Všekary Kouty Meziboří Bukovany Krakovany Křižany Dobšín</Line>
+<Line>Křešice Libňatov Syrovátka Úpice Nevid Týček Sudice Loučka Dětřichov Pustiměř</Line>
+<Line>Vlachovice Batelov Kvílice Milíčovice Lutín Strážný Radíč Hošťálkovy Černolice</Line>
+<Line>Třeboň Huštěnovice Olšovice Hejná Žákava Lenora Staňkovice Huntířov Židlochovice</Line>
+<Line>Mochtín Písečné Křenovice Sirákov Záboří Opatov Deblín Hořešovičky Vydří</Line>
+<Line>Jičín Kravaře Jezdovice Věchnov Ketkovice Modlíkov Sedlec Babice Zákolany</Line>
+<Line>Líšťany Zlín Krchleby Vepřová Davle Kašava Trutnov Dobříň Rohatsko Častohostice</Line>
+ </Level>
+
+ 
+
+  
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>několik vět</NewCharacters>
+<Line>Za normální teploty a tlaku je to bezbarvá, čirá kapalina bez zápachu, v silnější vrstvě namodralá.</Line>
+<Line>Mimořádné chemické a fyzikální vlastnosti vody jsou důsledkem geometrie její molekuly.	</Line>
+<Line>Skupenské přeměny charakterizuje fázový diagram vody, který je ve zjednodušené podobě uveden na obrázku.</Line>
+<Line>O fázovém přechodu mezi kapalným a pevným skupenstvím podrobněji pojednává odstavec hustota.</Line>
+<Line>Iceberg, též ledová hora, eisberg je velký kus plovoucího ledovcového ledu oddělený telením od šelfového ledovce či plovoucího jazyku ledovce.</Line>
+<Line>Icebergy se pohybují spolu s mořskými proudy, ovlivnění jejich pohybu samotným větrem je nevelké, vzhledem k malé vynořené a velké ponořené jejich části.</Line>
+<Line>Jeskyně je podzemní dutina vytvořená přirozenou cestou.</Line>
+<Line>Vzniká většinou vymíláním nebo vymýváním horniny, obvykle vápence, podzemními prameny.</Line>
+<Line>Jeskyně zpravidla vzniká v krasových oblastech, kde dochází k chemické reakci vody s horninou, která má rozpouštěcí schopností.</Line>
+<Line>Pro existenci jeskyní je důležitá hladina podzemní vody, jelikož její kolísání může mít za následek vznik pater v jeskyním komplexu.</Line>
+<Line>Vápencová krajina s jeskynním systémem se nazývá kras, podle pohoří Kras v bývalé severní Jugoslávii.</Line>
+<Line>Nejčastěji tak, že živočich nebo rostlina uvízne v usazeninách, obvykle pod vodou.</Line>
+<Line>Většinou však prosakující voda částečně nebo úplně zanese spáry a dutiny nerostnými usazeninami a promění je v kámen.</Line>
+<Line>Zvlášť krásné jsou takto vzniklé jemné prokreslené otisky kapradin.</Line>
+<Line>Zejména v masmédiích se používá termín světelné znečištění (odpovídající anglickému light pollution).</Line>
+<Line>Jako světelný smog se populárně označuje rušivé osvětlení nočního nebe způsobené rozptylem světla v ovzduší.</Line>
+ </Level>
+ 
+ 
+ 
+ </Levels>
+</RasytiLecture>

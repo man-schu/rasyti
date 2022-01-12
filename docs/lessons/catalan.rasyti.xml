@@ -1,0 +1,980 @@
+ <RasytiLecture>
+
+<Title>Català</Title>
+<Comment>created by Manfred Schulenburg</Comment>
+<Levels>
+ 
+<Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+<Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+<Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+<Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+<Line>fessis falseja deies deesses ideada efes fels desfeia dels llei desafia desfilades aldees</Line>
+<Line>safes aliada didal sali fallades edil desfiles feia fades desfila elidida aliades alfes desada</Line>
+<Line>afilades sake alia desfasada fidels sella ideals alfils fils lidia salses fillada falsia desfasi</Line>
+<Line>sales elidides saldi fill idees filial illa afiliades lleials fidel filia essa saial sida falli asseies</Line>
+<Line>dades alfil liles deslleial fallida fills fallides falles elfs esses jeies lais afilada lleia jeia illes</Line>
+<Line>llisa jaies edils deia asses assajades efesis ideades llisall filials fies fili allisada eles ells</Line>
+<Line>filada desfasades flassades ideal lila fallis deis idea fase diesi aldea dial lleial alades dials</Line>
+<Line>llis alies faldes faldilles asseia desdeia iaies deses ales adalils desades lesa filies sedeja falsies</Line>
+<Line>diada falsejada deessa diades asil salades ases dees dides feies dida lies alejada selles fila</Line>
+<Line>seia falsejades jade dies desfilada deleja filla defallia filles seda filades desfili falsi desis ella</Line>
+<Line>fais filis faldilla falses elles lied iaia fases didals afiliada llissa sedes lisa llises asils desa</Line>
+<Line>lleis files aleja deslleials delia lleial fils desis afilades fallis falsejada filades illa filada deesses</Line>
+<Line>llises aldea sida elidides jaies falsi falses seia asseia lisa dides desdeia files lila falseja diades</Line>
+<Line>desfasi aliades jade jeies filles alejada sedes salades ales lidia iaia aleja esses efesis falsia liles</Line>
+<Line>dial fills falles sales lies fillada fades asses didal sake deslleials selles fidels efes dees deia asseies</Line>
+<Line>adalils alia aldees filia filial fidel dels sedeja fies afiliades faldes asils lied elidida seda alades</Line>
+<Line>filies desfilades ells fallides filla jeia illes aliada alfils llis ella dies elles deleja delia essa fels desa</Line>
+<Line>sella filis feia fallida fase ideades alfil desfasades desfila feies allisada diada deses iaies ideal</Line>
+<Line>faldilles asil safes alfes saial desfiles fases falsies fallades deessa saldi lais dials dades elfs fila</Line>
+<Line>lleials defallia desfili falli llisa salses afiliada llissa idea deis alies filials diesi falsejades desfilada</Line>
+<Line>deslleial idees desfeia llisall desafia desades sali edils fessis deies faldilla ases didals lesa dida fili fill</Line>
+<Line>afilada llei fais desada lleis ideals desfasada flassades edil lleia eles assajades ideada</Line>
+
+</Level>
+ 
+<Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line>defens enfonsa danso dolines endinsen assolellada doses feines fanal defensa finada</Line>
+<Line>endolla solell fesols difonien solos defensada solfeja nodes foll filosofal solellada solidesa</Line>
+<Line>alieno ondes dinen anessis nanses anses ossa anises ofenia senils dinos densa filosofa</Line>
+<Line>kafkiana adossada ensalada sendes asos lisina nassos senil folls asseien ofesos laosiana fossin</Line>
+<Line>inflen dosen finia sani lleona fondejada soies nedo asilo defenia seleni desendollades indonesi</Line>
+<Line>odies fona desenes nades filin solsides flonjos sadollen infidels fonedissos aloses flonja infidel</Line>
+<Line>nasals falena lloes dissensions lleons llindes iens llosa liana foses oneja lionesa saons</Line>
+<Line>assaonada niades odien fessin enfonsada isolada faisanes dandis anodines feijoa odis</Line>
+<Line>assonades onsos desafino soldi andola neda solls llinosa ansioses fallin jeien indis solla</Line>
+<Line>assassines endossa solella felins sonall donada sines andes nins adones solana nans sanejada</Line>
+<Line>fondal nadons anissos lloada endinsi foli enfiles nansa desenal dessalin desfilin saldos</Line>
+<Line>follia finlandesa llandosa folle alienades fini endolada desnonen andines dissolen dins</Line>
+<Line>solsida alena sedan desfeien donin anades assajo solsonins joiells doina enfado lesions</Line>
+<Line>ofensa llanes dina defensen filen solides dansen indefens defenen solin lloo indefinides</Line>
+<Line>iaio dallo finades filosofen lineals desafinades defallissin delfins filosa joiosos enfeinada</Line>
+<Line>filosofades joia llanda fillol anelles elisions node enfilades anals enfadades dosi ofenien</Line>
+<Line>difonia soni salins joiosa iode desena foia fosa odes fineses links fondejo infli dono</Line>
+<Line>fados feina fonolls dolosa ansiosa salina eines definia dols joiell sons defenses dissol</Line>
+<Line>infoses onades insanes nissan defensessin odiosos afines dines sonso daneses delineada</Line>
+<Line>onda desinflen naden folla fado insana nefands fondalades soldades assassinen idonis</Line>
+<Line>sadoll fonedisses siena kafkians follen andins soses sonada lledons sans sedosa anells</Line>
+<Line>delfines nassals lloen follo foni dallonses ofidis desnonades salo solden nada odiades solies</Line>
+<Line>dedins endinsa onada enes llosana salons dandi endollen fenia assolin sisens folles isolen</Line>
+<Line>assolis oasi nodals fondo endolls inflades ofeses fonen deien filoses nedades islandesa assajos</Line>
+<Line>ossada sanefes nonada lioneses finolis dojo densos sona ofens nadals dessin lilosa sosa</Line>
+<Line>desenfadades infonia filosofies enfonsades enfollida ains donades final sonin olioses ofesa</Line>
+ </Level>
+ 
+<Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>llima menjars roselles amollen adoradores disfressaran farinosa demori rodoladissos</Line>
+<Line>assimilada romana onejarien solidares dimana residim refermem rim majors amerindi</Line>
+<Line>marres reformes dansar dominador domi romanien rodoladisses arrendar arenoses refrenar</Line>
+<Line>fer ranejar reies redimida minsa referim marmessor meni allisar nedar saler desnodrida</Line>
+<Line>mirarem llorer dormida majorals monjo rerefons difamen insomne sonarien enardida rojors</Line>
+<Line>remenessin erers lideraria milenars emmordassa maoris amerada solem mam adormim</Line>
+<Line>oferia somiers marranes reial llaors mafioses alarmismes adornades marranades</Line>
+<Line>minimalismes merdoses forjadora inserida dormia riallers errades rossellonesa remeiers</Line>
+<Line>melona marianes mills arades nodria rendissin dinerari flamarades ferida sorrals afirmes</Line>
+<Line>mesades amollin milloraran milers manar definir morfina disfressem rajades mesada</Line>
+<Line>residirem safrans llisera florissin resolen malmiren dollar mamen rajol fadrines reflorir</Line>
+<Line>serials donadora radiador medalles rodejades ferri fonemes mode insomnes enriolada</Line>
+<Line>amansa admiradora ensorren llord enfarinem marassa amora desinformades ferma airejada</Line>
+<Line>desossem minio ieisme ordenem rojor renillen sisme llimonada simes ferien enlairada</Line>
+<Line>nadaren solares ressona roderes serioses morses assoliran solera somies adorar seriada</Line>
+<Line>narradora fornida minera reafirmo morades dormiria diries fadrina llard falsejaran mornells</Line>
+<Line>sofrien denominem mans forneja normals donares fores nereida dominen similars folrem</Line>
+<Line>rodoles ressonar ensorrades remenaries anorreades remena enrederida ferreria lloro</Line>
+<Line>nodririen idiomes indolor serralada armar marejades denominar dermis idealismes</Line>
+<Line>ensofrades animada enreden dominem feiners ames ordalies armem sama demor memorar</Line>
+<Line>modals esmerla immenses merdosa manresanes inermes informador moriria forner</Line>
+<Line>narraran fresses refem amarada rodolarem inanimades llimem serens milanesa endossar</Line>
+<Line>defores llards resos forn romanen rememorem aniran minador fiord arenals domino</Line>
+<Line>formaren forjada dem inserien modal mansa farina sojornaren adormi desfasar miner</Line>
+<Line>mimosa mafiosa nodridora adorn immolar renard aflora arrossada fosser formal malda</Line>
+<Line>somniarem mariners dormis nomenin sonora mamar dansarins enraonada ralles fondries</Line>
+<Line>ferradors afamar amaniran resoldrem roines diem sardinades radis llar llimoners sofismes</Line>
+<Line>esmolar erals arrelem desenreda mediadores femenina enamoradisses enfredorides</Line>
+<Line>desnonar rodem admeses formi dam islamisme dilemes serrallers dormirien ensofrar</Line>
+<Line>llemosins ran amidessin aranja semes nomadisme donadors llimosa allar narradors dominin</Line>
+ </Level>
+
+
+<Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line>telemetries sostenien inversos llevaran esllavissar efeminats llavors ferest transfronterer</Line>
+<Line>tastada orientalista estant intermitent distorsionant revetla desfasat intenti valentia</Line>
+<Line>tirolesos desentelarem enterrant enrevessats soltant revalidar advertiments literals</Line>
+<Line>veremadors refent verdaderament istme diletants llistar servi enviaments trenada desvetllin</Line>
+<Line>valer ninotaire inventant valerosos taifes tremenda fallant assot valori tornar salivant tirants</Line>
+<Line>estornell allotjarien ataronjada morterada dominant tofa temo martellades tallada</Line>
+<Line>amorosint rastrejadora vistes morts malversats desafinant saltar tallador revalorar sortidor</Line>
+<Line>retornaran avalar nirvana estadista veneris tavans envermellir dista envernissar</Line>
+<Line>desfasament orientalisme vermellor enverinades veiessis tovalla envejant assoten vetlat</Line>
+<Line>introvertit filtren etern desmentirem mestissos dimitint estomes mostraven arrestar</Line>
+<Line>enderiat reeditin nitidesa voltor entonar vers temorosos rotllos totes dansant desviares</Line>
+<Line>ressonant terral sonant estretors avisats terrer evitaran territorialitat revenedor vetos</Line>
+<Line>fillastre revestida renovella venjadors irat soterrem desentonaria orant vots formentereres</Line>
+<Line>teofania sortejar tintat flotants valentament internes enretirar envejades vedo editem vessa</Line>
+<Line>matinant avisen valls venta tries rivals tresillo festiva dadaista retines valenta retrona</Line>
+<Line>rondallista violentant seva remeto emetran ratllaven asfalta vermis matons entremaliats</Line>
+<Line>fomentades fossat maritals alentia defenent salvem vienesa deteriorades esfondrant malats</Line>
+<Line>omet tondosa mastelers entorns tendien torradors malaltia sionista estret ostentaven</Line>
+<Line>devastaven vosaltres fomentava vessats transferien sintetisme tinent estilites infantat</Line>
+<Line>envejada estrada trisomia dilatada santjoaner salinitat idioteses titella valorin visitaren viso</Line>
+<Line>devesa savinar tossal movedissa datem soterrava estaran visites molestis servar infinites</Line>
+<Line>desvetllament meravello mormolant marieta inventen trastorna mitjania tensora revelava</Line>
+<Line>militem animant militin estremit modesta inanitats envanits inflava indefinits testava</Line>
+<Line>mostrarem italians enllorat motes delatant imitaven dilatant feinejant reiterat assistides</Line>
+<Line>detriment torejat vitals envejar ovalades mataries astral alternada sofista volva votaries</Line>
+<Line>sinistres viola servera nostre nefastos irritat troana etanol inflamat virreina derrotant</Line>
+<Line>fefaentment transitivitat revestia enamoraments fernet terminen modernista fallava</Line>
+<Line>enllestim irisat ovins tresoreria administrar festa matisat retratar assassinat anant astorat</Line>
+<Line>majestats reiet revelo visitarem vorells eliminant llostrejar desmemoriat temorosa</Line>
+<Line>dimensionat orinava desvalisat matinera desvelava estantissos infermetat derivat tristos</Line>
+<Line>testador entrenaria dotava terrissa dormint alimentis vendaval arrestos interioritat</Line>
+<Line>desafiaven altern ensardinats tornejada entrenats destres sostreta elit detenia validada</Line>
+<Line>enrotllats sortir edita rasants volaria selvatana vens ratllen emmandrits alternativament</Line>
+<Line>restat entera navades revenia motivin ametlla aterridors estafador avesant tito matrimonier</Line>
+<Line>trills transiten atemorit estiris alimentin meravellosos estatals violent memorialista samovar</Line>
+<Line>rats alenant vitrall fatalitat renovadores altera malmeti marmota normatives esmentes</Line>
+<Line>floriment desanimadament deriven refistolades entomaria adonant vessament</Line>
+<Line>demostrarien retronem rovell venoses formalitat elidit tenidors atordits vetla enfredorits</Line>
+ </Level>
+ 
+<Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+<Line>espelma dipositats formulisme ufanosos mausoleus oprimir desmunts plantejat vuits</Line>
+<Line>rotunds proposta naip paners derruir passarien pensatius impedien alleujades moldreu</Line>
+<Line>mullar reunirien vellutats desaprenen ponderades fissurer freturen saludarem tusses</Line>
+<Line>provadora arameu apressar topaven satura malparlats passares posseiran atenues</Line>
+<Line>aprofitant empassem taponarem remunti impurs altiu tremolareu mamut malparit</Line>
+<Line>puntuar primales poesies rumio apureu preferides pestell inspiri presumit planejades</Line>
+<Line>espantats piulades ufanoses purismes arrapi turmentats portaveus epifenomen plateja</Line>
+<Line>menudeta imposen emplujat impulsiva fuset envellutat parir separant modulen repassarem</Line>
+<Line>taper reprimides simposis espiament trepitjar vetlleu repapieja dipositin perpetrant promou</Line>
+<Line>pedant estampades russa empalem espessor ensopir pansit patrullen futurismes fulls</Line>
+<Line>mesureu despreses plats sumit desparar pupils derruiria kurda afusellats desplomar fusions</Line>
+<Line>pianos refuti omplir nun emplenaren universos aposti mulla europeista reposaren apuntar</Line>
+<Line>importades perfumaven palpentes apa peludes aprimorada empedrades durat opinaran</Line>
+<Line>jaus fullejar puritana taponen oportuns templers atemptats paternals atipen triples ritu</Line>
+<Line>resultants superen perfilaven adulterada patri despitades desvirtuar trapella sumin enfunda</Line>
+<Line>filatura estrop pervertit napolitans espuris pinsos anualitats perillosos ruralia piulaire</Line>
+<Line>inoportuns dispesera austeritat pomera anteposant pervertida monotips pair praderes</Line>
+<Line>provenen pintera admeteu posposat putada filantrops daurats enutjos portal estampo</Line>
+<Line>pujarien insinuants junta empitjorar patinava demaneu estudiarem pentina esponjar</Line>
+<Line>fissures suturat tapaven eslau emporten aureolar pressuposi proposo immunitari pestilent</Line>
+<Line>penades autoestop opositor murmurava responent impediren lluu apropiat intitulat topa</Line>
+<Line>reomples inesperats petarrell previstos tapes llepes proposant insultats ajuntades rapsodes</Line>
+<Line>pler jous irromput parvulari provi replujats reposat persistia sulfuroses autopista petem</Line>
+<Line>esperaves perdedores penada judes pariren raptors antulls pispava tatuada petjada</Line>
+<Line>apuntalar ajust palera espantin inaudit llanudes summitats interpreta petris peu inofensius</Line>
+<Line>imperials portera pauses imposants paradors traure atrapant empalmades entossudit</Line>
+<Line>proveint repetir muntades respiro opositores entrampat perdonat enfurida opinant</Line>
+<Line>anteposi surar llepant perdudes fetus primeries jutjaven puntejava privativa omplien</Line>
+<Line>aprimament aplaudit espasme sospitosos platina pompositat respost sensitiu assenteu</Line>
+<Line>sepultats jutja ampoller reprimits promotor influiria perdiueta pilar manlleus perfumada</Line>
+<Line>postpart prepari empre traspassem pivotar pivots epitafi portaran estretiu opressors</Line>
+<Line>llaurada penosament enllaunats puros perderes pallassada parteres possessiva portaves</Line>
+</Level>
+
+<Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>gestiona llegim tingut amaga riguts afganesos guiso aprenguem apugin gusto ingent</Line>
+<Line>regenerat plegant sanglotava gastaria enfangar guirigall llegada aglutinava entregats gasela</Line>
+<Line>lladregot deslligat fulguren folgat agradats traginers gaudim purgues agudes gaudiu</Line>
+<Line>espetegava gallofa retingueu amargada legitima regenerar missatger alegri tuguri guillar</Line>
+<Line>fogonet desitgen graderies llonguets esglaiada garfis esgrimiria tango instiguen angle</Line>
+<Line>gosessin manglars trigo remoguem kilogram ignoreu gargots llegiren ofegada llego gasives</Line>
+<Line>gastat sargits neguit garrepa delegats estoig engelosits teologal refugiats pagells garroferes</Line>
+<Line>potatges gelosament gallets apaivagat governa desgano digerides ortogonal esguerrat</Line>
+<Line>agregant gasoils geganteres segregava pagesa magistrat pregoners git malgastant netegessis</Line>
+<Line>desfogo sedegosos ressorgint dessagnar furgadents pagats plagut marginats gaditans</Line>
+<Line>augment granera granota gal arregli redirigia sotragats impugnades vulgar vaguistes sirgar</Line>
+<Line>puguem relligo enmig aranges sargantana ignorats gravar replegat defugen gregari antigalla</Line>
+<Line>tarongers segellaran regalin lligaments guardant guarnirem fagots lligallos lligava fidedigna</Line>
+<Line>lligam ingrat guisada migratori assignant lligada entremig singulars guillot segla maregi</Line>
+<Line>igualadina monografia fulgir nouvinguts esglaiat genials garlaires sofregida aliatges fagotista</Line>
+<Line>agrupa agreujants gratessis sagnes guarien goteja guiades guipur mitigar indaga sostingui</Line>
+<Line>vigili trossegi rossegava agulla agut gemegosa grateu previnguda glossari aplegues guisa</Line>
+<Line>assagistes generoses gresol imaginaves angostos egoismes gomets ganga argiu longeva</Line>
+<Line>morigerat grateres promoguin esllanguit peregrino detinguts migs igualin sanguines</Line>
+<Line>governant gastarien volgudes ragem ges estenguin argamassa falangisme aletegen</Line>
+<Line>augmentada gemegat guarniu igualen degrada fatigat gaudit aguaitada maligne agermani</Line>
+<Line>rellogat elogiant malgastat pervingut melangia aplegats fugint iguanes sigut fugats engegada</Line>
+<Line>vigilat poliglota artigat argentera detinguin museologia degraden negra orangutans</Line>
+<Line>desguassos paratges lleneguen garfi gestions arreglat enigmista ginestells emergits</Line>
+<Line>esguardem maregen garses atorga estiueig glossador singlot aplegaren vinguda registrat</Line>
+<Line>engorjats mangala remoguda geografia amigo lliguem garra jugui gandians regaven</Line>
+<Line>gallardets regalen rellotger fong degans guisades pagaments estigmes imaginaria pregava</Line>
+<Line>aguada negritud metgessa plegava pretenguem deganats segones graviten guiador regalis</Line>
+<Line>figurin prorroga grandiosos impugnin serpentegi sangonent grises sotragades grimpades</Line>
+<Line>signada argenters gosaren morigerats sutge reguers gratinats guardarem taronger pagodes</Line>
+<Line>agafis progre mongetes immigrant dragues margarina gallines giravolt pregona rego</Line>
+<Line>trifulgues grafismes margoses distregui atrafegat gratis sapiguem festegi imagina margallons</Line>
+<Line>relegats gestionat lleugers esgrimia espigues retinguda negues preguntat aguantar virginal</Line>
+<Line>glops vegetal degeneri defenguem pugin sagal gloriosa espigola argentins ignorants</Line>
+<Line>esdevingut gorg allargava figuristes plantegeu regales esgarrifen gojar rugint llenegues</Line>
+<Line>paladeges apaguin ginesta generada degoteig galeretes gendre vagit mossegades</Line>
+<Line>degenerada fangat giravoltes prodigis galeries llegidora graelles vegin pagans gela</Line>
+<Line>pessigades fingits esguitava reig fullatge ingressen regentaran plagio pengeu magrejades</Line>
+<Line>suggerits rigorosa lligallo eruga inaugurant iogui entregaren fangosos gentalla rosegats</Line>
+<Line>pedregades reagrupats solatge regatge plegador igualtats glasses gonfanons peregrins</Line>
+<Line>muntatges distingint perseguint grillin elogiada esporgat gigues originat agrera degenera</Line>
+<Line>indignes gaiates arreglaria desdiguin transigent retregui deslliga entregat reglats gargoteja</Line>
+<Line>geminada regentava fogoner indignat pengen migradeses engegarem divergir formatget</Line>
+<Line>demagoga germinen llegirem regaleu guaitant natges inaugurals garrofers trilogies orgull</Line>
+<Line>gerda prefigurat fuetegi amagats flagrants navegar paradigma aguerrits sortilegi aplego</Line>
+<Line>saguntins gustatives algueresa dragar tiges arreglant passatgera engata vaguetat rodeig</Line>
+ </Level>
+ 
+<Level>
+ <!-- 11 -->
+ <NewCharacters>y</NewCharacters>
+<Line>apanyat gavany senyorial enfonyis tenyien grinyolava renyava ressenyi ensenyeu madrilenya</Line>
+<Line>torsimany empenyeren tenyint pany grinyols anyells renys ensenyarem enyorin engavanyar</Line>
+<Line>dany vinyaters dissenys enyores empunyant allunyar anyalment endanyat rapinyat ronya</Line>
+<Line>rapinyador llenya dissenyats desenganya pertany llunyans guanyades pertanyia junyides</Line>
+<Line>estrenyent menyspreu ronyonada enyoren rampinyar grinyoli vinyars renyirem apanya</Line>
+<Line>vergonyant monsenyors endenyat senyoretes vergonya apanyar tenyits punys junyent</Line>
+<Line>vergonyes nyap ensenyaves senyalen renyada guinyava allunyem ronyons ginys refranyers</Line>
+<Line>amanyades empenyem senyorets esmunyia endinyem enyorada enganyarem emprenyada</Line>
+<Line>amanyaga estrany ensenyar empunyava nyonyes peanya pertanyies senyera munyir</Line>
+<Line>apunyalar esmunyir junys tonyinaire afanyeu renyi renyes estranyesa enganyes enganyats</Line>
+<Line>pertanyo rossinyol terrenys munyides assenyales ensenyorit alemanys renyien rapinyades</Line>
+<Line>estranyats antany punyeters tanyada entranyats apanyem estrenyen ressenyo punyida</Line>
+<Line>enganya ensenyen guanyaries emprenyem senyalats espanyat vinyater amanyagues</Line>
+<Line>allunyaran empenyia teranyines ensenyin refrany renyen estrenyia grunyen guanyats</Line>
+<Line>senyades munyia apunyalant seny estanyol afanyat rapinyant renyiren renyides peanyes</Line>
+<Line>allunyo danyin guanyava senyors apinyats emprenyar enganyaven prenyar enguany atonyina</Line>
+<Line>tenyides pinya ensenyo enginyer grunyint enyorar llunyanes estranyes penyora</Line>
+<Line>vinyes estreny prenyat estany afanyem espanyoles ensenyat vinya allunya ensenyaren</Line>
+<Line>vinyetes senyalat empunyen punyetes guanyes amanyada guanyaria manyes enyorats nyora</Line>
+<Line>manyaga allunyat ressenyem senyorius afanys aranyoner malaguenys teranyina alemanyes</Line>
+<Line>estanya dissenyant pertanyent apunyalats estranyi empenyerem anys madrileny senyes</Line>
+<Line>ronyoses renyies desengany grinyola senyal pinyers guanyaves guinyola guenyo pertanyi</Line>
+<Line>yakitori danyosa espanyes lluny enganyades any prenyada munyida aranyons punyetera</Line>
+<Line>penyores pinyols ensenyant areny guanyador fenyut allunyats anyada menystenim atenyien</Line>
+<Line>apunyala renyires enginyeres afanyosos tonyines tenyia guanyat espenyar renyir</Line>
+<Line>guanyadors munyen refranys guanyin tinya destenyit assenyalin minyones esmunyint</Line>
+<Line>refranyer empeny menyspreen renyim ferrenyes nyanyo ganyot endinyar allunyares</Line>
+<Line>senyorejar esmuny dissenyem punyeta empenyi dinya senyalant apanyats guinyar rapinyada</Line>
+<Line>puny renyits enyoraran guanyaven menystenia migranyes emprenyant planyien enganyoses</Line>
+<Line>feny punyent enginyosos enganyada dinyen ensenyaria dissenyar allunyada allunyant</Line>
+<Line>grinyol senyalava avergonyiu renya retrunyi espanya nyepa allunyades menysprees</Line>
+<Line>senyo marenys empenyorar senya averanys menyspreus tirany aranyetes enganyaria renyit</Line>
+<Line>refranyera enganyar enganyosos assenyalen munyidores monsenyor assenyats atenyo anyal</Line>
+<Line>empenyo piranya enganyat empenyien ensenyes llinyes pinyata guinyol ganyotes pertanyeu</Line>
+<Line>emprenyis engany tenyida emprenyats faraday prenya amanyagava pinyol allunyeu</Line>
+<Line>manyans minyona pertanyien allunyi tenyit enganys senyalar emprenyi llinya greny rapinyen</Line>
+<Line>ensenyares pinyoner autoengany nyores pertanyis terreny grenyut ganyims ganyips</Line>
+<Line>pedrenyals senyoret muntanyans esmunyit apunyalat sunyers nyam enganyifes muntanya</Line>
+<Line>assenyalem guanyessin guanyant assenyalat amanyagant enginyar espinyar estranyar</Line>
+<Line>emprenyat senyals torsimanys muntanyam senyora senyores punyeteres tenyiu ressenyar</Line>
+<Line>viarany enganyin senyoreja estranya senyoregen vergonyosa amanyaguen grunyir junyien</Line>
+<Line>espanyols pinyes enganyifa enginyers danyats penyalar llenyosa atenyen monyo nyanyos</Line>
+<Line>guenyos anyell allunyen llunyana penyals grunyidor punyal emprenyen amanyagar</Line>
+<Line>muntanyosa emprenyava enganyaran guanyem menyspreem pinyer estranyeu grunyit</Line>
+<Line>enyors prenys entranyes guanyen fontinyola prenyades assenyalar fogony renyirien seny</Line>
+<Line>nyepes enganyant manya alemany estranyada guanyeu allunyava planyen funy empenyen</Line>
+<Line>assenyalo empenyin danyava paranys ensonyats enyora guanyar danys estranyat dissenyen</Line>
+ </Level>
+ 
+<Level>
+ <!-- 12 -->
+ <NewCharacters>zh</NewCharacters>
+<Line>emfatitzen homilia homologats hitleriana humilitats humanisme utilitzant hissat hemisferi humilitat</Line>
+<Line>hostatges humiliar hostalers finalitzo realitzes minimitzin zelen magatzem zoos hutus analitzo salzes</Line>
+<Line>atzarosa hispans idealitzar superhome hisendats valoritzar zigzagueja frivolitza hippy hispanitat</Line>
+<Line>honrades esmorzen penalitzat humitejant zoologia zelandesa finalitzen hoteleria guitzes honorem</Line>
+<Line>deshonrar zas zenitals hidrat honorari anhelo agilitzen visualitza antiherois heli aranzels realitza</Line>
+<Line>gorgonzola suavitzats dotzena zumzeig galzeran anihilador hegeliana utilitzat martiritza organitzo</Line>
+<Line>ironitzar agilitza honradesa autoritzo humanitzar rehidratat legalitzem organitza organitzat metzines</Line>
+<Line>hagen mohers humana honorant sintetitza honora heure pizzeria tretzena aguditzat histories suahili</Line>
+<Line>finalitzar sodomitzar humiliats hummus analitzant organitzeu humanitzat amenitza immunitzat</Line>
+<Line>adherim anihilar honestedat anhelat honori deshonesta deshora hum paralitzar homologada</Line>
+<Line>hostaleres holandesa hongareses emfatitza hostalera onze hondurenya hereta finalitza adheria haig</Line>
+<Line>atzagaiada honres inhumana utilitzi analitzes azotada horari heralds homofonia honrats inhalem</Line>
+<Line>honra hortet horroroses setzens hivernant memoritzat llatzerat legalitzi emfatitzin adherits</Line>
+<Line>amortitzat minimitzem esmorzars jazz finalitzem thriller dinamitzeu menhir hemisferis higienista</Line>
+<Line>realitzeu honorar teoritza heroisme kamikazes huitanta reutilitza havien zelosament hertzianes</Line>
+<Line>suavitzada polze polemitzar humitegen hormones anhelades polaritzat eternitzat esmorzarem</Line>
+<Line>sodomitzat homenatge alzinera frunzir alzireny aprehendre agonitzen humus hurra hissaren</Line>
+<Line>harmonies home mahjong zel hiverna prioritzar hegemonia horrorosa inhumanes prohoms humiliat</Line>
+<Line>heretaran hisop rivalitza zoo heretat has adherida mahometans fertilitza hem pizzes homenot hales</Line>
+<Line>teoritzat anhelis normalitzi hiat metzineres haitians hostatgen analitzi hereus anhelar anihila</Line>
+<Line>feminitzat humanitzen idealitza hieratisme hauran zelador honrar agutzils honrant prioritzen</Line>
+<Line>autoritzem trapezista havans haguera agonitzava honorada legalitzat hortes saharians hostaleria</Line>
+<Line>optimitzat utilitzis thais hodierns haveu gigahertz homenatjat hagut haurien humitats anhel prioritzi</Line>
+<Line>polititzin adhesiu almohades hostessa analitzat divinitzat amenitzat hivernen artitzat analitza</Line>
+<Line>hinduistes paralitzat alzinar perhom hages paralitza hortolans antiheroi hostatge adhesius polaritzar</Line>
+<Line>adherent fidelitza hodiern hagin formalitza hereves llonza feminitzar inhumans neonazi het organitzi</Line>
+<Line>atomitzat thrillers havers hedonista heretessin esmorzaran idealitzem rehidrata herald heretades</Line>
+<Line>setze ionitzants hotel desheretat haguda homenatja alhora humans adhesiva khmers homes</Line>
+<Line>mimetitza deshonrada vaporitzat zero protozous anhela halitosi humitejat haikus demonitza</Line>
+<Line>horroritza menhirs holandes himeneu utilitzes inhumat hemo humiliant hormonals heretar heu hui</Line>
+<Line>horrorosos hermetisme humanitza zigots hidratar harmoniosa hagueren esmorzem hereva donzella</Line>
+<Line>emmetzina homogenis zenital amazones islamitzat anhelada herois optimitzar divinitzar organitzem</Line>
+<Line>heretats hivern hivernada poetitzar visualitzo guitza horts alzinars atzur utilitzada vehement hostatja</Line>
+<Line>agonitzats honests humor honroses pinzellar dramatitzo nazis polzades heterogeni honorat</Line>
+<Line>humitejats hominem humitejar hostal agilitzat terroritza historiats havia penalitza amenitzava</Line>
+<Line>hostatjat honrat anhelaven honoraris homologar atzaroses heretera adherint adotzenats humils</Line>
+<Line>humiliants estilitza metzina havanera hidropesia haima aguditzant thai horaris rehidraten humors</Line>
+<Line>harissa hotelera eternitza minimitza deshonest hirsuta atzavares deshidrata emmetzinar modernitzi</Line>
+<Line>senzilles agilitzar emmetzinat motoritzen horta zona heretgia alzines profetitza finalitzi humorista</Line>
+<Line>utilitzin heretge legalitzar polititzem hagueu aleshores teoritzen atzar atzars honoren heretgies</Line>
+<Line>amortitzar zels teoritzava analitzen hissen haureu pluralitzo sikh anhelem honorarem sonoritzar</Line>
+<Line>simpatitzo organitzin hedonisme homenassos halogenurs utilitzeu emfatitzis inherent hidrolitza</Line>
+<Line>hangars hidratada magazins hereditari senyalitzi hagi frunziment higiene hoteleres realitzar nihilistes</Line>
+<Line>hort humitejava hagudes anhelaves agonitzant haiku minimitzar anhelava haikai huns hipotensa</Line>
+<Line>inhalant demonitzen aguditza polzes deshonor heures realitzi hipnosis esmorzes humanament</Line>
+<Line>prioritzat mentalitzo realitzen hagem horda vitalitza hidrata esmorza hematomes haver hisendat</Line>
+<Line>ziggurats hissar frunzits hispanes donzells humoristes emmetzinin finalitzeu homogeni holandeses</Line>
+<Line>homilies adherir senyalitza onzes haja humitat hormona tretze hams nihilisme homenejats</Line>
+<Line>humanistes humitegi host dinamitzen amenitzant hortalissa humilien zeladors esmorzava hivernal</Line>
+<Line>dotze dinamitzat pinzellada honrada realitzin falzia atzurs rizoma hoteler haguem organitzen zetes</Line>
+<Line>zoom zooms ironitzant minimitzat homenatjar anihilant realitzava hereti zigot halar hidrosfera hems</Line>
+<Line>realitzat hissaven hereten himne herodiana homologat emmetzinen hissarem rehenes anihilades</Line>
+<Line>esmorzant utilitzen analitzats homenet honrosa rehidratar horetes organitzes harmonia hertz</Line>
+
+ </Level>
+ 
+  
+<Level>
+ <!-- 13 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>carbonat cabareter cobraments entrebancs combatria cabrestant capbussava blocatge encoberta</Line>
+<Line>acabi batzacada beatifica comptables bacallar combregui cobrava abraci borgencs comboiant</Line>
+<Line>confusible acoblar desacobla incurables desbocar cambreres fabricat confabulin combinaven cimbori</Line>
+<Line>descobrint cobrellits embarcada descoberta comprables colombines subcanals becats sobrepesca</Line>
+<Line>boscoses basilical bocat cubells albercoc cables brocats hecatombe cobriu cubicatge escarbotar</Line>
+<Line>combini correbous carabasses abocadora cabernet busco brancada concebia celebrant cabreig becar</Line>
+<Line>benefactor lligaboscs cobertes cogombre embolicat caribenya encobridor ubicat bancari banca</Line>
+<Line>recobrades objectes ceba cobrim carrabina cabuts encabits carbons bocada jacobea cabronada</Line>
+<Line>cabelleres cubistes publicata becat cabem discutible combatran subcutani bonances encobrint</Line>
+<Line>obscur descobrim impecables celobert acabareu carbur corbeta delectable bisbalenc objectiven</Line>
+<Line>coberta percebia cabdills buirac publicarem braceig imbricats substancia boscosa bucal catacumbes</Line>
+<Line>bifurcat objecte beneficia umbracle combinades biblioteca cobrats obtinc encobrir cobrarien basc</Line>
+<Line>cabirol decebuda balconada calibre corbes bascular elucubrem bacada bec becadell subjecten</Line>
+<Line>combines buc columbari brescades umbilicals abdicat bonics bancals abocaven acabarien</Line>
+<Line>embarcarem octubre colombiana acabessin esbucat tabac bucranis bagenc tabacs objectivar</Line>
+<Line>combinarem corroboro bivac boscarla imbecil cabanes cabronades publicaran benefici cubista brocs</Line>
+<Line>intocable percebien bescuits trabucades recobrada cabrer bivacs balbucejos bracejava barracons</Line>
+<Line>bescanta recobertes barraca busca objectives accessible microbiana abraceu capbreus subscrita</Line>
+<Line>apercebem decebedors ubico macabres combati corroboren desacoblar desbocats barcaroles</Line>
+<Line>cabaret elucubrar incuba cabalosa rubricat llibresca abocaren combregat cabrejar bancades</Line>
+<Line>cobejosos predicible combaten publicats decebis incubadora cobrament libracions buscador</Line>
+<Line>fabricarem sucumbir balbucejar celebren recobrir carbassat buscava inatacable cabell corbella</Line>
+<Line>barbacoa desbancant embarcareu brancals acomboia buscades beneficiat recombinar buscaran</Line>
+<Line>obscurs bacallaner riberenca incunables encabiu ubicant abstracta colombians celebres cornicabra</Line>
+<Line>abracin obencs combatre cabassa bescanvi combino acabat embolcalla escabrosa cobert desboca</Line>
+<Line>bolcada fabrica rebuscat calibrada subjectiva boci comprable cambodjana cable corroborin abocat</Line>
+<Line>corbates bancs abocarem buscar boicoteja acabalats cub bolcats subjacents cerebral comparable</Line>
+<Line>cabdello libacions esbucar cebeta contraban cabdals contuberni fabricar boscs blocaries abocaria</Line>
+<Line>embolicava rebuscada calibrat combato cambrera bocamolls acomboiada corbada emboscada</Line>
+<Line>publicitat cobressin brusca objectors butaca herbaci bacteriana boscosos cabassada carbonet buscat</Line>
+<Line>bicarbonat cabirols microbis acceptable bruscos decebedor bruscament emboscats broc brocanter</Line>
+<Line>concebuts corrobores percebes branca combrego bescanviat acoblem calibres fabricada carbassa</Line>
+<Line>intocables embarcats embocadura bacora encabit encomiable cobren bagencs basculen embolica</Line>
+<Line>subscrivia cobraves combinada balcones acomboiat caribeny entrebanca combativa cabrejat</Line>
+<Line>llambrec hecatombes decebran encabim obcecat abdico cabuderia encorbat cabrejada jacobeus</Line>
+<Line>encabritar bocs barricada carboncle burlesca tractables bucs cabrum cabellera carbonats benastruc</Line>
+<Line>corbata rebolcada macabra cabdells compatible cabet decebedora embrancat boscater cobriria</Line>
+<Line>bolcs barricades serbocroat acabaren carabassa cobrar albercocs recambra barroca abdicarien</Line>
+<Line>calabresos carburants bolcar abracem buscarien bonificar subjacent desbocava cambrai decebuts</Line>
+<Line>carbassons incasable bocades celebri bagenca brancatge criticable cobrint boicotejar descobriu</Line>
+<Line>hebraica boscana acabats embadocada colobra subscrites bolc destacable banco embolicar acabem</Line>
+<Line>incuben bolcall buscadora recobrat umbracles calba encabissis capbussen bocassa cambrot</Line>
+<Line>escombrat fabricador buscall cambodjans balconers braces bucle confabula vocabulari cobrarem</Line>
+<Line>culpable objectivat bifurca irascible percebudes recoberta cobro baconera calbots acabaran</Line>
+<Line>esbocina obcecades cogombres barcelles cabria siboc capbreu recobrem ubicada encebant publica</Line>
+<Line>ubicades corb cabo impecable corball abocava cabran incunable cabut brencs cobriren obscenes</Line>
+<Line>rebuscats desacoblat acaben playbacks ambicionar bescanviar beneficien concebi rescabalar cabells</Line>
+<Line>llibresc combinen balanceja jacobina cimbell corrobora boscades dicible rebolcar corregible</Line>
+ </Level>
+ 
+ 
+<Level>
+ <!-- 14 -->
+ <NewCharacters>accents ó é í</NewCharacters>
+<Line>visitaríem discretíssim hauríem cosí foliació implantació sobreimpressió mengívol tardívola</Line>
+<Line>potenciés totpoderós revisaré mantinguéssim responguérem filípica disposés escassíssims</Line>
+<Line>actualitzaré anfós legítim maleís documentés alcoholímetre barallés lívid ateníem consentí</Line>
+<Line>prunyó prometé vinícoles soporíferes sostén cantaríem móres intercedíssim democratització</Line>
+<Line>collí calé hospitalització creguí ratllés inconspícua enfadéssiu llépols respiréssim berrugós</Line>
+<Line>burí finalitzés íntegres fornicació cotilló picaré postulació obturació austríaca notificació</Line>
+<Line>imprimíem bonítol bisturís concretaré omplí rebló terbolí mouríem ansiolític centrífug</Line>
+<Line>sentíssim entraríem ejaculació síncope asprívols retracció regalés incestuós treballés</Line>
+<Line>deserció compreníem verdíssimes afectés financés dipositaré operística astrofísic floració</Line>
+<Line>cridés polígames entrés penalització cabríeu anticicló analítics dentífrica indeterminació</Line>
+<Line>consultaré aguantaré descomposició decomís revisió allargués inclinació interrelació</Line>
+<Line>desgravés íntima víctimes tumultuós dolgué bevíeu incívic presumptuós teledetecció ínclit</Line>
+<Line>psicofísica pacífica clamorós respondríeu boníssimes acrídids guardaré professió endrecés</Line>
+<Line>berenaré tírria forméssim calcinació furó inseminació cavallerós gradació girés connotació</Line>
+<Line>destruí córner anéssim deliberació proclítics afrontaré pagaríem obstrucció acolorí tampó</Line>
+<Line>donaríem fonedís sobrepassés notéssim producció cérvols paréssim sacríleg temptaré</Line>
+<Line>aplaudírem terrícola traguérem influenciés contractació personalíssim dimitís permeté</Line>
+<Line>esgarrifés proteínic correguí finíssimes carbó titllés dosificació esdevingué sortíem absorció</Line>
+<Line>addició autocrítica merdós nét declarés acusació polpís regueró declinació fomentés penedís</Line>
+<Line>hagés gesticulació moltíssimes estalviaríem compartí pesés amarés desforestació heurístic</Line>
+<Line>beneís aportés secreció divulgació arrancaré actualització sentí afegíeu automobilística petricó</Line>
+<Line>melindrós bíblies inspirés enterréssim dobló pronominalització senyalització muntaré</Line>
+<Line>estrangulació fornícula caprí caminaré fosfolípids inflació optaré determinació genuí assenyalí</Line>
+<Line>cendrós couríeu onírica profusió pavimentació rostiríem trepitgéssim repulsió rerepaís</Line>
+<Line>memorística oració coproduíem lentíssims rutllés banyerí marinís mortificació importantíssimes</Line>
+<Line>revolució pedregós pícnics marítimes aprovés contemplació decímetre gravíssims inscripció</Line>
+<Line>guarició borró benedictí inundés perdí druídica suplantació dissimulés fascinació guardó aboliré</Line>
+<Line>tergiversació asseguérem marginés interessés logística dimitiré definí comprí bioacumulació</Line>
+<Line>paorós revoltó emanació pobrissó elucubració ínfules catalanització dispararé tramités duríssim</Line>
+<Line>recíprocs és rebríem beatífics apunyalaré calculéssim apostaríem goleró omnívor anguniós</Line>
+<Line>encendré vulneració besnétes resoldré pagués moltó cívica recambró preníem patíeu designaré</Line>
+ </Level>
+  
+  
+<Level>
+ <!-- 15 -->
+ <NewCharacters>accents à ò è</NewCharacters>
+<Line>retratà afrontà acaronà àrdua concurrència psicofàrmacs sopàrem inclemències</Line>
+<Line>bramarà cònica fragmentarà analitzàrem precedirà visionària enterrarà atalaiàvem donà</Line>
+<Line>metabòlic solidificà necessàriament forjà osteològics innocència tacàvem filtrarà autòpsies</Line>
+<Line>sòtol enciclopèdica saludàvem presentàrem espòs fotocòpies netejaràs sortirà honrà</Line>
+<Line>albergarà descriurà separàrem poliàndries faisà pretònica avarià simbòlic dissetè</Line>
+<Line>pressupostària cremàvem brètol pallà autònomes sarcòfag òssies rònega esterculiàcies</Line>
+<Line>bàrbar contemplà regalaràs contà fomentarà incrèdules imaginàries sistemàtic criptogràfic</Line>
+<Line>mitòmana pèndol volaràs portarà interferències despòtic tramitarà dictàmens històricament</Line>
+<Line>ferropènica èter sòbria aminoàcids clàssicament dòping paisà dependències restàrem</Line>
+<Line>semiesfèrics prismàtics insistències mèdiums perpètues inconsistències pàtina</Line>
+<Line>dèries fanàtica freàtica pàries eufòria diàspora plusvàlua albiràvem cridaràs àlbum tòtil</Line>
+<Line>liderarà idiòcia repararà històric hostatjà zoòtrops superàvit pescarà època confegirà</Line>
+<Line>perifèries acordarà piroclàstics comprendràs tastarà penjarà fèlids sintàcticament</Line>
+<Line>assessorarà demogràfics trobàrem foradà etilè creuàrem lleidatà acadèmies dècim deplorà</Line>
+<Line>crearà tòner càpiguen farmacèutics etiòpic apropàvem esmorzàvem encantarà sàtires</Line>
+<Line>estràbic ciències desmèrit plegà supòsits renegaràs programàtics autobiogràfic matalàs</Line>
+<Line>teleassistència benèvols disposàvem barbàries mànagers dodecafònica tudà ripària</Line>
+<Line>vivències esòfag recaptarà anècdotes prolongarà pletòric uròleg vàlid esclafàvem</Line>
+<Line>fèrries dispèpsies pujaràs encàrrec renyirà geomètrica plasmà farmàcia eurasiàtics lilàs</Line>
+<Line>siberià ortòpter monàstics estàvem diàdic pobletà dignificarà vetllarà etzibà nèctars</Line>
+<Line>discòrdia imposàvem vetllà congregàvem àtom disgustà nàufraga poliuretà còsmics ègloga</Line>
+<Line>desprèn faràndula zitzània autèntic Àgata nàutic homèrica poètics cantàbrica penitenciàries</Line>
+<Line>esmolàreu genealògics pneumàtic càssia donàvem entràvem decàpodes tombarà dinàstics</Line>
+<Line>dessalarà retallà altiplà agònic dialèctic bàscules ingressà caràcter desinències còlit</Line>
+<Line>escaparàs intempèrie humà gòtica titànic crià fotogènica parlaràs estranyarà tirànica</Line>
+<Line>neurològic demanà denunciàvem correrà polititzarà diastòlic monàstica onomasiològica</Line>
+<Line>funeràries hèrnies beuràs transatlàntica acadèmic deformarà diàmetres prussià citàrem</Line>
+<Line>reticència violència tàctics entregà òperes blasfèmies guanyarà totalitària modernitzarà</Line>
+<Line>adjudicatàries aràbiga patològics mènsules suposà cambodjà supervivència embòlia tenyirà</Line>
+<Line>indumentàries perpetrà autòpsia tènia filològica simpòsium polifacètica càndidament</Line>
+<Line>influencià ressaltà catedràtic benèfics frenètic decrèpites reclamàvem incòmodes rètols</Line>
+<Line>discriminarà nucleòfils històries catàrtic rufià pòmuls potenciarà convèncer pòdium</Line>
+ </Level>
+ 
+ 
+<Level>
+	<!-- 16 -->
+ <NewCharacters>q</NewCharacters>
+<Line>mosquejat plàstiques quedarien quan avarques piques tipifiquen conquistes obsequiarà</Line>
+<Line>musiquetes mosquejada enquesta adquirissin nasquéreu cantàbriques saquejant líquides</Line>
+<Line>truquessin desqualificaven plantifiquen requerí estatunidenques trenquis equina lúdiques</Line>
+<Line>quedarà sarcàstiques quim enquadrament agroquímica equivoca destaquen equilibrant</Line>
+<Line>ronques obliqua critiquem arranqués quadrar critiquis modifiquem maquinant</Line>
+<Line>quedaré maques engresqui talaiòtiques quantitativa quiròpter maniqueus arrisqués</Line>
+<Line>qualificarà branqueja bivaquejar equidistàncies plovisqueig quartet tiquet prehistòriques</Line>
+<Line>acluqui nàutiques aquell busqui quedin miquelets palanqueta enquestades raquis</Line>
+<Line>badoqueria maquinalment contraataquen equipament anarquitzant critiquin ibèriques</Line>
+<Line>liquat engresqueu antidemocràtiques quebequesos orquestrina electròniques rèquiem</Line>
+<Line>arquejar equatoriana coques saquets equip eslovaques alquímic infranquejable quint</Line>
+<Line>tràgiques fílmiques mongòliques quàsars cúbiques prediquem adquirís pancreàtiques</Line>
+<Line>socioeconòmiques defequen enquadernava flanquejaven menorquines estratosfèriques</Line>
+<Line>croquet eclèctiques abdiqués fàbriques jurídiques cavalquem fructifiquin arquitectural</Line>
+<Line>analítiques impliqués esquilador suquen enquistades magnifiquen antropogèniques quid</Line>
+<Line>fotoquímic ornitològiques catequista confisquen ataquin blanqueig flanquejats quantificats</Line>
+<Line>fosquejava quarantè triquets apliqueu certifiquem estadístiques esquiada remarqueu</Line>
+<Line>cinquantè rebeques sòniques ronquin maquilladors indiquessin quadrat cardíaques</Line>
+<Line>psiquiatria làctiques cerqueu esquela quadrilla quarantí galàctiques empaquetats</Line>
+<Line>informàtiques convisqué piqué psicòtiques solquen arranqui piquets equivocàvem</Line>
+<Line>adquirint babeques queta quimèric manques signifiquem embarques antifranquistes</Line>
+<Line>hipodèrmiques electrodomèstiques alpinístiques requalificaran quilla toponímiques</Line>
+<Line>heurístiques sequedat forniques arbequina aniquilant-se perruquer esquemàticament</Line>
+<Line>menjuquegi visqueres rogenques aequo polèmiques adquiriu convoqués liquidació</Line>
+<Line>esquiadora equiparant enquesten biquini esquitllant fosquejat somiquegen meteorològiques</Line>
+<Line>masoquistes quarteró estratègiques algemesinenques tísiques niquelats esquerdat</Line>
+<Line>truqueu quedaves quirals conquistadores impliquessin equivalents químiques convoquem</Line>
+<Line>esquiadores antropomòrfiques enquadernats blanquinoses asseques toquis lloques recalqui</Line>
+<Line>qatarians marqueu cinquantenari equipant aboqui emblanquinaven oceàniques mesquer</Line>
+<Line>mediàtiques purifiquin suqueu tauromàquia fresquetes adquisicions identifiqui croqueta</Line>
+<Line>sacrifiqués bequem cerquin anestèsiques ronquen especifiquin autonòmiques enriquir arrenques</Line>
+<Line>esperpèntiques burocràtiques dupliqués oligarques periòdiques porqués siderúrgiques trafiquessin</Line>
+<Line>pasqual dicotòmiques aquàrium mosquiteres adequadament catequesi caciquisme modèliques</Line>
+<Line>herètiques quadrades prehispàniques polisèmiques emblanquir enquaderna diabètiques equipada</Line>
+<Line>ruqueries esquistosa morques nigromàntiques quantificada repúbliques haques catastròfiques</Line>
+ </Level>
+ 
+<Level>
+	<!-- 17 -->
+ <NewCharacters>w (English)</NewCharacters>
+	<Line>wood fowl wiring wine weed crew swaddle witch wart wanton eelworm sawdust wind eyebrow</Line>
+	<Line>fawn warfare stowing wobbly wake weigh warped world swamp swallow inward walkway two maw dew</Line>
+	<Line>whiff dewlap whistle pew wastage weekday fewer worn where working yawn wheat wallet await</Line>
+	<Line>cowed awe throw whose dowry owlet bigwig unscrew owe redwing tow warm hallow mildewy wedel</Line>
+	<Line>showily pathway mowing wear wigeon trawl towel swarf writer mugwort mower wrench ribwort</Line>
+	<Line>warrior dwarf wed wharf slew tweak twinkle town wedging snowman cowshed willful width browser</Line>
+	<Line>brawny gawkily wane tweed walnut whorl rowdy dawn jetway wading mew drowse swipe whether known</Line>
+	<Line>scrawl wire dowdy awl waiver untwist wedlock swear swathe awed swivel will woollen wan know</Line>
+	<Line>whimper wedge wolf wooly weakly own wander cowpat crowd wean vow narrow hollow uptown fawning</Line>
+	<Line>beware swig whirl gateway wriggle wicked warp crowded washy bewitch wasted which windy</Line>
+	<Line>fellow warlock morrow answer nephew claw widgeon avowal wick dowser</Line>
+ </Level>
+ 
+<Level>
+	<!-- 18 -->
+ <NewCharacters>-se</NewCharacters>
+<Line>dirigir-se clonar-se destinant-se transparentar-se contaminar-se animar-se compensar-se</Line>
+<Line>projectant-se posin-se mobilitzar-se produint-se tensar-se aïllar-se integrar-se pressentir-se</Line>
+<Line>rovellant-se desarrelar-se gratar-se parar-se enganyar-se inhibir-se alleugerint-se</Line>
+<Line>comprovar-se sabent-se impartint-se estampar-se cobrar-se rient-se limitar-se permetent-se</Line>
+<Line>soldar-se colgar-se fracturar-se portant-se afegir-se mocar-se amalgamant-se calentejar-se</Line>
+<Line>elevant-se engrandir-se esvalotar-se contrastar-se desordenant-se reclamar-se federar-se</Line>
+<Line>caracteritzar-se fotent-se enredar-se desdir-se rosegar-se iniciar-se vehicular-se inaugurar-se</Line>
+<Line>regionalitzar-se coordinar-se penjant-se proposant-se descarar-se destorbar-se guarnir-se</Line>
+<Line>saltant-se esperant-se organitzant-se cartejar-se conformant-se arrimant-se esglaiar-se</Line>
+<Line>restringint-se descolorir-se dosificar-se evidenciant-se parapetant-se orientant-se</Line>
+<Line>fusionant-se abocar-se cruspint-se ofegar-se ventar-se ordenar-se encegar-se inflar-se</Line>
+<Line>globalitzar-se comptabilitzar-se esbarzerant-se reivindicar-se ajudant-se tornar-se regenerar-se</Line>
+<Line>rebolcar-se denominar-se estressar-se recordar-se atansant-se posposar-se atenir-se saciar-se</Line>
+<Line>classificar-se apoderar-se evadir-se plegar-se arrencar-se convocar-se auto-convèncer-se ajocar-se</Line>
+<Line>segellar-se guiar-se somrient-se amputar-se burlant-se remullant-se rentar-se vantar-se malfiar-se</Line>
+<Line>semblar-se passejar-se socarrimar-se detectar-se proclamant-se alimentar-se empobrint-se</Line>
+<Line>emprovant-se escridassant-se fonent-se corcar-se purificar-se filmar-se follant-se recordant-se</Line>
+<Line>privar-se patir-se desinflar-se pagant-se calfar-se anant-se saludar-se absentar-se atansar-se</Line>
+<Line>reflectir-se acusar-se recollir-se traient-se encomanant-se aparellar-se relatar-se destinar-se</Line>
+<Line>escorrent-se creuant-se conformar-se atribuir-se desviant-se lamentant-se esgargamellar-se</Line>
+<Line>succeir-se encantant-se camuflar-se inventar-se aplegar-se fumant-se protegint-se</Line>
+<Line>desgranant-se banyant-se trencant-se treballant-se avergonyir-se interrogant-se curar-se</Line>
+<Line>corregir-se ubicant-se agenollar-se inferir-se desinteressar-se constituir-se programar-se filtrar-se</Line>
+<Line>arreglar-se obsessionar-se ventilar-se proclamar-se retardar-se apostrofar-se estacionar-se</Line>
+<Line>arruïnar-se reconciliar-se disparant-se consultar-se apreciar-se procrear-se ordint-se seguint-se</Line>
+<Line>alcoholitzar-se basant-se recargolant-se inspirar-se barallant-se espesseir-se originar-se</Line>
+<Line>materialitzar-se afinar-se habilitar-se servint-se orientar-se humanitzar-se emmarcar-se</Line>
+<Line>despullant-se doblant-se netejar-se refregar-se normalitzar-se abrigar-se acumular-se</Line>
+<Line>fotografiant-se redirigir-se empassar-se rodejant-se refredar-se confirmant-se apagar-se</Line>
+<Line>emancipar-se despenjant-se estremir-se afogar-se lluitar-se adobant-se afaitar-se recloent-se</Line>
+<Line>disparar-se repartint-se tirant-se ocupant-se entrebancar-se configurar-se valent-se espolsant-se</Line>
+<Line>fundar-se embrutant-se produir-se infectar-se sobreposant-se coalitzar-se arronsant-se polint-se</Line>
+<Line>inflamar-se establint-se inflant-se penjar-se sorprenent-se pentinant-se governar-se refiant-se</Line>
+<Line>emprant-se polaritzant-se desdient-se interferir-se arrencant-se reproduir-se deduir-se estalviant-se</Line>
+<Line>entaforar-se assegurar-se ensenyorint-se anomenant-se professionalitzar-se palpant-se procurar-se</Line>
+<Line>encenent-se preguntar-se recargolar-se retrobar-se ramificant-se esperar-se cristianitzar-se polir-se</Line>
+<Line>contemplar-se arraulir-se divorciar-se trair-se lloant-se actualitzant-se practicar-se encabotar-se</Line>
+<Line>descomptar-se confonent-se evaporar-se empassant-se visitar-se aborronar-se involucrar-se</Line>
+<Line>desencarcarar-se desautoritzant-se superposant-se complicar-se interessar-se vessar-se desfogar-se</Line>
+ </Level>
+ 
+<Level>
+	<!-- 19 -->
+ <NewCharacters>s'</NewCharacters>
+<Line>s'evoquen s'intenti s'arreplegà s'adjunta s'iniciaria s'enclava s'assenti s'estiguin</Line>
+<Line>s'accentuen s'estalviaria s'amoïni s'alimentarien s'incrementi s'estripava s'abeuren</Line>
+<Line>s'interna s'aprova s'esvara s'empolsima s'acota s'ubicarien s'obstinava s'aspira</Line>
+<Line>s'aprofundí s'acara s'aproparà s'aprimava s'aportarà s'estronqui s'enfunda s'emocionen</Line>
+<Line>s'abocaren s'aveïnen s'encaparrava s'afilien s'anguniejava s'embolcalla s'empeltaren</Line>
+<Line>s'enfonsava s'hi s'enviï s'enrotllen s'estimaven s'aliaran s'aporta s'endurà s'adossaven</Line>
+<Line>s'apagà s'ensumen s'equivocava s'originava s'arrenca s'investigui s'unifiqui s'animin</Line>
+<Line>s'invertien s'embarcaven s'entendria s'atreví s'esfilagarsen s'edificaria s'abandonen</Line>
+<Line>s'escanyen s'assequin s'esllavissi s'orientà s'evaporen s'eduqués s'electrocuta s'escriuen</Line>
+<Line>s'apliqués s'esmenti s'escrivia s'ofrenen s'ignora s'ajustarà s'esclarissa s'abandonin</Line>
+<Line>s'encengués s'aposta s'humiliava s'emociona s'esmena s'afermen s'enderroca s'emporta</Line>
+<Line>s'ajuntessin s'endolla s'inventa s'intitula s'abillen s'assequen s'esfumi s'apaivagà</Line>
+<Line>s'acumulin s'actualitzi s'encaminen s'allargués s'apanyarà s'adopta s'allargassava</Line>
+<Line>s'adequarà s'afaiten s'amassava s'assignaran s'apunta s'encari s'obren s'orina s'arrissen</Line>
+<Line>s'enriolava s'analitzen s'entristiren s'iniciaran s'erosionessin s'apinyen s'escamparà</Line>
+<Line>s'amorre s'informaren s'espavilessin s'assemblava s'arronsin s'enamorarà s'encabotava</Line>
+<Line>s'acaren s'encinta s'enfadaven s'arrapava s'assenyala s'esgoti s'implica s'acluquen s'arrisca</Line>
+<Line>s'esgotava s'obstinessin s'espantava s'empinaran s'aguantava s'independitzen s'efectuen</Line>
+<Line>s'assassinaria s'agitava s'amortitzaran s'enfonya s'adoni s'escapés s'hagin s'endinsava s'aferra</Line>
+<Line>s'admiren s'adjudicarà s'apoderin s'aboquen s'acceptaren s'equiparin s'ancora s'invertirà</Line>
+<Line>s'escomet s'acabava s'arrugava s'eliminaria s'imposava s'arriscarien s'oposaven s'esmenés</Line>
+<Line>s'equivoquen s'edita s'abillava s'indiquen s'enterra s'enfurismaria s'avé s'acusava s'esbadellen</Line>
+<Line>s'apartaren s'obligà s'imputés s'inventaren s'emprenyà s'arquegi s'ensabonen s'augmenta</Line>
+<Line>s'avingui s'enviaven s'alia s'implementés s'apagués s'avenen s'enfrontés s'estreni</Line>
+<Line>s'abstinguessin s'emportaran s'admeten s'allunyà s'enfilen s'encaminà s'arruïnessin</Line>
+<Line>s'inscriuen s'immuta s'apressaven s'amortitzava s'estavellarà s'activaren s'esfumarà</Line>
+<Line>s'educa s'usi s'allunyin s'indemnitzin s'impliquin s'entretindrien s'enlaira s'estalviï s'adonessin</Line>
+<Line>s'estampés s'emanciparen s'adapten s'ataqui s'acabaran s'obliden s'enviarien s'amaren</Line>
+<Line>s'estancaria s'usaran s'inclini s'accelerés s'ignoren s'enrajolà s'interroguin s'empolainarà</Line>
+<Line>s'embarcaren s'acostaren s'erigissin s'encetava s'apropava s'optaria s'interioritza s'assessori</Line>
+<Line>s'indigna s'ensumessin s'acurten s'atengueren s'eduquin s'adonin s'estabilitzi s'anuncià</Line>
+<Line>s'esfulla s'aboquin s'aconseguiria s'enduran s'enretiren s'entaforaven s'arrastra s'enfrontava</Line>
+<Line>s'encontrarà s'arrosseguen s'avindrà s'elimini s'encomana s'impedís s'acostumaven s'amagà</Line>
+<Line>s'atenia s'amansia s'arrimen s'equivocaria s'integrarà s'espaiaven s'oblidava s'ingressin s'escoli</Line>
+ </Level>
+ 
+<Level>
+	<!-- 20 -->
+ <NewCharacters>ç</NewCharacters>
+<Line>abraçarem escapçada atroços dolç s'entrellaça pujança finançadors caçada esquinçalls</Line>
+<Line>esmerçada escurçar entrellaçant-se dreçava traçat afaiçona avançareu abraça</Line>
+<Line>adreçaven capçada discordança caçava enllaçar-se açò lloança terços veneçolans</Line>
+<Line>realçades abraçarà avançà francmaçoneria adreçàvem traçaré s'esquinçarà esforço</Line>
+<Line>convençudes reforçarà precoçment s'alça solaçats malvolença cançonetes criança</Line>
+<Line>enllaçades abraçades redreça avanç vençuda sagaços emplaçant cuguç trencaglaç reforçats</Line>
+<Line>vivaç falçs calçot finançant percaçarà pinçà encalçades glaçades s'adreça novençà</Line>
+<Line>esmerçades abraçat romanç llaç llençaran forçada finançat començaven s'alçarà francoprovençal</Line>
+<Line>s'abraça entrellaçats s'abalançava agredolços entrellaçar-se desplaça dreçar dissemblança</Line>
+<Line>colltorçats calçà alçaré braçat abraçant esbalçar tenaçment ajaçat avançaré llançador</Line>
+<Line>encapçalarà enyorança encapçalats salaç redreçada entrellaçant desfaiçonada llaçades</Line>
+<Line>façana esperançadors percaçar emplaçar avançada traços esforç llaçar afaiçonar recomençava</Line>
+<Line>parença redreço llançares malastrugança traçar-se traçarà autofinançament finançaran terç</Line>
+<Line>esquinçant-se desplaçats eriçava reforçà forçaria esforçar-se estruços endreçarem jaça calçador</Line>
+<Line>afaiçono reemplaçar vençudes escurçarà pocatraça abalançar forçant enllaçant esbalça</Line>
+<Line>desendreçant començarà maçònica desplaença endreçades remença alçant amenaçadora</Line>
+<Line>finançar-se braça abraçaries s'enllaçà vençut terça s'alçaven recomençament eriçó</Line>
+<Line>enllaçant-se apedaçats encapçala infeliç autocomplaença forço veneçolanes enllaçava raça</Line>
+<Line>esmerçant-se llenç aciençat comparança esquinçant pinçar eriçar s'adreçà s'esforçarà començarem</Line>
+<Line>cofinançar forçats llançats estança desconfiança desplaçant eriçons moçambiquès percaça</Line>
+<Line>forçadament lluç esforçar esdevinença esperançades abalançat aplaçar enllaçaré s'avançà malfiança</Line>
+<Line>alçà encapçalar torç recança realça ça esquinçats força alçaments avançaríem feroç cançoneta</Line>
+<Line>forçaments rellançada llança començament amenaçadorament llançament encalçant-se</Line>
+<Line>cofinançat ensenyança desglaç torço reemplaçat llançaves llaçats influença calç escurçaran</Line>
+<Line>desplaçaven glaçoneres romança braçalets avançarem sobrealçat començar-se s'alçaria</Line>
+<Line>desemparança forçà abraço aplaçada reemplaça reforçat acaçat esmerçar-se reemplaçables</Line>
+<Line>llançaven caçant abraçadora esmerçant enllaçarà maçanes escorç esforçant-se adreçaren</Line>
+<Line>prometença atroç cançoners eriçada realçat forçava esquinçava balanços s'esforçava enllaçats</Line>
+<Line>s'alçava glaçar caçadores forçut cançó descalços esforçat avançava esquinçada defallença glaçons</Line>
+<Line>veneçolana eriçant forçosa encapçalo redreçament esmerçats enllaça glaç apedaçat adreçà</Line>
+<Line>desplaçàrem alçar-se traçarien cofinançades torçaran encapçalava adreçaré calça s'adreçava</Line>
+ </Level>
+ 
+<Level>
+	<!-- 21 -->
+ <NewCharacters>x</NewCharacters>
+<Line>atribueixen bruixa expulsés flexionades punxeu abasteix xuclats desteixir deixar ambaixadors</Line>
+<Line>atreveixen esgarrinxava xopa s'abaixi basteixen exercissin engreixem presideix elxà prohibeixen</Line>
+<Line>boixerola desconeixen assisteixen marxandatge reixes escarxofen accedeixes torratxes pixaners</Line>
+<Line>oxidativa bisexualitat redueixen porxada despatxa s'enfosqueix exhibides descobreixen</Line>
+<Line>feixos panxada capritx esquitxes esquitxats protegeixin eixiré dutxant imparteixen explotava</Line>
+<Line>paratextuals s'exhibirà exhaurits caixons múltiplex pareixes xiulem nodreixen xalen gruixuda</Line>
+<Line>orxata sexualitats fatxendes fixo atribueixi xuclàs desdibuixats laxes queixes enxampava tòxica</Line>
+<Line>guixat extensos carxofes sorgeixi exageraré externalitats bombatxos inextricable xef</Line>
+<Line>xarreteres pistatxos explotats excepcionalitat xoricet fetitxisme abaixats angoixosament</Line>
+<Line>procedeixo peixater cruixírem caputxetes exculpada expressaven xarrupar frueix excels</Line>
+<Line>extremeny xaval dimiteixo reinverteix extracta suggereixen xerro pixavins extorsions</Line>
+<Line>rellegeixi feixisme pareixen expropiacions s'atribueixin xerradors exterminades</Line>
+<Line>desconeixien deixat feixina gronxaven flixí expectorants explotarà exagerar planxava cuixes</Line>
+<Line>atribueixin excusada queixalada pastitxos fixarà exuberància gaudeix aixecaven distribueixo</Line>
+<Line>lexicalitzada perverteix cruixirien consumeixen escruixidor existencials exhaustivitat</Line>
+<Line>requereixen deprimeixen fluixa destitueix xenòfoba frueixes extralimitar-se encaixonada</Line>
+<Line>clixés esgrimeixen milotxes s'expliqués pixar queixaria rendeixi extemporanis</Line>
+<Line>cruixires tendeixin esqueixaments tradueixi adquireixes extractors cruspeixen afluixat</Line>
+<Line>mixa xisclets exegetes redescobreixo esvaeixi mereixerem taxat sexista tòxiques fingeixen</Line>
+<Line>exhumacions cruixits expandeixen arrauxada abdueixen xirivies fluxos exclouríeu</Line>
+<Line>desenganxis defineixes excrement s'embutxaca s'oxida xiulaven extensiva s'ensenyoreixi</Line>
+<Line>corregeix exciten extremes destrueixen envermelleix gronxem explícit marxaven procedeixin</Line>
+<Line>perxes reflexioni exquisideses reflexionarà baixi s'exclou vaixella exhibia arxivant expenedors</Line>
+<Line>conflueixi xarcuteria arxivístic excloent irreflexius reincideix pixes trinxem s'emborratxa</Line>
+<Line>prefixes redueixin embruix reixa renaixia rellegeixo deixarà redescobreix s'atribueixen</Line>
+<Line>juxtaposades experimentar-se s'engrandeix greixosos néixer xiscla reuneixo influeixen xilogràfica</Line>
+<Line>exagero esfinx exegeta expropiades exemplificava introdueixen xafaran s'expulsi s'esllangueixi</Line>
+<Line>xamàniques reflexives engruixint extregui xiulada experimentalista corregeixo llueixes exacerbat</Line>
+<Line>arxivar expectació laxos estableixo s'encaixona reflexionava tàxons aixecat s'engoleix xafarderia</Line>
+<Line>presumeix pixi contribueixen xiïta vesteixen creixies baixista excomunió avorreixes peixada</Line>
+ </Level>
+
+<Level>
+ <!-- 22 -->
+ <NewCharacters>ü</NewCharacters>
+ <Line>oriünd demiürg grandiloqüents llaüts multilingües obliqüitat plurilingüe ungüent</Line>
+<Line>aqüífer freqüentés metalingüístiques oriünda s'adeqüen lingüistes qüestionables</Line>
+<Line>qüestionaris inconseqüent pasqües seqüència següent freqüentava nicaragüenca</Line>
+<Line>seqüenciar freqüentada seqüeles ambigüitat argüint conseqüentment ungüents</Line>
+<Line>s'adeqüi noümen paraigües diürnes llengüetes ataüllaves freqüentment sociolingüistes</Line>
+<Line>aqüícola eloqüent piragües psicolingüística qüestionarà piragüista aqüeducte diürètic</Line>
+<Line>argüeixen inqüestionablement seqüencials delinqüent aqüífers nicaragüenc bilingüe</Line>
+<Line>argüir aigüeres exigüitats qüestionar pingüí eqüestre nicaragüenyes qüestiono</Line>
+<Line>plurilingües baül qüestiona oriünds nerviüdes peüc sociolingüística conseqüències</Line>
+<Line>inqüestionables diürnal diürètiques qüestionava metalingüístic freqüentat</Line>
+<Line>deliqüescència aqüeductes ataüllar freqüenta freqüentades eloqüència consegüents</Line>
+<Line>diürètica qüestionable blaüres diürn sociolingüístics aqüicultors eloqüències llegües</Line>
+<Line>seqüencia ambigües qüestionarien seqüela freqüento güells paraigüer diürna</Line>
+<Line>s'adeqüin inconseqüència multilingüe taüts diüresi freqüenten lingüístics freqüentar</Line>
+<Line>següents delinqüències contigüitat qüestioneu qüern desaigüen eloqüentment</Line>
+<Line>lingüístiques bilingües grandiloqüències lingüista lingüístic ambigüitats ubiqüitat</Line>
+<Line>qüestionen geolingüística freqüència transeünts freqüenteu seqüenciació seqüencial</Line>
+<Line>freqüentats delinqüents peücs trilingüe qüestions llengüeta qüestionades delinqüència</Line>
+<Line>consegüent reüll obliqües qüestionada qüerna qüestionaren rabiüts subsegüent</Line>
+<Line>adeqüem seqüències saüquers diürns freqüentaven freqüents lingüísticament</Line>
+<Line>paüra qüestionaven eqüestres aigüera desaigües grandiloqüència monolingües</Line>
+<Line>inqüestionable saragüells saücs qüestionés sociolingüístiques qüestionar-se</Line>
+<Line>plurilingüisme bilingüisme qüestionadora infreqüent metalingüística subsegüents</Line>
+<Line>eloqüents liqües saüc trencaaigües seqüenciats predelinqüents geniüt qüestionat</Line>
+<Line>taüt lingüística seqüenciades grandiloqüent qüestionin radiofreqüència seqüenciada</Line>
+<Line>llaüt qüestionaran freqüent conseqüents paüres llaütista qüestionari qüestionant-se</Line>
+<Line>piragüisme freqüències deliqüescències qüestionant freqüentatius qüestionem</Line>
+<Line>sociolingüístic sociolingüista monolingüe agües terraqüi multilingüisme llengües</Line>
+<Line>conseqüència qüestioni subseqüent seqüenciat rabiüdament qüestionàvem conseqüent</Line>
+<Line>traülla peülles qüestió inconseqüents monolingüisme friülès contigües qüestiones</Line>
+<Line>qüestionats transeünt aürts aigües friülà inconseqüències trilingües pingüins</Line>
+
+</Level>
+ 
+
+ <Level>
+ <!-- 23 -->
+ <NewCharacters>,.;</NewCharacters>
+<Line>creatives, lleguminosa; eròticament, hispanoamericans; obtingué, escandalitzem; inventar.</Line>
+<Line>renard, nadàvem; esdevinguem, reclamin; explícites, inverteixin; daurat, dràstic; somieig.</Line>
+<Line>acreixeran, pouar; s'imposa, concert; estimables, quadriculen; junys, tros; doblava, marginarà.</Line>
+<Line>postelectorals; vinculada, sinalefa; nòdul, refineries; lletjors, exalten; cicerones, entrellacen.</Line>
+<Line>engrunat; iPod, desemboliquem; mulli, triàsic; desacredités, assentats; extàtic, fatalitat.</Line>
+<Line>canells; emprenguis, miserablement; recrearan, garser; negaríem, influenciada.</Line>
+<Line>deslocalitzada; reenvies, gravacions; quedem, recordi; tortuguetes, denotació.</Line>
+<Line>arribaré; itinerant, notabilitat; convencereu, gabinets; confederacions.</Line>
+<Line>taronges, marxaria; imagos, reclutar; reconquista, exhumats; autofinançat.</Line>
+<Line>cruament, balbucejos; generalitats, transferible; planament, avisaran.</Line>
+<Line>descendint; esborraré, contundència; ventilador, demandes; excedeix, s'agafi.</Line>
+<Line>explanada; esperanci, tiren; patum, detindria; antagòniques, harmònium; assegurant.</Line>
+<Line>cameller, contrastat; anomenaria, calculador; dessecar, quadre; afermaren, manyoples.</Line>
+<Line>paremiòleg; rapinyadores, impregnar; tensada, bondadosament; moren, renaixent.</Line>
+<Line>testejats; sincronies, dèlfica; manipulava, s'atansava; climatològiques, falangisme; venerà.</Line>
+<Line>servil, penjar, testamentari; assassinada, finançar-se; prohibí, murri; garrafa, conferència.</Line>
+<Line>depopulació; enfaixat, interposades; enceguem, xxx; electrificada, fanatismes; s'estilava.</Line>
+<Line>s'estalviï, esplet; projectada, mòdica; borboll, olorosa; llenguatges, deposita; rejovenit.</Line>
+<Line>atabalament, afluixes; revenges, mirall; canalitza, thriller; ditet, estufat, reticle; cantadors.</Line>
+<Line>dedicaria, talleu; esquerdi, regenero; immaduresa, enganyeu; pagàvem, sobrera; controlen.</Line>
+<Line>persevereu, escairada; concretar, pidolaire; pegàvem, s'incloguin; adormim, invasores.</Line>
+<Line>cantina; cosmopolitisme, jóc; binomial, deslliguen; alterin, coercitives; sotmetent.</Line>
+<Line>pronunciaré, generalització; censuradora, fruitar; anunciador, constarà; encalci.</Line>
+<Line>concessió, destra; emparant-se, retransmesos; pèptids, giraves; tracti, pervers.</Line>
+<Line>alevines, assisteixes; revocat, valler; enfronta, s'acomplí; inconstants, clavellina.</Line>
+<Line>carabasseta; dats, firmaren; ejacular, lliurament; ascendia, festival; condicionaran.</Line>
+<Line>robat, rosegó; rèiem, comenci; s'encastella, fill; evocador, conjuntes; canera, labial.</Line>
+<Line>vehiculada; voletejava, cagués; raspall, rescindit; tornéssiu, entossudir-se; edulcorar.</Line>
+<Line>consumada, acomodament; catapultat, besar-se; autoanàlisi, rigorós; sobrevingudes.</Line>
+<Line>expulsades, homenatgés; lluitar-se, atracament; castors, s'ajustaven; disposes, folklorista.</Line>
+<Line>tendida; afilat, incivilització; inscripció, consignes; regentades, congelar; magistralment.</Line>
+<Line>puntades, veloces; fideu, trucat; estovats, sagnaria; s'activaren, instituí; anaven, constitucions.</Line>
+<Line>divorcies; cua, tarota; tibar, sembrem; alfabetitzat, gossa; corporativista, s'augmentarà.</Line>
+<Line>emmagatzemant; fuets, embruixava; emmarcar-se, invertís; exacerbat, tètriques.</Line>
+ </Level>
+
+
+
+ <Level>
+ <!-- 24 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 25 -->
+ <NewCharacters>mayúsculas</NewCharacters>
+<Line>Santa Margarida de Montbui Espinelves Aiguamúrcia Móra la Nova L'Armentera Maldà</Line>
+<Line>Benavent de Segrià Pontons Balenyà Els Plans de Sió Palau de Santa Eulàlia Clariana de Cardener</Line>
+<Line>Gavet de la Conca Sant Climent Sescebes Beuda Castell de l'Areny Mont-roig del Camp</Line>
+<Line>Savallà del Comtat Ciutadilla Viladasens Rupit i Pruit El Masroig Sant Pere de Riudebitlles</Line>
+<Line>Sant Climent de Llobregat Deltebre Cardedeu Sarrià de Ter La Torre de Cabdella Caseres</Line>
+<Line>Miralcamp Sant Llorenç de Morunys Sarroca de Lleida Naut Aran Setcases Borrassà</Line>
+<Line>Sant Miquel de Fluvià Capçanes Font-rubí Montornès del Vallès Fortià Cabanelles Verdú</Line>
+<Line>Santa Margarida i els Monjos Gallifa Navata Santa Maria de Besora Bonastre Duesaigües</Line>
+<Line>Els Garidells Llançà Serra de Daró L'Albiol Castellví de la Marca Súria Piera Sant Martí Vell</Line>
+<Line>Bellver de Cerdanya Peramola Godall Masquefa Tona Sant Llorenç de la Muga Vallcebre</Line>
+<Line>La Tallada d'Empordà Les Oluges Muntanyola Torrent La Bisbal de Falset Roses Juneda</Line>
+<Line>Vilassar de Mar Aguilar de Segarra Alàs i Cerc Llimiana La Figuera El Montmell Torregrossa</Line>
+<Line>Vallgorguina Balaguer Sant Quintí de Mediona Aiguafreda La Masó Botarell Talamanca Blanes</Line>
+<Line>Palau-solità i Plegamans Alguaire Masdenverge La Riera de Gaià Sales de Llierca Albanyà</Line>
+<Line>Vilamaniscle Lladó La Baronia de Rialb Portbou Massoteres Castellet i la Gornal Garriguella</Line>
+<Line>Jorba Vilanova de Prades Granera Vallmoll La Galera Camarasa Albons Agramunt</Line>
+<Line>Sant Miquel de Campmajor Peralada Montgat Sant Martí de Centelles Terrades</Line>
+<Line>Sant Mateu de Bages Santa Susanna La Torre de l'Espanyol Bot Vilablareix Vic</Line>
+<Line>Vilanova de Bellpuig Sant Julià del Llor i Bonmatí Sant Jordi Desvalls Fontanals de Cerdanya</Line>
+<Line>Granyena de Segarra Viver i Serrateix Albinyana Cornellà del Terri Ribes de Freser Vilada</Line>
+<Line>Guissona Parets del Vallès Anglès Renau La Granja d'Escarp Castellar de n'Hug La Molsosa</Line>
+<Line>Vall-llobrega Margalef Vilamalla Vilanant Camprodon Albatàrrec Cabrils Carme Fonollosa</Line>
+<Line>Fulleda Sant Feliu de Guíxols Esterri d'Àneu Pals Alt Àneu Els Alamús Lluçà Vilopriu</Line>
+<Line>Arenys de Munt Torredembarra Sant Bartomeu del Grau L'Esquirol Gaià Santa Eulàlia de Riuprimer</Line>
+<Line>La Floresta Sant Hipòlit de Voltregà Molló Almoster Osor Castellar de la Ribera La Vilella Alta</Line>
+<Line>La Granada Pujalt Sant Pere de Vilamajor Pardines Puig-reig Vilanova de Meià Tàrrega</Line>
+<Line>Bellcaire d'Urgell Abrera Esparreguera La Pobla de Mafumet Es Bòrdes Tivenys Seva Roda de Ter</Line>
+<Line>Soriguera Santpedor Riudecanyes Les Cabanyes Santa Coloma de Gramenet Pallejà Colomers</Line>
+<Line>Alp Querol Belianes Gualba Olot El Brull Santa Coloma de Farners Pau Saus, Camallera i Llampaies</Line>
+<Line>Esplugues de Llobregat Sora Talarn La Pobla de Massaluca Lles de Cerdanya Artesa de Segre</Line>
+<Line>Castellgalí Bagà Madremanya Sitges Campelles Vilaller Vilanova del Camí Vilamòs Darnius Talavera</Line>
+<Line>Sant Feliu de Pallerols Albesa Marganell Banyoles El Prat de Llobregat Avinyonet de Puigventós Corçà</Line>
+<Line>Olèrdola Bellmunt d'Urgell El Far d'Empordà Conca de Dalt El Vendrell Sant Martí d'Albars Llagostera</Line>
+<Line>Llanars Cabó Maià de Montcal Cerdanyola del Vallès Les Valls d'Aguilar Torrefarrera Gósol</Line>
+<Line>Riudarenes Gualta Crespià Corbera de Llobregat Creixell Les Llosses Sant Jaume d'Enveja</Line>
+<Line>Fogars de Montclús Vallfogona de Balaguer Sunyer Malla Els Pallaresos Argelaguer Cabra del Camp</Line>
+<Line>Poboleda Sant Joan de les Abadesses Sant Hilari Sacalm Tornabous Mura Vilaverd Passanant i Belltall</Line>
+<Line>La Seu d'Urgell Senan Colldejou El Lloar Torrefeta i Florejacs Vilanova de Sau Vila-sacra Cunit</Line>
+ </Level>
+
+ 
+ <Level>
+ <!-- 26 -->
+ <NewCharacters>frases enteras</NewCharacters>
+ <Line>L'aigua té una elevada capacitat per a dissoldre substàncies i rarament es troba com a substància pura sinó essent part d'alguna mescla.</Line>
+ <Line>Un 71% de la superfície de la Terra està dominada pels oceans un total de 97,2% d'aigua.</Line>
+ <Line>L'energia del sol escalfa la terra, generant corrents d'aire que fan que l'aigua s'evapori, pugeu per l'aire i es condensi en altes altituds, per a després caure en forma de pluja.</Line>
+ <Line>El creixement real d'una població està format pel creixement natural o vegetatiu però tenint en compte les migracions.</Line>
+ <Line>D'acord amb la revisió de l'ONU del 2017 a les seves projeccions de població, es preveu que la població mundial arribi als 11.2 bilions el 2100 enfront dels 7.600 milions del 2017.</Line>
+ <Line>Les valls pirinenques s'orienten típicament de nord a sud, llevat dels extrems marítims i d'alguna vall notable com ara la d'Ordesa, la de la Cerdanya i la de l'Aragó.</Line>
+ <Line>La Cerdanya és una comarca natural de Catalunya situada als Pirineus Catalans, a la capçalera del riu Segre.</Line>
+ <Line>Una de les rutes de pelegrinatge que formen part del camí de Sant Jaume, en el seu pas per terres catalanes.</Line>
+ <Line>En ecologia, economia i sociologia, la defensa del medi està unida al desenvolupament sostenible.</Line>
+ <Line>Alguns critiquen el terme "desenvolupament sostenible", declarant que el terme és massa vague.</Line>
+ <Line>Una plana d'inundació en hidrologia és la part de la vall d'un riu, adjacent al llit fluvial, formada per sediments dipositats pel riu en èpoques de crescuda.</Line>
+ <Line>La introducció de llum modifica el paisatge, els hàbitats i la conservació de la biodiversitat.</Line>
+ <Line>Certs animals, com les papallones de nit, són molt sensibles a la contaminació lluminosa, car els llums i fanals públics els atreuen i desorienten molt a la nit.</Line>
+ <Line>Un incendi és una ocurrència de foc no controlada que pot abrasar alguna cosa que no està destinat a cremar-se.</Line>
+ <Line>Les normatives sobre protecció d'incendis classifiquen el risc que presenta cada tipus d'edifici segons les seves característiques, per adequar els mitjans de prevenció.</Line>
+ <Line>La contaminació acústica és la pol·lució que altera les condicions de so normals del medi ambient en una certa zona.</Line>
+ <Line>L'exposició prolongada a un soroll excessiu pot provocar danys, reversibles o no, al sistema auditiu.</Line>
+</Level>
+ 
+ </Levels>
+
+ </RasytiLecture>

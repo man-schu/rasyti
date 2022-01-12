@@ -1,0 +1,617 @@
+<RasytiLecture>
+<Title>Español</Title>
+<Comment>created by Manfred Schulenburg</Comment>
+ <Levels>
+ <Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+<Line>fija jalifa dedil edad desleal alifafe dial lisis dalle lija lilailas</Line>
+<Line>desidia ella jefe adelfa deidad ijada deje lisiada aldea desfile</Line>
+<Line>dislalia isla sisal esas ladilla ellas filis idea falsedad lila alias</Line>
+<Line>edil desde fase leal filfa dedada filial falsilla sede adalid dedal</Line>
+<Line>fealdad dalia ideal fiel seda adelfilla afasia jalea fleje seis lidia</Line>
+<Line>sedas desfase alfil sedal fila fidelidad dije salida silla ideal fiel</Line>
+<Line>filial lisis desde desidia lisiada fija desfase dedil fase fealdad dalia</Line>
+<Line>ladilla deidad alfil dije alifafe sisal dalle adalid filfa ijada esas</Line>
+<Line>sede ellas edad fidelidad jalea fleje adelfa dial edil dedal</Line>
+<Line>silla seis salida lila deje desleal aldea lilailas ella lija</Line>
+<Line>seda falsedad filis fila sedas sedal idea afasia leal falsilla</Line>
+<Line>jefe jalifa desfile dislalia adelfilla lidia dedada isla alias</Line>
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line>liso saneado senil fajina jodido sino dedo andada anilla enfadoso</Line>
+<Line>sonda indefenso ellos fosa ello oasis filo lona ojoso asedio afanoso</Line>
+<Line>faena ajeno anales alfanje alijo salido fijado ladeado senda oleada</Line>
+<Line>nena asilado enfadado eneldo fiado insidias dedeo folio asno</Line>
+<Line>afino diana senilidad nailon saldo idoneidad donoso jofaina</Line>
+<Line>aliados enfado sello lioso desaseado sanado fijo lanado doloso afijo</Line>
+<Line>osado ejido soleado salina anodino sonido soledad alejado ojona</Line>
+<Line>enojo flan ledo asonada diosa ileso deseoso oleoso andino lejos nasal</Line>
+<Line>nodo odioso anejo silo linfa lino ojeada alisos alineado fajos ladeo fanal</Line>
+<Line>llanada fofadal sano diafanidad andando desollado nada andado lanoso</Line>
+<Line>indonesio inane safio alelado lindo asado solano lonja desafinado anilina</Line>
+<Line>dedos lisiado asnillo fideos felino afinidad disnea solfeo desolado lanolina</Line>
+<Line>lenidad seno ofendido flojedad endiosado ondoso lesionado flojo ofensa</Line>
+<Line>ensenada jaleo alano fajol llenado definidos aseo londinense desaloje</Line>
+<Line>salado insidia falo desaseo sonado sanidad deseo fajo filoso felinos lodoso</Line>
+<Line>odio fondo onda alindado lejano soldada afiliado aldeana endoso enojoso</Line>
+<Line>sandial dolo asoleado anea anillo desidioso ondeado aldeano finalidad</Line>
+<Line>desalado idilios lana fofo salino deseos kilo linde indefinido ojal solo diodo</Line>
+<Line>ajenjo enlosado definido desenfado final aseado deseado adonde sondeo</Line>
+<Line>defensa soldado fonda enojado soldeo sonaja ninfo ojeo sien disenso liana</Line>
+<Line>ansiedad aliado nana nido lene donde saldos asnilla nidada asenso</Line>
+<Line>faenas ladino fideo oleadas adefesio fondillos densidad allende infinidad afilado</Line>
+<Line>desinflado donada salinidad fondos desalojo fallo jadeo idilio llano aislado losa</Line>
+<Line>faisana enlodado denso sieso falso lodo lisonja esos ensalada donado aliso</Line>
+<Line>ensaladilla sedado ansioso foso indio alado odiosidad ondeo laso donosidad soja</Line>
+<Line>inanidad andanada solado enano iodo nadie indo fallido soldados infiel lleno</Line>
+<Line>desenfadado sellado denodado afanado sodio ondina llana ollao dejado</Line>
+<Line>lado nonada leso ansia lineal sesos alisios insano dolido lelo deslinde sedoso</Line>
+<Line>olas landa oleaje ninfa esfenoides inflado fondeo defensas asilo alienado</Line>
+<Line>ajado linaje sosa nefando fenol olla insidioso elfo finado asesino sonidos follaje</Line>
+<Line>infidelidad fino seso nene falena desfasado sandalia soso dado desafilado</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>rododendro modoso defenderse idealismo nadar formar merar riera domo</Line>
+<Line>manojo almajara desaire jadear afirmarse aljama radioso majada lamedor</Line>
+<Line>sondear admirar jarro sonrojo salmonelas ajear inseminar oral miseria</Line>
+<Line>melindres desalojar rimar ardilla dormido frenar arrendajo oler rondana</Line>
+<Line>forjar relajado alienar marrar feminismo medidor andorina enfriador fiero</Line>
+<Line>almendrado dime alardoso arrojarse arrojador forraje filmar asomo enfriado</Line>
+<Line>remorder irradiar milano loor mollera ramo memoria esmeralda eliminado</Line>
+<Line>morado femenino esmerilar derredor landre nimiedad menos medios sismo</Line>
+<Line>memorias desafiar almendro laminado federal innominado enema diario</Line>
+<Line>asesorado sionismo enmasillar farolear alarido farolero alfarero desflorar</Line>
+<Line>sarna saldar amoralidad ronda roano desmedido rejilla millonario remellar</Line>
+<Line>edema remedar mini sajar islamismo masaje desolador diseminar manijero</Line>
+<Line>moda enamorado malo infamar amarillear floreos leer inmoral arar radiador</Line>
+<Line>airado almeja mesonero malaria alrededor friera rijoso masa asomarse errar</Line>
+<Line>redonda ramera mearse laminera ojeador desenrollarse sonajero osario raer</Line>
+<Line>osar solemne fresado red linaria animosidad molino asesar familia resero aislarse</Line>
+<Line>relleno aforo foro frondoso remoler arriero seminario rondar limonero delinear</Line>
+<Line>sarao minifalda meneo manillar elidir fiador seroja reino orillas fresno limosnas</Line>
+<Line>diarrea menear desenlodar adormilado adormidera monedero marmellas informes</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line>infiltrarse velatorio mostrador jovial diversidad tolanos medioeval sementera</Line>
+<Line>tejonera destornillado retrovisor dividirse travesar novillero divo vendaje</Line>
+<Line>atornillar valores letrista timar nitro nefasto desvalijamiento trasvinarse</Line>
+<Line>desistimiento moto anfitriona favorita vaselina fantasmal montaje mental</Line>
+<Line>sofista intensidad tojo estridente fastidio estofado latear indistinto trivial</Line>
+<Line>tarima detallista llantito instinto estrafalario difamatorio anteojo alistar</Line>
+<Line>llevada filtrar materias medieval limitado toma vitamina averiar tallista</Line>
+<Line>mondadientes frotar inmortalidad tratos revelarse arrodillamiento tilde</Line>
+<Line>infestar terminarse formatear trineo verdal lamentos oriente instintivo</Line>
+<Line>veterinario terreno tasado sitiar tirilla trastornado terroso sentina fraternidad</Line>
+<Line>veleidoso aliviar faltar desaventajado naval mantenedor rival detalles retraerse</Line>
+<Line>sanatorio tararira alentarse teleserie denotar elementos serreta tirada veintavo</Line>
+<Line>derretirse renovado tardo detraer setal sonata trinomio entretejer desmantelado</Line>
+<Line>reservar alertar detrito tomado llanta tetero fletamento mantenimiento molestar</Line>
+<Line>amistar inerte esmaltado desenvolverse sotillo tanteo viaje reverente lamentarse</Line>
+<Line>solvente doliente timador envidar divino salvedad antellevar tonsila admitir</Line>
+<Line>meritorio tortera mantilla soliviar roseta sortijas enlodamiento vetas interesante</Line>
+<Line>noto desmejoramiento almirante volverse vedado tronada entretener tirona tolda</Line>
+<Line>desvelamiento arrendamiento litoral vientre aovado odorante detenidamente</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+<Line>asunto despojarse repulsivo topera laurear futurismo asturiano patalear deprimir</Line>
+<Line>plataforma pantomima nutrimento despedido infuso arropado paseante desmesura</Line>
+<Line>ruin kurdo suripanta difuso pautar pausa murta modulador plumoso deudo</Line>
+<Line>ulterior supletorio tiempos asuntos instruir parrafada unirse revuelo disparate</Line>
+<Line>peinadura rudo despejado pasajera purriela perfilado sustraer fortuna diminuto</Line>
+<Line>pierna repertorio treparse perdedor suelo justo maduro saturnismo ilustre dentadura</Line>
+<Line>sur repostero ropa inmune impelente supurar tuso toruno presero purismo peinado</Line>
+<Line>fuero asustado pillar templar sumar truenos adulterio mensurar frustrante espirar</Line>
+<Line>pastel posesorio podadera impudente transporte lauro trompa trepidar sesudo</Line>
+<Line>pajarito dual pataleta transponer resuello potasio santuario dispar fraude patojear</Line>
+<Line>separador frutilla pisa pedal sutilidad polo frutal premio apolillado usuario purulento</Line>
+<Line>traspasar pestillo irresoluto furor piano reunir estimular perla suero lavaplatos</Line>
+<Line>parlatorio polaina indulto partido tutear prototipo resoplar depilarse anuloso</Line>
+<Line>podredura apretado preterir espasmo apropiado perrero operario primordial</Line>
+<Line>tunear peladura pastoso pis reprensor pitillo papanatas spot primario estopar</Line>
+<Line>pedestre apretarse presea pavo preferente adulete espumajear feldespato deporte</Line>
+<Line>piadoso auditor medialuna ampollar disminuir peso pollito revulsivo empujar apertura</Line>
+<Line>protesto puerperio montadura amurallado despuntado sufrir papado papel fauna</Line>
+<Line>prospero petitoria lunar pesimista pavipollo pleno lampa monumento apurado panoplia</Line>
+<Line>entrampar temporejar usual piola provisorio torunda luna pues punitivo primera</Line>
+<Line>apalear propender espejo jaspear pueril fausto reputar trepado perista pajonal</Line>
+<Line>reprimenda prima mamullar tunantear pormenor duna peaje presura porreta</Line>
+<Line>arrapo presentar purito ustedes esputar endeudado status plantearse empapelar</Line>
+<Line>iluso parejo tundir tumor empeorar rompope impedidor pudoroso impulsado</Line>
+</Level>
+
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>digestor gasolina gameto vulgo apagarse algarada fugada delegado</Line>
+<Line>enaguas gelatina ringlera desgajar pignorar grupa pingajoso gongorino</Line>
+<Line>rogante vulgar demagogo lenguaje poligonal rojinegro dramaturgo</Line>
+<Line>vegetal argolla gulusmero igualdad grosero gira guarapo gigantismo</Line>
+<Line>flagrar purgador origen agarro leasing pejiguera gripe desmigajar</Line>
+<Line>morigerado magneto magno negador agilitar graneado plegaria</Line>
+<Line>enfangarse pringue guatear sigiloso regodeo emerger agasajo naufragio</Line>
+<Line>drogarse gustillo germinar gente gurullada angustia regenerado propugnar</Line>
+<Line>imagen legalidad inmergir golfante gruir seguro ingeniar gama pedregoso</Line>
+<Line>gallardear agredir pregonero pedregal agarrada enjuagar agallas plaga pregunta</Line>
+<Line>guisandero agostero purgatorio fuliginoso legatario mitigar disgregar lenguado</Line>
+<Line>orgullo desgarro gilipollas tregua rasgado erigir prolongar latiguillo sinergismo</Line>
+<Line>grato agenda repliegue gaita magra maga sirga murga verrugoso gol orgulloso</Line>
+<Line>fangal tanganillo gesta plagiar surgidero erogar engullir degenerar gangosidad</Line>
+<Line>gusano engranaje grapadora amalgama rasgarse guerra fulgor entregar</Line>
+<Line>algodonoso sargentona pelagatos glutamina aliaga guasearse flagelar engaitar</Line>
+<Line>genialidad guajalote gravativo gaviota martingala gafar agusanado pagado</Line>
+<Line>gorrinada segar integridad realengo ligar peguntoso lagarto mialgia legista</Line>
+<Line>gusanear vejiga dirigirse mongoloide engrasar garrafa agorar glose gallo gastar</Line>
+<Line>siega gen algarero fragoso orgasmo segundero negrillo aguante rugir anginas</Line>
+<Line>espulgar agudo agitarse signo living gorra espagueti fulgurante sugestivo</Line>
+<Line>guirnalda guedeja desagradar galardonar delga laringe lengua mendrugo</Line>
+<Line>alegador alguno presagio eslogan afligir gaje negarse manga anegar fregajo</Line>
+<Line>granujado aguatinta grullo galopear jugarse fulgurar igual seguirse verga</Line>
+<Line>agotarse riesgo musgo garganteo segadera degradado parking riesgos galanura</Line>
+<Line>merengue gringo regatear pegadero litigante juguete gaguear mango toga</Line>
+<Line>agiotaje jaramago resignar gradiente restregar agilidad aguasal agitado golpete</Line>
+<Line>potingue juerguista arreglo agujereado fragaria megas gran fugarse rugosidad</Line>
+ </Level>
+ 
+<Level>
+ <!-- 10 b -->
+ <NewCharacters>y</NewCharacters>
+<Line>sayo gandaya laya malayo rayo yogur rey tramoyista ayer enjoyar</Line>
+<Line>guayo tuyo desayunar epopeya pagaya uruguayo enyesado disyuntor</Line>
+<Line>desmayar influyente voyerista poyata payo playa ayuno yeti desmayarse</Line>
+<Line>tramoya autoayuda apoyado reyes yerno mayar puyo ensayo ensayarse</Line>
+<Line>gayado rayado disyuntivo ayuda yermo royalties muy yunta yugo mayor</Line>
+<Line>playeras apoyar suyo ayudar yogurt talayotes raya ensayador proveyendo</Line>
+<Line>payaso puyar royo peyorativo gayo leyes mayordomo leyendo yeguada</Line>
+<Line>paraguayo mayonesa mayo yegua foyer guay apoyo yate linyera ayear</Line>
+<Line>spray gaya oyente disyuntiva rayano joyero atalayar joyel diluyente yeso</Line>
+<Line>guaya yute aleluya atalaya yoga jersey grey ensayar leguleyo aguayo mayal</Line>
+<Line>enyuntar radioyente arroyuelo rayoso pararrayos papagayo payasa rayita</Line>
+<Line>voyeur mayoridad payuelas payasadas arroyo guirigay desayuno joya atrayente</Line>
+<Line>ayudante virrey yema apoyarse reyerta nylon rayos yarda atarraya desmayado</Line>
+<Line>yodo oroya enyugar troyano desmayo enyesar layar mayorista joyas anteayer</Line>
+<Line>atrayendo aleya ley yelmo tuya saya gayola mayoral leyenda rayar ayunar</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 11 -->
+ <NewCharacters>zh</NewCharacters>
+<Line>hortera homenajear tiranizar pelaza higo aterrizar vez hortense</Line>
+<Line>hurtarse tiznar esfuerzo pinza dozavo honrado dulzura enzima gamuza</Line>
+<Line>rozamiento felizmente panadizo granizar terraza hervido hundir tiza</Line>
+<Line>mozo ordenanza hermosura higadillo maza pureza ahogado desazonado</Line>
+<Line>adherente hilandero herradura heladora almuerzo avanzar ahormar vileza</Line>
+<Line>huy mahonesa hogar mendaz algazara hipotenusa deshoje agrazar hotel</Line>
+<Line>torzal zarza agazaparse vaporizar ramalazo henderse humo generatriz</Line>
+<Line>heredero jaharrar tirantez rozo mazo ensalzar nitidez jeruza hierro</Line>
+<Line>estupidez ahijada heredad husmear tronzar enlodazar aridez hila palizada</Line>
+<Line>manezuela ahitar inhumano vaho gravidez zapata deslizarse rezumadero</Line>
+<Line>deslizador mohoso historial aromatizar hermanazgo almohada fertilizar</Line>
+<Line>tozar punzante ahumado normalizar reherir zarandear heptagonal trasluz</Line>
+<Line>sagaz historias hoya humillarse huir gehena pasterizar lozano pegadizo mehala</Line>
+<Line>ahumar ahorrador aspereza destrozado honroso humus tenaz zamparse hondarse</Line>
+<Line>forzoso deshonrar amohinar retozar perihelio herirse estatizar totalizar refuerzos</Line>
+<Line>hurtar hierra trapaza azulejos hilandera retozo rezador salidizo ahogarse erizar</Line>
+<Line>tornavoz movedizo palmetazo diezmar honor longaniza timidez melaza tiznadura</Line>
+<Line>manzano simpatizar desazonar padrinazgo luz vaporizado desarzonar herederos</Line>
+<Line>hidalgo pizarral saz higiene hijastro hormiga realizado hurguete amenazar alhaja</Line>
+<Line>humilde lanzafuego inmediatez rizoso hartarse ahelear lazo hierros aprendiz</Line>
+<Line>mordaza humorista tamiz gozar tizna indemnizar desguazar altozano hondura</Line>
+<Line>hipnotizar harapos hostil emplazado alza largueza orzuela vejez rezongador</Line>
+ </Level>
+ 
+  
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>bosta batiscafo insufrible escariar membrillo rescatador terciar encarpetar</Line>
+<Line>carcomido bolear aljaba sobrellave urbanismo embustero callejero chiribital</Line>
+<Line>calcetas obviedad cresta rompible abalear bardana salpicado emocionar albor</Line>
+<Line>cocho calibrar abierto mariscos cobra mercar desbandada intercesor azucarar</Line>
+<Line>custodio cerril chirinola reembolso chirlo bichero cerdo desyerbar debilitado</Line>
+<Line>sombraje fotocopiar peluca crisol chotearse campamento relance caz reducirse</Line>
+<Line>calabacero desarbolar pincelada callejuela inevitable brazo bigotudo inclusero</Line>
+<Line>retaco conectar interdicto rechinar pacotilla glacial ceceo bilabiado alborotar</Line>
+<Line>bastimento peculado agradecer nubloso incitar invariable civilizar romance</Line>
+<Line>bonancible colindante codadura joroba escaro cimbra canular colorado liberarse</Line>
+<Line>financiero joco hoyanca vaciedad obliterar mordisco abejonear reverencia</Line>
+<Line>encurtido construido cofrade encarrilar breca cauchero embutido cantonero</Line>
+<Line>pueblo coronilla encrespado obediente caleta acoso burro barrizal bordonero</Line>
+<Line>superficie butifarra sublime gesticular curbaril sainetesco cabecera alce</Line>
+<Line>madreclavo comadrero alhucema acerico claror derivable opcional bebido</Line>
+<Line>controlado tubos buhardilla corporal basta cadera debatirse chipset fructuario</Line>
+<Line>facilitar taciturno probable cigarrillo colar monocromo chocar claustral chambo</Line>
+<Line>apercibir cerviz adorable tarasca chipriota albarrada casorio completado balasto</Line>
+<Line>despecho acceder tachar abacial diablura codiciable corcovar encono entibiar</Line>
+<Line>herrumbre marchar lucir astrictivo sobrepeso lesbiana crecida cubrirse cenizas</Line>
+<Line>comilona bromista picar escorial docto cuba cambiador roscar trabarse brillantez</Line>
+<Line>copa cancha bancal marchante edificante inciso contestar colectivo librarse</Line>
+<Line>pichirre carachupa banasta producir gaseoducto caco elenco maca lamentable</Line>
+<Line>masacre chapucear cepa cayeputi inculpar grafico noticia dobladillo calefactor</Line>
+
+ </Level>
+ 
+ 
+  <Level>
+ <!-- 13 -->
+ <NewCharacters>acentos</NewCharacters>
+<Line>amígdala granzón sándalo roncería consomé veintitrés capitación</Line>
+<Line>féretro serranía intención caparazón traición sanción orgía ateísmo</Line>
+<Line>terrícola conjunción segazón ítem tirabuzón alhelí mayúscula analgésico</Line>
+<Line>película pagaduría hegemonía carpín chirivía cáncano tonterías filológico</Line>
+<Line>pérdidas mágico puyón península laceración decepción peroné polizón</Line>
+<Line>coccíneo omóplato criticón ética mandamás cóncavo lotería adjunción</Line>
+<Line>panadería echazón vapulación académico navío gárrulo retícula pirulí</Line>
+<Line>glóbulo molinería lunático tetrágono asimétrico saturación monolítico</Line>
+<Line>premiación imán barbián alígero energía básquet sudanés chapetón</Line>
+<Line>tiranía fúnebre helvético légamo carretón tautología burguesía úvula rótula</Line>
+<Line>élite progresión sulfúrico calamón mítico supinación ironía inhibición recibí</Line>
+<Line>paraplejía enérgico húngaro metafísica huérfano andrómina austríaco copetón</Line>
+<Line>física diácono álbum melodía legación chaquetón zahorí frenético grácil neófito</Line>
+<Line>perfumería paladín fisgón cartón beatífico obvención escorpión geminación</Line>
+<Line>embutición pobretería clásico ataúd reptación soviético repostería túmulos</Line>
+<Line>aducción trópico dasonomía rodrigón súbito grafología ergonómico obturación</Line>
+<Line>buscón gótico benévolo tritón burgués mefítica suputación crestón compadrón</Line>
+<Line>pésame pechugón cabrón prímula radián kerosén quizá crónico artillería tártaro</Line>
+<Line>readmisión natación réspice cuatrillón balé sótano fisión serológico tejón vívido</Line>
+<Line>rufián máquina desgarrón próspero apología andén orgiástico púgil francófono</Line>
+<Line>superávit péndola coquetón travesía monótono apóstrofo guardatrén sermón</Line>
+ </Level>
+  
+ <Level>
+	<!-- 14 -->
+ <NewCharacters>q</NewCharacters>
+<Line>aquelarre arquearse arquear arqueado arenque archiduque aquilea</Line>
+<Line>aquietador aquiescencia anquilosado aquello arqueológico aquél</Line>
+<Line>aquel aquejar aquejado aporque apoquinar aplique abarquillarse anquiloso</Line>
+<Line>anquilosamiento aquerenciado arranquera autárquico auquénido aunque</Line>
+<Line>ataque asqueroso asquerosidad asquear asqueado asequible asequibilidad</Line>
+<Line>arqueo arrequín arqueología arranque arquitectura arquitectónico</Line>
+<Line>arquitecto arquimesa arquidiócesis arqueta arquero arqueólogo aquiescente</Line>
+<Line>arrequintar adquiriente alfaneque alcornoque alboroque albaricoque</Line>
+<Line>alambique aladroque ahorquillarse adquisitorio adquisitivo adquisidor</Line>
+<Line>alfaque adquirir adquirente adquiridor aniquilar adoquinar aquietar adoquinado</Line>
+<Line>adoquín achaque acequia abroquelarse abroquelar aboquillar adquisición</Line>
+<Line>alquitranar aniquilamiento aniquilador aniquilado aniquilación anarquista anarquismo</Line>
+<Line>anaquel alquitrán alquitarar alquilarse aliquebrado alquilar alquiladora</Line>
+<Line>alquilador alquiler anarquía alquilado alquería almanaque bosque boquiabierto</Line>
+<Line>boquilla boquillero borrasquero bosquejar bosquecillo bloqueado boquirrubio</Line>
+<Line>boquete boquerón boquear bodoque bloqueo bosquejo bloquear bronquina</Line>
+<Line>bloque blanquecino bloquearse bronquial blanquecer banquete buque buqué</Line>
+<Line>búsqueda brusquedad broqueta bronquedad bronquios bosques briqueta</Line>
+<Line>braquicéfalo braquial branquias branquia botiquín bronquitis banquetear</Line>
+<Line>barquilla barquía barquero baquiano baquetón baquetear barquillo baquetaz</Line>
+
+ </Level>
+ 
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>w (English)</NewCharacters>
+	<Line>wood fowl wiring wine weed crew swaddle witch wart wanton eelworm sawdust wind eyebrow</Line>
+	<Line>fawn warfare stowing wobbly wake weigh warped world swamp swallow inward walkway two maw dew</Line>
+	<Line>whiff dewlap whistle pew wastage weekday fewer worn where working yawn wheat wallet await</Line>
+	<Line>cowed awe throw whose dowry owlet bigwig unscrew owe redwing tow warm hallow mildewy wedel</Line>
+	<Line>showily pathway mowing wear wigeon trawl towel swarf writer mugwort mower wrench ribwort</Line>
+	<Line>warrior dwarf wed wharf slew tweak twinkle town wedging snowman cowshed willful width browser</Line>
+	<Line>brawny gawkily wane tweed walnut whorl rowdy dawn jetway wading mew drowse swipe whether known</Line>
+	<Line>scrawl wire dowdy awl waiver untwist wedlock swear swathe awed swivel will woollen wan know</Line>
+	<Line>whimper wedge wolf wooly weakly own wander cowpat crowd wean vow narrow hollow uptown fawning</Line>
+	<Line>beware swig whirl gateway wriggle wicked warp crowded washy bewitch wasted which windy</Line>
+	<Line>fellow warlock morrow answer nephew claw widgeon avowal wick dowser </Line>
+ </Level>
+ 
+   <Level>
+	<!-- 16 -->
+ <NewCharacters>ñ</NewCharacters>
+<Line>año apaño apañar apañado antaño añoso añascar añoranza apiñar aniñado</Line>
+<Line>añil añicos añico añejo añejarse añorar arañarse atañer artimaña arriñonado</Line>
+<Line>arrebañar arrebañaduras armiño apiñado arañazo apiñamiento arañar</Line>
+<Line>arañado araña apuñalar abuñolar apiñarse arañero acompañar albañal</Line>
+<Line>aguileño agraceño añagaza acuñarse albañil acuñación adueñarse acompañante</Line>
+<Line>acompañamiento acompañador acompañado aceñero aceña acuñador amaño</Line>
+<Line>añadir acuñar añadido albañilería amañado almadreña aliño aliñar aliñado</Line>
+<Line>alimaña alheña alfeñique añadidura aledaño aledaños alfeñicarse bisoñada</Line>
+<Line>bañista baño barbilampiño bañera basquiña bañarse bisoñé bisoño boñiga</Line>
+<Line>borgoña brasileño bruñido bruñir buñuelo barreño bañar bañador bañero</Line>
+<Line>carroñero coñac coña compañía compañero compañerismo champaña cigoñal</Line>
+<Line>costarriqueño cortaúñas carroñoso cermeño carroña carantoña carrasqueño carraspeño</Line>
+<Line>cariñoso cariño coñazo cucaña cizaña cuatreño cureña cuño cuñado cuñadía</Line>
+<Line>cuñada cuña cumpleaños cultipicaño costeño cimbreño condueño cañutazo</Line>
+<Line>corpiño contraseña constreñir constreñimiento coñete cucañero cenceño</Line>
+<Line>campiña campaña calcaño calaña cachaña cacarañado cabaña ceñudo ceño</Line>
+<Line>caña ceñido ceñoso castañuelas castañuela castaño castañeteo castañetear</Line>
+<Line>castañazo cizañar ceñidor cañoneo cañonero cañonería ceñir cañonera cañada</Line>
+<Line>cañonazo cañón caño cañilavado cañero cañería cañazo cañamero cañaveral</Line>
+<Line>cañal cañamelar cañadas cañamiel castaña cáñamo cañavera desmaña desgreñarse</Line>
+<Line>despeño desmaño despeñadero desgreñar despeñadizo despeñar despeñarse</Line>
+ </Level>
+ 
+  <Level>
+	<!-- 17 -->
+ <NewCharacters>x</NewCharacters>
+<Line>auxilio anexar axiomático axila auxiliar autoexamen asfixiar asfixiante conexión</Line>
+<Line>aproximarse aproximar aproximado aproximación anexo antioxidante axioma</Line>
+<Line>anorexia aproximativo boxeador boxear boxeo conexivo convexidad crucifixión</Line>
+<Line>convexo contextura contextual contexto conmixtión conexo complexión coexistir</Line>
+<Line>coexistencia coaxial clímax coxis claxon conexionar caquexia desintoxicar desoxidar</Line>
+<Line>desintoxicación deflexión decimosexto desconexión dextrina exotiquez expectación</Line>
+<Line>expatriación expansivo expansionismo expansionarse expansión expansibilidad</Line>
+<Line>expandir expandible exotismo expectativa expeler exótico expectativas expectoración</Line>
+<Line>expectorante expedición expedicionario expedidor expediente expedir expedito</Line>
+<Line>expender expendición experiencia exordio expeditivo existencia exhumación</Line>
+<Line>exhumar explorador exigencia experimentación exigente exigible exigir exiguo</Line>
+<Line>exilio exigencias eximirse exorcizar existencial existencias existente existir exitazo</Line>
+<Line>exitoso exógeno exoneración exonerar exorbitancia exorbitante exorcismo exorcista</Line>
+<Line>eximir expositivo explotado explotar expoliación expoliar exponencial exponente</Line>
+<Line>exponer exportable exportación exportaciones exportador exportar explícito</Line>
+<Line>exposímetro explosivo expósito expositor expresado expresar expresarse expresión</Line>
+<Line>expresionismo expresivo expreso exprimidera exprimidero exprimidor exposición</Line>
+<Line>explayarse experimental experimentar experimento experto expertos expiación</Line>
+<Line>expiar expiración expirado expirar explanación explanada explotación explayar</Line>
+<Line>explotable explicable explicación explicar explicarse explicativo explicitar exhorto</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+<Line>desbarbarse, recluir. unicidad, cosmografía. cenador, temprano. lelo, estraperlear.</Line>
+<Line>unción. sangrado, ventajoso. cometa, largor. lindo, dinerada. inclinar, impasible.</Line>
+<Line>profecía. abanicarse, camueso. desenfado, libertad. jovenzuelo, velarse. túmido.</Line>
+<Line>rastrillado, trilátero. distorsión, caballero. psique, umbroso. tornillo, totalmente.</Line>
+<Line>trasfondo. codificación, semental. botellero, fabril, violinista, inexpresividad. aletazo.</Line>
+<Line>corporativo, embalar, gobierna, lema, pilotear. arbusto. termoplástico, nodriza. persistir.</Line>
+<Line>hostelería. devalúo, deplorable. discrepar, profesoral. pan, idóneo. polémico, galvanizado.</Line>
+<Line>protagonista. bastonear, pudicicia. hueso, lastimero. catete, recopilar. cabecilla, irisación.</Line>
+<Line>mollear. distinción, pilote. reiterar, cizallamiento. trucaje, desafección. objetivo, deje.</Line>
+<Line>escolar. eurítmico, jorro. rincón, escondrijo. carcomerse, borgoña. mutable. canción.</Line>
+<Line>trocado, mineralogía. guardián, pelos. flote, cigoñal. ganguero, piltrafa. cabezota, biología.</Line>
+<Line>jayán. pregonar, ponente. supersticioso, gallego. escápula, requisar. cenceño, bisector.</Line>
+<Line>hartarse. insistir, fracasar. isleño, garganta. apertura, recurrido. dracma, secuestrar.</Line>
+<Line>escombrar. aptitud, recrearse. enyugar, tumbacuartillos. tronera, vertimiento. placer.</Line>
+<Line>guarida, certamen. vagancia, jalar. cartapacio, islamizar. espina, atadura. serología.</Line>
+<Line>glosar, general. lenguaraz, llantería. endentar, placible. narcosis, codicilo. desamarrar.</Line>
+<Line>chuchear, gocho. botarate, excavación. res, posposición. paisano, alga. radiolocalización.</Line>
+<Line>cosas, ligazón. retorta, cerviz. óbito, discurso. exorcizar, autoestudio. quincallero.</Line>
+<Line>pormenor, cerilla. partidarios, escaramuza. chileno, intachable. encaramarse, regresar.</Line>
+<Line>colombiano. taller, embarrador. estrago, aproximado. dilapidación, pasmo. jarra.</Line>
+<Line>propuesta, hostigar. sugestivo, desenfadar. atenuar, descontinuar. comparecencia.</Line>
+
+ </Level>
+
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>mayúsculas</NewCharacters>
+<Line>Atenas Canadá Abiyán Panamá Navidad Brunswick Virgo Eritrea Malí Normandía</Line>
+<Line>Guinea Surinam Tanzania Lieja Neptuno Gibraltar Balcanes Brandemburgo</Line>
+<Line>Guyana Jamaica Abruzos Zaire Paraguay Bremen AC Abisinia Frisia</Line>
+<Line>Polinesia Afganistán Groninga Comoras Nepal Brasil Chile Malasia Mónaco</Line>
+<Line>Londres Libra Colombia Azores Eslovaquia Iraq Baviera Túnez Polonia</Line>
+<Line>Japón Siberia Hesse Congo Yugoslavia Acuario Coblenza Pléyades</Line>
+<Line>Myanmar Suazilandia Bangladesh Uruguay Valeta Estocolmo</Line>
+<Line>Magdeburgo Tierra Kenia Liguria Brema Lituania Sumatra Líbano Venus</Line>
+<Line>Austria Bratislava Edimburgo Georgia Asia Alemania Hamburgo Chad Sicilia</Line>
+<Line>Antártida Malawi Suecia Budapest Gambia Sudáfrica Brunéi Tokio Tauro</Line>
+<Line>Liberia Escocia Viena Turkmenistán Escandinavia Nicaragua Malvinas</Line>
+<Line>Paris Burundi Cáncer Irán Omán Montenegro Uzbekistán Egipto</Line>
+<Line>Tailandia Italia Andorra Varsovia Helsinki Copenhague Venezuela Atlántico</Line>
+<Line>Macedonia DNI Angola Albania Rumanía Tonga California Brandeburgo</Line>
+<Line>Argentina Bután España Ceuta Bermudas Finlandia Rabino Guadalupe</Line>
+<Line>Honduras Micronesia Tayikistán China Botsuana Bulgaria Tesalia Gales</Line>
+<Line>Checoeslovaquia Maldivas Níger Malta Toscana Camerún Yemen Sofía</Line>
+<Line>Noruega Biblia Friburgo Galicia DC Irlanda Praga Bosnia India EEUU Bretaña</Line>
+<Line>Cuba Cartuja Euskadi Estonia Taiwán Silesia Cantabria Mauritania Dublín</Line>
+<Line>Portugal Tokelau Serbia Gotland Filipinas Australia Ratisbona Eslovenia</Line>
+<Line>Renania Cerdeña Granada Calabria Suiza Caribe Pekín Múnich Leo Urano</Line>
+<Line>Fráncfort Letonia Azerbaiyán Vilna Mecklemburgo Bruselas Holanda</Line>
+<Line>Epifanía Patagonia Cretácico Salzburgo Berlín América Argovia Vaticano</Line>
+<Line>PYME Benín Perú Sudamérica Dinamarca Bucarest Marte Nigeria</Line>
+<Line>Lima Géminis Tasmania Lisboa Saturno Zagreb Mercurio Tréveris</Line>
+<Line>Jurásico Terranova Chequia Marruecos Pentecostés Togo Fiyi</Line>
+<Line>Aquisgrán Riga Pakistán Andalucía Kirguistán Islandia Indonesia Borneo Dalmacia</Line>
+<Line>Capricornio Tallin Francia Madagascar Groenlandia Grecia IVA Benelux Liechtenstein</Line>
+<Line>Estrasburgo OVNI Argelia Todopoderoso Burgenland Bélgica</Line>
+<Line>Ghana Ecuador Escorpio Hungría Mauricio Chipre Felicitaciones Tracia</Line>
+<Line>Piscis Belice Martinica Asiria Senegal Júpiter Lobelia México PC SIDA</Line>
+<Line>Dios Ucrania Aruba Croacia Kiribati Sagitario Nicosia Pascua Mozambique Bolivia</Line>
+<Line>Inglaterra Liubliana Jesús Roma Oceanía Siria Aries Bielorrusia Cisjordania Rusia</Line>
+<Line>Kazajstán Galápagos Birmania Jordania Betelgeuse Luxemburgo Madrid</Line>
+ </Level>
+
+ 
+
+  
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>frases enteras</NewCharacters>
+<Line>El término agua, generalmente, se refiere a la sustancia en su estado líquido, aunque esta puede hallarse en su forma sólida, llamada hielo, y en su forma gaseosa, denominada vapor.</Line>
+<Line>El agua desempeña un papel biológico importante y todas las formas de vida conocidas dependen del agua a nivel molecular.</Line>
+<Line>El agua es un compuesto bastante común en nuestro sistema solar, y en el universo, donde se encuentra principalmente en forma de hielo y de vapor.</Line>
+<Line>Algunos satélites de Júpiter y Saturno, como Europa y Encélado presentan posiblemente agua líquida bajo su gruesa capa de hielo.</Line>
+<Line>El agua, por su carácter anfiprótico es también el eje de las funciones enzimáticas y la neutralidad respecto a ácidos y bases.</Line>
+<Line>El agua también es útil para lubricar las articulaciones, facilitar el proceso de digestión y mantener los órganos en función y en buen estado.</Line>
+<Line>Por diversos motivos, la disponibilidad del agua resulta problemática en buena parte del mundo, y por ello se ha convertido en una de las principales preocupaciones de gobiernos en todo el mundo.</Line>
+<Line>Además de precisar los seres humanos el agua para su existencia precisan del agua para su propio aseo y la limpieza.</Line>
+<Line>Un glaciar es una gruesa masa de hielo y nieve originada en la superficie terrestre por acumulación, compactación y recristalización de la nieve, mostrando evidencias de flujo en el pasado o en la actualidad.</Line>
+<Line>En los lugares de un glaciar donde la acumulación de nieve es mayor a la ablación se va acumulando nieve de año a año y las capas más profundas de la nieve se van transformando en hielo glaciar.</Line>
+<Line>Se cree que la familia Ursidae se separó de los otros carnívoros hace aproximadamente 38 millones de años.</Line>
+<Line>La subfamilia Ursinae se originó hace unos 4,2 millones de años.</Line>
+<Line>El fósil de oso polar más antiguo que se conoce data de hace aproximadamente 130 000 a 110 000 años y se halló en la isla Príncipe Carlos Forland, en 2004.</Line>
+<Line>El oso polar presenta un perfil más alargado que el de otros osos y las patas más desarrolladas, tanto para caminar como para nadar largas distancias.</Line>
+<Line>El oso pardo (Ursus arctos) es una especie de mamífero carnívoro de la familia Ursidae propio de Eurasia y Norteamérica.</Line>
+<Line>El oso pardo es un habitante característico de los bosques maduros de Europa, Asia templada y América del Norte.</Line>
+<Line>La pardela balear se clasifica en el género Puffinus, que pertenece a la familia de las pardelas y petreles (Procellariidae), incluida dentro del orden Procellariiformes.</Line>
+<Line>La pardela balear cría en madrigueras en los islotes y las islas menores del archipiélago balear, especialmente en Formentera, aunque también cría en grietas de acantilados y cuevas de las islas mayores.</Line>
+<Line>El descubrimiento de colonias de cría de pardela mediterránea en Menorca indica que la hibridación también podría resultar siendo un problema.</Line>
+<Line>El efecto de la contaminación lumínica trastoca esa fuente de valores culturales, históricos y científicos que nos han permitido ubicarnos en el universo.</Line>
+<Line>Muchas especies de animales son de hábitos nocturnos. Esto significa que buena parte de sus actividades se desarrollan entre la puesta de sol y el amanecer.</Line>
+<Line>Recientemente, se ha descubierto que el uso de luces tipo "LED" en habitaciones de niños pequeños es desaconsejable porque produce alteraciones en el sueño.</Line>
+<Line>La tendencia actual de la contaminación lumínica es al alza a un ritmo mínimo de un 2.2% en intensidad y área.</Line>
+</Level>
+ 
+ </Levels>
+</RasytiLecture>
