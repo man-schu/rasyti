@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+
+  <title>speed typing game</title>
+</head>
+<body>
+<div id="white">
+<br>
+<h1>Speed Typing Game</h1>
+<p>Beat your highscore! The game will start as soon as you select a language.</p>
+</div>
+<div id="wrapper">
+
+<header>
+</header>
+<br>
+
+<p>Choose a language to start:<select style="font-size:20px;" name="language" id="language-select"  onchange="showWord(valueSpan);init();">
+<option value="">Select language</option>
+<option value="wordslat">Latin</option>
+<option value="wordsbulg">български (Bulgarian)</option>
+<option value="wordsgreek">ελληνικά (Greek)</option>
+<option value="wordsrussian">русский (Russian)</option>
+
+</select></p>
+
+<!-- Why do I need this? -->
+<span style="visibility:hidden" id="value-span"></span> <!-- if I remove this line, it doesn't work at all -->
+<span style="visibility:hidden" id="text-span"></span> <!-- If I remove this, it does not work and the value above is also not displayed, why? -->
+
+
+<p class="maxtimetext">Max. time to write this word:
+        <span class="maxtime" id="seconds"></span> Seconds</p>
+		<br>
+
+        <h2 id="current-word"></h2>
+        <input type="text" spellcheck="false" placeholder="Start typing..." id="word-input" autofocus>
+        <h4 class="message" id="message"></h4>
+<br>
+    
+            <h3>Time Left: <span class="time-left" id="time">0</span></h3>
+         <br> 
+            <p class="score">Score: <span id="score">0</span></p>
+			<br>
+			
+<p><button style="font-size:20px;" onClick="window.location.reload();">Restart game</button></p>
+</div>
+
+<!--<p>Game over? To restart just type the word</p>-->
+<script  src="./script.js"></script>
+
+</body>
+</html>
