@@ -2,6 +2,15 @@
  <Title>Deutsch</Title>
  <Comment>created by Manfred Schulenburg</Comment>
  <Levels>
+     
+ <Level>
+ <!-- 0 -->
+ <NewCharacters>Grundstellung</NewCharacters>
+ <Line>fdsa jklö fdsa jklö fdsa jklö ölkj asdf ölkj asdf ölkj asdf</Line>
+ <Line>ölkj asdf ölkj asdf ölkj asdf fdsa jklö fdsa jklö fdsa jklö</Line>
+ </Level>
+ 
+ 
  <Level>
  <!-- 1 -->
  <NewCharacters>dk</NewCharacters>
