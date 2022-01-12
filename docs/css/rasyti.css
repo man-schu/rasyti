@@ -114,10 +114,6 @@ html #wrapper {
 #hands {
   float: right;
   position: relative;
- /* margin-top: 5px;*/
-  margin-top: 115px;
-  width: 150px;
-  height: 90px;
   overflow: hidden;
   display: none;
 
@@ -157,14 +153,15 @@ html #wrapper {
  */
 
 #keyboardSelector {
-  display: table;
-  margin: auto;
+/*  display: table;
+  margin: auto; */
+  text-align:left;
 }
 
 #keyboardSelector dl * {
-  /*margin: 0;*/
+  /*margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: hidden;*/
 }
 
 #keyboardSelector dl dt {
@@ -172,7 +169,7 @@ html #wrapper {
   width: 200px;
   height: 1.5em;
   line-height: 1.5em;
-  text-align: right;
+/* text-align: right;*/
 }
 
 #keyboardSelector dl dd {

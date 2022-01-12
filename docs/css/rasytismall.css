@@ -45,5 +45,21 @@ html #wrapper {
  width: 80%;
   }
 
+/******************************************************************************
+ * Visual hints: hands picture
+ */
 
+#hands {
+  margin-top: 112px;
+  width: 150px;
+  height: 90px;
+}
 
+#hands span {
+  width: 300px;
+  height: 90px;
+}
+
+#hands.shift span {
+  left: -150px;
+}

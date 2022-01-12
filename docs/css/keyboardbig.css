@@ -1,5 +1,5 @@
 ul#keyboard, ul#keyboard ul {
-  width: 960px;
+  width: 968px;
   font-size:22px;
   }
   
@@ -84,7 +84,7 @@ ul#keyboard li#key_MENU {
 }
 
 .pc105 li#key_BKSL {
-  margin-left: -31px;*/
+ /* margin-left: -31px;*/
     margin-top: 72px;
   margin-left: -46px;
 }
