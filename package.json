@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "2.5.058",
+  "version": "2.5.059",
   "description": "Rasyti touch typing trainer",
   "main": "docs/index.js",
   "directories": {
@@ -9,7 +9,7 @@
         "buildResources": "resources"
     },
   "files": [
-      "build/*"
+      "build/**/*"
     ],
   "scripts": {
     "start": "electron-forge start",
