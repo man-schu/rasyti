@@ -30,10 +30,20 @@
 <input  title="reload page" type="button" style="font-size:22px;" value="&#10227; reload page" onclick="location.reload(true);" /></p>
 
 
-      <div id="metrics" style="float: right;">
-        <span id="speed">0</span> cpm
+ <!--    <div id="metrics" style="float: right;">
+       Characters per minute / errors: <span id="speed">0</span> cpm
         <span id="accuracy">0</span> errors
+      </div> -->
+      
+      
+<div id="metrics" style="float: right;">
+       Characters per minute: <span id="speed">0</span> 
+</div>
+    <br>  
+<div id="metrics" style="float: right;">
+       Errors: <span id="accuracy">0</span>
       </div>
+      
 <br>
 <p>Select your language and the lesson you want to work on:</p>
       <form id="lessonSelector">
@@ -41,9 +51,9 @@
         
                   <!-- Non-Latin -->
           <option disabled> -- Non-Latin -- </option>
-	  <option value="bulgarian">български 1 (Bulgarian)</option>
-          <option value="bulgarian_long">български 2 (Bulgarian, alternative course)option>
-          <option value="greek">Ελληνικά 1 (Greek)</option>
+	  <option value="bulgarian">български (Bulgarian)</option>
+          <option value="bulgarian_long">български 2 (Bulgarian, alternative course)</option>
+          <option value="greek">Ελληνικά (Greek)</option>
           <option value="greek2">Ελληνικά 2 (Greek, alternative course)</option>
           <option value="greek3">Ελληνικά 3 (Greek, alternative course)</option>
           <option value="russian">русский (Russian)</option>
@@ -58,17 +68,17 @@
           
           <option value="catalan">Català</option>
           <option value="czech">&#268;eština</option>
-          <option value="danish">Dansk 1</option>
-          <option value="danish2">Dansk 2</option>
-          <option value="german">Deutsch 1</option>
+          <option value="danish">Dansk</option>
+          <option value="danish2">Dansk 2 (alternative course)</option>
+          <option value="german">Deutsch</option>
           <option value="german2">Deutsch 2 (alternative course)</option>
           <option value="german3">Deutsch 3 (alternative course)</option>
           <option value="estonian" selected>Eesti</option>
-          <option value="english" selected>English 1</option>
+          <option value="english" selected>English</option>
           <option value="english2" selected>English 2 (alternative course)</option>
-          <option value="spanish">Español 1</option>
+          <option value="spanish">Español</option>
           <option value="spanish2">Español 2 (alternative course)</option>
-          <option value="french">Français 1</option>
+          <option value="french">Français</option>
           <option value="french2">Français 2 (alternative course)</option>
           <option value="french3">Français 3 (alternative course)</option>
           <option value="irishgaelic">Gaeilge</option>
@@ -79,9 +89,9 @@
           <option value="maltese">Malti</option>
           <option value="hungarian">Magyar 1</option>
           <option value="hungarian_expert">Magyar 2</option>
-          <option value="nederlands">Nederlands 1</option>
+          <option value="nederlands">Nederlands</option>
           <option value="nederlands2">Nederlands 2 (alternative course)</option>
-          <option value="nederlands_junior">Nederlands (junior course)</option>
+          <option value="nederlands_junior">Nederlands 3 (junior course)</option>
           <option value="norwegian">Norsk</option>
           <option value="polish">Polski</option>
           <option value="brazilian">Português (Brasil)</option>
@@ -90,7 +100,7 @@
           <option value="slovak">Slovenčina (Slovak)</option>
           <option value="slovenian">Slovenski (Slovenian)</option>
           <option value="finnish">Suomi</option>
-          <option value="finnish_for_kids">Suomi (junior course)</option>
+          <option value="finnish_for_kids">Suomi 2 (junior course)</option>
           <option value="swedish">Svenska</option>
           
  
@@ -383,7 +393,9 @@
           </ul>
         </li>
       </ul>
-
+<br>
+<br>
+<p>Select the keyboard layout that is in line with your physical keyboard:</p>
       <form id="keyboardSelector">
         <dl>
           <dt> keyboard layout: </dt>
@@ -407,6 +419,9 @@
               <option value="pc105"> pc105 / ISO </option>
               <option value="pcrus"> Russian </option>
             </select>
+            </dd>
+            <dt> Hints for beginners: </dt>
+            <dd>
             <input id="hints" type="checkbox">
             <label for="hints"> show hints </label><a href="remarks.html#hintskblayout" target="_blank"><span class="remark">&#9432;</span></a>
           </dd>

@@ -1,45 +1,61 @@
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Rašyti - A free, open-source, online typing tutor.">
-<title>Rašyti - Touch Typing Trainer</title>
+  
+  <meta name="description" content="Multilingual and multi-keyboard touch typing trainer, currently covering 28 languages.">
+
+  <title>Rašyti - Touch Typing Trainer</title>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/keyboard.css">
   <link type="text/css" rel="stylesheet" href="css/keyboardbig.css">
-    <link type="text/css" rel="stylesheet" href="css/rasyti.css">
-  <link type="text/css" rel="stylesheet" href="css/rasytibig.css">
+  <link type="text/css" rel="stylesheet" href="css/rasyti.css">
+   <link type="text/css" rel="stylesheet" href="css/rasytibig.css">
+
   <link rel="icon" type="image/png" href="rasyti.png" />
 
 
 </head>
-
 <body>
-  <script type="text/javascript" src="js/adblock-tester.js"></script>
-  <script type="text/javascript" src="js/rasyti.js"></script>
+	
+ <script type="text/javascript" src="js/adblock-tester.js"></script>
+ <script type="text/javascript" src="js/rasyti.js"></script>
   <div id="wrapper">
     <div id="content">
     
       <h1>Rašyti - Touch Typing Trainer</h1>
+      
 
 <p><button title="smaller"><a href="index.html" style="text-decoration: none; color: inherit;"><span style="font-size: 22px">&#128442;</span>&rarr;<span style="font-size: 12px">&#128442;</span></a></button>
 <input  title="reload page" type="button" style="font-size:22px;" value="&#10227; reload page" onclick="location.reload(true);" /></p>
 
-      <div id="metrics" style="float: right;">
-        <span id="speed">0</span> cpm
+
+ <!--    <div id="metrics" style="float: right;">
+       Characters per minute / errors: <span id="speed">0</span> cpm
         <span id="accuracy">0</span> errors
+      </div> -->
+      
+      
+<div id="metrics" style="float: right;">
+       Characters per minute: <span id="speed">0</span> 
+</div>
+    <br>  
+<div id="metrics" style="float: right;">
+       Errors: <span id="accuracy">0</span>
       </div>
+      
 <br>
+<p>Select your language and the lesson you want to work on:</p>
       <form id="lessonSelector">
         <select id="lesson">
         
                   <!-- Non-Latin -->
           <option disabled> -- Non-Latin -- </option>
-	  <option value="bulgarian">български 1 (Bulgarian)</option>
-          <option value="bulgarian_long">български 2 (Bulgarian)</option>
-          <option value="greek">Ελληνικά 1 (Greek)</option>
-          <option value="greek2">Ελληνικά 2 (Greek)</option>
-          <option value="greek3">Ελληνικά 3 (Greek)</option>
+	  <option value="bulgarian">български (Bulgarian)</option>
+          <option value="bulgarian_long">български 2 (Bulgarian, alternative course)</option>
+          <option value="greek">Ελληνικά (Greek)</option>
+          <option value="greek2">Ελληνικά 2 (Greek, alternative course)</option>
+          <option value="greek3">Ελληνικά 3 (Greek, alternative course)</option>
           <option value="russian">русский (Russian)</option>
           <option value="ukrainian">українська (Ukrainian)</option>
 
@@ -52,19 +68,19 @@
           
           <option value="catalan">Català</option>
           <option value="czech">&#268;eština</option>
-          <option value="danish">Dansk 1</option>
-          <option value="danish2">Dansk 2</option>
-          <option value="german">Deutsch 1</option>
-          <option value="german2">Deutsch 2</option>
-          <option value="german3">Deutsch 3</option>
+          <option value="danish">Dansk</option>
+          <option value="danish2">Dansk 2 (alternative course)</option>
+          <option value="german">Deutsch</option>
+          <option value="german2">Deutsch 2 (alternative course)</option>
+          <option value="german3">Deutsch 3 (alternative course)</option>
           <option value="estonian" selected>Eesti</option>
-          <option value="english" selected>English 1</option>
-          <option value="english2" selected>English 2</option>
-          <option value="spanish">Español 1</option>
-          <option value="spanish2">Español 2</option>
-          <option value="french">Français 1</option>
-          <option value="french2">Français 2</option>
-          <option value="french3">Français 3</option>
+          <option value="english" selected>English</option>
+          <option value="english2" selected>English 2 (alternative course)</option>
+          <option value="spanish">Español</option>
+          <option value="spanish2">Español 2 (alternative course)</option>
+          <option value="french">Français</option>
+          <option value="french2">Français 2 (alternative course)</option>
+          <option value="french3">Français 3 (alternative course)</option>
           <option value="irishgaelic">Gaeilge</option>
           <option value="croatian">Hrvatski</option>
           <option value="italian">Italiano</option>
@@ -73,9 +89,9 @@
           <option value="maltese">Malti</option>
           <option value="hungarian">Magyar 1</option>
           <option value="hungarian_expert">Magyar 2</option>
-          <option value="nederlands">Nederlands 1</option>
-          <option value="nederlands2">Nederlands 2</option>
-          <option value="nederlands_junior">Nederlands (junior)</option>
+          <option value="nederlands">Nederlands</option>
+          <option value="nederlands2">Nederlands 2 (alternative course)</option>
+          <option value="nederlands_junior">Nederlands 3 (junior course)</option>
           <option value="norwegian">Norsk</option>
           <option value="polish">Polski</option>
           <option value="brazilian">Português (Brasil)</option>
@@ -84,7 +100,7 @@
           <option value="slovak">Slovenčina (Slovak)</option>
           <option value="slovenian">Slovenski (Slovenian)</option>
           <option value="finnish">Suomi</option>
-          <option value="finnish_for_kids">Suomi (junior)</option>
+          <option value="finnish_for_kids">Suomi 2 (junior course)</option>
           <option value="swedish">Svenska</option>
           
  
@@ -377,7 +393,9 @@
           </ul>
         </li>
       </ul>
-
+<br>
+<br>
+<p>Select the keyboard layout that is in line with your physical keyboard:</p>
       <form id="keyboardSelector">
         <dl>
           <dt> keyboard layout: </dt>
@@ -401,6 +419,9 @@
               <option value="pc105"> pc105 / ISO </option>
               <option value="pcrus"> Russian </option>
             </select>
+            </dd>
+            <dt> Hints for beginners: </dt>
+            <dd>
             <input id="hints" type="checkbox">
             <label for="hints"> show hints </label><a href="remarks.html#hintskblayout" target="_blank"><span class="remark">&#9432;</span></a>
           </dd>
@@ -411,17 +432,20 @@
 <br><br>
 <div id="game">
 <p  style="text-align:center;">You know to write the basic alphabet with ten fingers? How about a little game?</p>
-	
+
 <p  style="text-align:center; font-size: 24px;"><button title="speed typing game"><a href="./typinggame/index.html" target="_blank" style="text-decoration: none; color: inherit;"><span style="font-size: 18px">Speed typing game</a></button>
-</div>  
 </div>
 
+
+    </div>
+  
     <div id="footer">
     <p><a href="info.html" target="_blank">&#8505; about the application</a>&ensp;&ensp;&ensp;&ensp;&ensp; Version 2.5.06</p>
 
 
     </div>
   </div>
-
+  <br>
 </body>
 </html>
+
