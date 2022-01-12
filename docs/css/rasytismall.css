@@ -1,0 +1,49 @@
+html, body {
+
+   font-size: 18px;
+}
+
+
+#wrapper, #footer {
+  width: 840px;
+}
+
+html #wrapper {
+
+}
+
+#content {
+  padding-bottom: 40px; /* >= height of the footer */
+}
+
+/*******************************************************************************/
+ 
+ #txtPrompt {
+ font-size: 18px;
+ }
+
+#txtInput {
+ font-size: 18px;
+}
+
+#lessonInput {
+  padding: 1em 0;
+}
+
+
+
+#lessonInput textarea {
+ height: 85px; 
+ width: 100%;
+}
+
+#lessonInput textarea.error {
+  background-color: red;
+}
+
+.hints #lessonInput textarea {
+ width: 80%;
+  }
+
+
+

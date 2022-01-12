@@ -1,0 +1,77 @@
+
+/******************************************************************************
+ * Full-height page with sticky footer
+ */
+
+html, body {
+
+   font-size: 22px;
+}
+
+
+#wrapper, #footer {
+  width: 960px;
+}
+
+
+
+html #wrapper {
+
+}
+
+#content {
+  padding-bottom: 50px; /* >= height of the footer */
+}
+
+
+/*******************************************************************************/
+ 
+ #txtPrompt {
+ font-size: 22px;
+ }
+
+#txtInput {
+ font-size: 22px;
+}
+
+#lessonInput {
+  padding: 1em 0;
+}
+
+
+#lesson {
+
+}
+
+#level {
+
+}
+
+#shape {
+
+}
+
+#layout {
+
+}
+
+#variant {
+
+}
+
+#hints {
+transform : scale(1.5);
+}
+
+#lessonInput textarea {
+ height: 95px; 
+}
+
+
+
+.hints #lessonInput textarea {
+ width: 80%;
+  }
+
+
+

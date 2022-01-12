@@ -1,0 +1,244 @@
+ul#keyboard, ul#keyboard ul {
+  font-size:16px;
+  width: 664px;
+  }
+    
+* html ul#keyboard ul {
+  width: 672px;
+}
+
+ul#keyboard {
+ margin: 20px auto;
+  position: relative;
+  height: 230px;
+}
+
+/******************************************************************************
+ * Default Keyboard Geometry (pc104)
+ */
+
+/* rows */
+
+ul#keyboard li#row_AD {
+  top: 46px;
+}
+ul#keyboard li#row_AC {
+  top: 92px;
+}
+ul#keyboard li#row_AB {
+  top: 138px;
+    
+}
+ul#keyboard li#row_AA {
+  top: 184px;
+}
+
+/* keys */
+ul#keyboard li li {
+  width: 40px;
+  height: 40px;
+}
+
+/* special keys */
+ul#keyboard li.specialKey * {
+  font-size:13px;
+}
+li#row_AA li.specialKey {
+ width: 56px;
+}
+
+ul#keyboard li#key_TAB,
+ul#keyboard li#key_BKSP {
+ width: 60px;
+}
+ul#keyboard li#key_CAPS,
+ul#keyboard li#key_RTRN {
+ width: 73px;
+}
+ul#keyboard li#key_LFSH,
+ul#keyboard li#key_RTSH {
+  width: 96px;
+}
+ul#keyboard li#key_SPCE {
+  width: 240px;
+  
+}
+ul#keyboard li#key_MENU {
+  width: 40px;
+}
+
+
+/******************************************************************************
+ * European Keyboard Geometry (pc105)
+ */
+
+.pc105 li#key_LFSH {
+  width: 50px !important;
+}
+
+.pc105 li#key_RTRN {
+  width: 27px !important;
+  height: 86px !important;
+  margin-top: -44px;
+  margin-left: 48px;
+}
+
+.pc105 li#key_BKSL {
+  margin-top: 48px;
+  margin-left: -31px;
+}
+
+.pc105 li#key_LSGT {
+}
+
+/* visual tweaks for CapsLock and Return */
+.pc105 li#key_CAPS105, .pc105 li#key_RTRN105 {
+}
+
+.pc105 li#key_CAPS {
+  width: 60px !important;
+}
+.pc105 li#key_CAPS, .pc105 li#key_RTRN {
+}
+
+.pc105 li#key_CAPS105 {
+  margin-left: -64px;
+  width: 73px !important;
+}
+.pc105 li#key_RTRN105 {
+  margin-top: -44px;
+  margin-left: -44px;
+  width: 40px !important;
+}
+
+
+/******************************************************************************
+*/
+
+.pcrus li#key_BKSL {
+  margin-top: 48px;
+  margin-left: -31px;
+}
+.pcrus li#key_LSGT {
+}
+
+/* visual tweaks for CapsLock and Return */
+.pcrus li#key_CAPS105, .pcrus li#key_RTRN105 {
+  background-color: #e8e8e8 !important;
+  display: block;
+}
+.pcrus li#key_CAPS {
+  width: 60px !important;
+}
+.pcrus li#key_CAPS, .pccyr li#key_RTRN {
+  z-index: 1;
+}
+.pcrus li#key_CAPS105 {
+  margin-left: -64px;
+  width: 73px !important;
+}
+
+
+.pcrus li#key_RTRN105 {
+  margin-top: -44px;
+  margin-left: -44px;
+  width: 40px !important;
+}
+
+
+.pcrus li#key_LSGT {
+}
+
+.pcrus li#key_BKSL {
+}
+
+
+/******************************************************************************
+ * Ergonomic Keyboard Geometry (TMx)
+ */
+
+.tmx li#key_CAPS {
+}
+
+.tmx li#key_BKSL {
+  margin-top: 94px;
+  margin-left: -96px;
+}
+
+.tmx li#key_TLDE, .tmx li#key_TAB,  .tmx li#key_LFSH, .tmx li#key_LCTL,
+.tmx li#key_AE12, .tmx li#key_AD12, .tmx li#key_RTSH, .tmx li#key_RCTL,
+.tmx li#key_BKSP, .tmx li#key_RTRN {
+  width: 46px !important;
+}
+
+.tmx li#key_LWIN, .tmx li#key_LALT, .tmx li#key_RWIN, .tmx li#key_RALT {
+  width: 63px !important;
+}
+
+.tmx li#key_TLDE, .tmx li#key_TAB, .tmx li#key_LFSH, .tmx li#key_LCTL {
+  margin-left: 3px;
+}
+
+.tmx li#key_AC01 {
+  margin-left: 55px;
+}
+
+* html .tmx li#key_AC01 {
+  margin-left: 29px;
+}
+
+.tmx li#key_AE06, .tmx li#key_AD06, .tmx li#key_AC06, .tmx li#key_AB06 {
+  margin-left: 54px;
+}
+.tmx li#key_BKSP {
+  margin-left: -378px;
+  height: 86px !important;
+}
+.tmx li#key_RTRN {
+  margin-left: -326px;
+  height: 86px !important;
+}
+.tmx li#key_LFSH, .tmx li#key_RTSH {
+  height: 86px !important;
+  margin-top: -44px;
+}
+.tmx li#key_RTSH {
+  margin-left: 48px;
+}
+.tmx li#key_SPCE {
+  width: 230px !important;
+}
+
+
+/******************************************************************************
+ * Background Images for Tab, Backspace, Caps, Return, Shift
+ */
+
+li#key_TAB *, li#key_BKSP *, li#key_CAPS *,
+li#key_LFSH *, li#key_RTSH *, li#key_RTRN * {
+}
+
+li.specialKey {
+}
+
+li#key_TAB  {}
+li#key_BKSP {}
+li#key_CAPS {}
+li#key_RTRN {}
+li#key_LFSH, li#key_RTSH {}
+
+/* IE6 hack, using GIF instead of PNG */
+* html li#key_TAB  {}
+* html li#key_BKSP {}
+* html li#key_CAPS {}
+* html li#key_RTRN {}
+* html li#key_LFSH, * html li#key_RTSH {}
+
+
+/******************************************************************************
+ * Displayed if the keyboard rendering is altered by an ad blocker
+ */
+
+#badRendering {
+ }
+
