@@ -1,0 +1,3 @@
+webPreferences: {
+   devTools: false
+}
