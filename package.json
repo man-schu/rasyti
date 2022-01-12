@@ -27,28 +27,28 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "icon": "images/icons/icon"
+        "icon": "docs/images/icons/icon"
       },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
             "name": "rasyti",
-            "setupIcon": "images/icons/icon.ico",
+            "setupIcon": "docs/images/icons/icon.ico",
             "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/images/icons/icon.ico"
 
           }
         },
         {
           "name": "@electron-forge/maker-dmg",
-          "icon": "images/icons/icon.icns",
+          "icon": "docs/images/icons/icon.icns",
           "platforms": [
             "darwin"
           ]
         },
         {
           "name": "@electron-forge/maker-deb",
-          "icon": "images/icons/icon.png",
+          "icon": "docs/images/icons/icon.png",
           "config": {}
         },
         {
