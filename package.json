@@ -1,7 +1,7 @@
 {
   "name": "Rasyti",
   "productName": "Rasyti",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Rasyti touch typing trainer",
   "main": "docs/index.js",
   "directories": {
@@ -53,7 +53,7 @@
         },
         {
           "name": "@electron-forge/maker-rpm",
-          "icon": "images/icons/icon.png",
+          "icon": "docs/images/icons/icon.png",
           "config": {}
         }
       ],
