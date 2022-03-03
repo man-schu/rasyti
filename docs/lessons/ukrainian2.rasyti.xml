@@ -61,78 +61,73 @@
  <Level>
  <!-- 6 -->
  <NewCharacters>no</NewCharacters>
-<Line></Line>
+<Line>ф</Line>
  </Level>
  
  <Level>
  <!-- 7 -->
- <NewCharacters>rm</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
 
 
  <Level>
  <!-- 8 -->
- <NewCharacters>vt</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
  
  <Level>
  <!-- 9 -->
- <NewCharacters>pu</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
 </Level>
 
  <Level>
  <!-- 10 -->
- <NewCharacters>g</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
  
-<Level>
- <!-- 10 b -->
- <NewCharacters>y</NewCharacters>
-<Line></Line>
- </Level>
- 
+
  <Level>
  <!-- 11 -->
- <NewCharacters>zh</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
  
   
  <Level>
  <!-- 12 -->
- <NewCharacters>bc</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
 
  </Level>
  
  
   <Level>
  <!-- 13 -->
- <NewCharacters>acentos</NewCharacters>
-<Line></Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
   
  <Level>
 	<!-- 14 -->
- <NewCharacters>q</NewCharacters>
-<Line>a</Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
 
  </Level>
  
  <Level>
 	<!-- 15 -->
- <NewCharacters>w (English)</NewCharacters>
-	<Line>a</Line>
+ <NewCharacters>ф</NewCharacters>
+	<Line>ф</Line>
  </Level>
  
    <Level>
 	<!-- 16 -->
- <NewCharacters>ñ</NewCharacters>
-<Line>a</Line>
+ <NewCharacters>ф</NewCharacters>
+<Line>ф</Line>
  </Level>
  
   <Level>
