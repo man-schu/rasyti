@@ -13,7 +13,7 @@
   
   
   <Level>
- <!-- 1 -->
+ <!-- 2 -->
  <NewCharacters>ао</NewCharacters>
  <Line>аао ооа ао оа оа ао аао ооа аао ооа аао ооа о а ооа ааоа ааоа ооао ооао ааоа ааоа</Line>
  <Line>ооа о а ооа ааоа ааоа аао ооа ао оа оа ао аао ооа аао ооа аао ооао ооао ааоа ааоа</Line>
@@ -21,7 +21,7 @@
  </Level>
  
  <Level>
- <!-- 2 -->
+ <!-- 3 -->
  <NewCharacters>вл</NewCharacters>
  <Line>вллв лввл вл лв ллвв ввлл лв вл лв вл вллвл ввл ввлл лввлв вллв влв влвл лвлл влввл</Line>
  <Line>вл лв ллвв ввлл лв вл лв вл вллвл вллв лввл ввл влв влвл лвлл влввл ввлл лввлв вллв</Line>
@@ -29,7 +29,7 @@
  </Level>
  
  <Level>
- <!-- 3 -->
+ <!-- 4 -->
  <NewCharacters>ід</NewCharacters>
  <Line>ід ді дді іід дід іідді дідді дді іідд іді іддідіід ід іідд дді іід дііді ідді іід</Line>
  <Line>дді іідд іді іддідіід ід іідд ід ді дді іід дід іідді дідді дді іід дііді ідді ід</Line>
@@ -37,7 +37,7 @@
  </Level>
  
  <Level>
- <!-- 4 -->
+ <!-- 5 -->
  <NewCharacters>фж</NewCharacters>
  <Line>фжжф жфж фжжф жфж фж фж фжф жфж жфж фжжф жфж ффж жффж жфжф ффж ффжф ффжф ффжффжфж фжф</Line>
  <Line>жффж ффжф жфж ффжф фффж фффжф фжфж жфжж фжфжфф ффж фж ф жжф жф ж ффжф жф ж фф</Line>
@@ -45,7 +45,7 @@
  </Level>
  
 <Level>
- <!-- 5 -->
+ <!-- 6 -->
  <NewCharacters>фіваолдж</NewCharacters>
 <Line>від від два лід лад дав жало олово вдало жало лад лід від дав</Line>
 <Line>вдало два від олово від від лад вдало олово дав лід жало два</Line>
@@ -58,36 +58,30 @@
 </Level>
  
  <Level>
- <!-- 6 -->
+ <!-- 7 -->
  <NewCharacters>no</NewCharacters>
 <Line>ф</Line>
  </Level>
  
- <Level>
- <!-- 7 -->
- <NewCharacters>ф</NewCharacters>
- <Line>ф</Line>
- </Level>
-
-
+	 
  <Level>
  <!-- 8 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
- 
+
+
  <Level>
  <!-- 9 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
-
+ 
  <Level>
  <!-- 10 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
- 
 
  <Level>
  <!-- 11 -->
@@ -95,26 +89,27 @@
  <Line>ф</Line>
  </Level>
  
-  
+
  <Level>
  <!-- 12 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
  
- 
+  
  <Level>
  <!-- 13 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
-  
+ 
+ 
  <Level>
  <!-- 14 -->
  <NewCharacters>ф</NewCharacters>
  <Line>ф</Line>
  </Level>
- 
+  
  <Level>
  <!-- 15 -->
  <NewCharacters>ф</NewCharacters>
@@ -129,6 +124,12 @@
  
  <Level>
  <!-- 17 -->
+ <NewCharacters>ф</NewCharacters>
+ <Line>ф</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 18 -->
  <NewCharacters>всі листи</NewCharacters>
  <Line>ефузивно закінчився термін ді примножувати роздавлювати індивідуальний гаряча</Line>
  <Line>голова лікувальний контратаки добрий ефект нездужає випробування безпілотники</Line>
@@ -171,7 +172,6 @@
 <Line>підпорядкувати поверхово зраджує стопудовий неоригінальний діллі-далі вирок</Line>
 <Line>плутанини виграв сприяти ненасильницький мимо великий перешкоджають</Line>
 <Line>дешевше тон шрам чернець знеохочувати калічити забудькувато ну жерти халтура</Line>
-</Line>
  </Level>
 
 
@@ -240,7 +240,6 @@
 <Line>Белогорск Новомосковск Могилёв-Подольский Славутич Марганец Броды</Line>
 <Line>Зугрэс Бахчисарай Жёлтые Воды Червонозаводское Хмельник Городок</Line>
 <Line>Першотравенск Одесса Чортков Болград Вышгород Киев Десна Бердичев</Line>
-
  </Level>
 
  
