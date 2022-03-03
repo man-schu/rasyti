@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout>
-  <title>Russian</title>
+  <title>Cyrillic</title>
 
   <variant id="ru" name="русский (Russian)">
     <!--row #1-->
@@ -54,6 +54,63 @@
     <key name="AB07" base="&#1100;" shift="&#1068;" />
     <key name="AB08" base="&#1073;" shift="&#1041;" />
     <key name="AB09" base="&#1102;" shift="&#1070;" />
+    <key name="AB10" base="." shift="," />
+    <!--spacebar-->
+    <key name="SPCE" base=" " shift=" " />
+  </variant>
+  
+   <variant id="ua" name="Українська (Ukrainian)">
+    <!--row #1-->
+    <key name="TLDE" base="" shift="₴" />
+    <key name="AE01" base="1" shift="!" />
+    <key name="AE02" base="2" shift='"' />
+    <key name="AE03" base="3" shift="&#8470;" />
+    <key name="AE04" base="4" shift=";" />
+    <key name="AE05" base="5" shift="%" />
+    <key name="AE06" base="6" shift=":" />
+    <key name="AE07" base="7" shift="?" />
+    <key name="AE08" base="8" shift="*" />
+    <key name="AE09" base="9" shift="(" />
+    <key name="AE10" base="0" shift=")" />
+    <key name="AE11" base="-" shift="_" />
+    <key name="AE12" base="=" shift="+" />
+    <!--row #2-->
+    <key name="AD01" base="й" shift="Й" />
+    <key name="AD02" base="ц" shift="Ц" />
+    <key name="AD03" base="у" shift="У" />
+    <key name="AD04" base="к" shift="К" />
+    <key name="AD05" base="е" shift="Е" />
+    <key name="AD06" base="н" shift="Н" />
+    <key name="AD07" base="г" shift="Г" />
+    <key name="AD08" base="ш" shift="Ш" />
+    <key name="AD09" base="щ" shift="Щ" />
+    <key name="AD10" base="з" shift="З" />
+    <key name="AD11" base="х" shift="Х" />
+    <key name="AD12" base="ї" shift="Ї" />
+    <!--row #3-->
+    <key name="AC01" base="ф" shift="Ф" />
+    <key name="AC02" base="і" shift="І" />
+    <key name="AC03" base="в" shift="В" />
+    <key name="AC04" base="а" shift="А" />
+    <key name="AC05" base="п" shift="П" />
+    <key name="AC06" base="р" shift="Р" />
+    <key name="AC07" base="о" shift="О" />
+    <key name="AC08" base="л" shift="Л" />
+    <key name="AC09" base="д" shift="Д" />
+    <key name="AC10" base="ж" shift="Ж" />
+    <key name="AC11" base="є" shift="Є" />
+    <key name="BKSL" base="\" shift="/" />
+    <!--row #4-->
+    <key name="LSGT" base="ґ" shift="Ґ" />
+    <key name="AB01" base="я" shift="Я" />
+    <key name="AB02" base="ч" shift="Ч" />
+    <key name="AB03" base="с" shift="С" />
+    <key name="AB04" base="м" shift="М" />
+    <key name="AB05" base="и" shift="И" />
+    <key name="AB06" base="т" shift="Т" />
+    <key name="AB07" base="ь" shift="Ь" />
+    <key name="AB08" base="б" shift="Б" />
+    <key name="AB09" base="ю" shift="Ю" />
     <key name="AB10" base="." shift="," />
     <!--spacebar-->
     <key name="SPCE" base=" " shift=" " />
