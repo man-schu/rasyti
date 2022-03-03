@@ -2,7 +2,7 @@
 <layout>
   <title>Cyrillic</title>
 
-     <variant id="bg" name="Bulgarian (български)">
+     <variant id="bg" name="български (Bulgarian)">
     <!--row #1-->
     <key name="TLDE" base="`" shift="~" />
     <key name="AE01" base="1" shift="!" />
