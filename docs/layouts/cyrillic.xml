@@ -2,62 +2,63 @@
 <layout>
   <title>Cyrillic</title>
 
-  <variant id="ru" name="русский (Russian)">
+     <variant id="bg" name="Bulgarian (български)">
     <!--row #1-->
-    <key name="TLDE" base="" shift="&#1025;" />
+    <key name="TLDE" base="`" shift="~" />
     <key name="AE01" base="1" shift="!" />
-    <key name="AE02" base="2" shift='"' />
-    <key name="AE03" base="3" shift="&#8470;" />
-    <key name="AE04" base="4" shift=";" />
+    <key name="AE02" base="2" shift="?" />
+    <key name="AE03" base="3" shift="+" />
+    <key name="AE04" base="4" shift='"' />
     <key name="AE05" base="5" shift="%" />
-    <key name="AE06" base="6" shift=":" />
-    <key name="AE07" base="7" shift="?" />
-    <key name="AE08" base="8" shift="*" />
-    <key name="AE09" base="9" shift="(" />
-    <key name="AE10" base="0" shift=")" />
-    <key name="AE11" base="-" shift="_" />
-    <key name="AE12" base="=" shift="+" />
+    <key name="AE06" base="6" shift="=" />
+    <key name="AE07" base="7" shift=":" />
+    <key name="AE08" base="8" shift="/" />
+    <key name="AE09" base="9" shift="_" />
+    <key name="AE10" base="0" shift="&#8470;" />
+    <key name="AE11" base="-" shift="|" />
+    <key name="AE12" base="." shift="V" />
     <!--row #2-->
-    <key name="AD01" base="&#1081;" shift="&#1049;" />
-    <key name="AD02" base="&#1094;" shift="&#1062;" />
-    <key name="AD03" base="&#1091;" shift="&#1059;" />
-    <key name="AD04" base="&#1082;" shift="&#1050;" />
-    <key name="AD05" base="&#1077;" shift="&#1045;" />
-    <key name="AD06" base="&#1085;" shift="&#1053;" />
-    <key name="AD07" base="&#1075;" shift="&#1043;" />
-    <key name="AD08" base="&#1096;" shift="&#1064;" />
-    <key name="AD09" base="&#1097;" shift="&#1065;" />
+    <key name="AD01" base="," shift="&#1099;" />
+    <key name="AD02" base="&#1091;" shift="&#1059;" />
+    <key name="AD03" base="&#1077;" shift="&#1045;" />
+    <key name="AD04" base="&#1080;" shift="&#1048;" />
+    <key name="AD05" base="&#1096;" shift="&#1064;" />
+    <key name="AD06" base="&#1097;" shift="&#1065;" />
+    <key name="AD07" base="&#1082;" shift="&#1050;" />
+    <key name="AD08" base="&#1089;" shift="&#1057;" />
+    <key name="AD09" base="&#1076;" shift="&#1044;" />
     <key name="AD10" base="&#1079;" shift="&#1047;" />
-    <key name="AD11" base="&#1093;" shift="&#1061;" />
-    <key name="AD12" base="&#1098;" shift="&#1066;" />
+    <key name="AD11" base="&#1094;" shift="&#1062;" />
+    <key name="AD12" base=";" shift="§" />
     <!--row #3-->
-    <key name="AC01" base="&#1092;" shift="&#1060;" />
-    <key name="AC02" base="&#1099;" shift="&#1067;" />
-    <key name="AC03" base="&#1074;" shift="&#1042;" />
-    <key name="AC04" base="&#1072;" shift="&#1040;" />
-    <key name="AC05" base="&#1087;" shift="&#1055;" />
-    <key name="AC06" base="&#1088;" shift="&#1056;" />
-    <key name="AC07" base="&#1086;" shift="&#1054;" />
-    <key name="AC08" base="&#1083;" shift="&#1051;" />
-    <key name="AC09" base="&#1076;" shift="&#1044;" />
-    <key name="AC10" base="&#1078;" shift="&#1046;" />
-    <key name="AC11" base="&#1101;" shift="&#1069;" />
-    <key name="BKSL" base="" shift="" />
+    <key name="AC01" base="&#1100;" shift="&#1068;" />
+    <key name="AC02" base="&#1103;" shift="&#1071;" />
+    <key name="AC03" base="&#1072;" shift="&#1040;" />
+    <key name="AC04" base="&#1086;" shift="&#1054;" />
+    <key name="AC05" base="&#1078;" shift="&#1046;" />
+    <key name="AC06" base="&#1075;" shift="&#1043;" />
+    <key name="AC07" base="&#1090;" shift="&#1058;" />
+    <key name="AC08" base="&#1085;" shift="&#1053;" />
+    <key name="AC09" base="&#1074;" shift="&#1042;" />
+    <key name="AC10" base="&#1084;" shift="&#1052;" />
+    <key name="AC11" base="&#1095;" shift="&#1063;" />
+    <key name="BKSL" base="(" shift=")" />
     <!--row #4-->
-    <key name="LSGT" base="" shift="" />
-    <key name="AB01" base="&#1103;" shift="&#1071;" />
-    <key name="AB02" base="&#1095;" shift="&#1063;" />
-    <key name="AB03" base="&#1089;" shift="&#1057;" />
-    <key name="AB04" base="&#1084;" shift="&#1052;" />
-    <key name="AB05" base="&#1080;" shift="&#1048;" />
-    <key name="AB06" base="&#1090;" shift="&#1058;" />
-    <key name="AB07" base="&#1100;" shift="&#1068;" />
-    <key name="AB08" base="&#1073;" shift="&#1041;" />
-    <key name="AB09" base="&#1102;" shift="&#1070;" />
-    <key name="AB10" base="." shift="," />
+    <key name="LSGT" base="\" shift="|" />
+    <key name="AB01" base="&#1102;" shift="&#1070;" />
+    <key name="AB02" base="&#1081;" shift="&#1049;" />
+    <key name="AB03" base="&#1098;" shift="&#1066;" />
+    <key name="AB04" base="&#1101;" shift="&#1069;" />
+    <key name="AB05" base="&#1092;" shift="&#1060;" />
+    <key name="AB06" base="&#1093;" shift="&#1061;" />
+    <key name="AB07" base="&#1087;" shift="&#1055;" />
+    <key name="AB08" base="&#1088;" shift="&#1056;" />
+    <key name="AB09" base="&#1083;" shift="&#1051;" />
+    <key name="AB10" base="&#1073;" shift="&#1041;" />
     <!--spacebar-->
     <key name="SPCE" base=" " shift=" " />
   </variant>
+  
   
    <variant id="ua" name="Українська (Ukrainian)">
     <!--row #1-->
@@ -116,63 +117,63 @@
     <key name="SPCE" base=" " shift=" " />
   </variant>
 
-     <variant id="bg" name="Bulgarian (български)">
+
+
+   <variant id="ru" name="русский (Russian)">
     <!--row #1-->
-    <key name="TLDE" base="`" shift="~" />
+    <key name="TLDE" base="" shift="&#1025;" />
     <key name="AE01" base="1" shift="!" />
-    <key name="AE02" base="2" shift="?" />
-    <key name="AE03" base="3" shift="+" />
-    <key name="AE04" base="4" shift='"' />
+    <key name="AE02" base="2" shift='"' />
+    <key name="AE03" base="3" shift="&#8470;" />
+    <key name="AE04" base="4" shift=";" />
     <key name="AE05" base="5" shift="%" />
-    <key name="AE06" base="6" shift="=" />
-    <key name="AE07" base="7" shift=":" />
-    <key name="AE08" base="8" shift="/" />
-    <key name="AE09" base="9" shift="_" />
-    <key name="AE10" base="0" shift="&#8470;" />
-    <key name="AE11" base="-" shift="|" />
-    <key name="AE12" base="." shift="V" />
+    <key name="AE06" base="6" shift=":" />
+    <key name="AE07" base="7" shift="?" />
+    <key name="AE08" base="8" shift="*" />
+    <key name="AE09" base="9" shift="(" />
+    <key name="AE10" base="0" shift=")" />
+    <key name="AE11" base="-" shift="_" />
+    <key name="AE12" base="=" shift="+" />
     <!--row #2-->
-    <key name="AD01" base="," shift="&#1099;" />
-    <key name="AD02" base="&#1091;" shift="&#1059;" />
-    <key name="AD03" base="&#1077;" shift="&#1045;" />
-    <key name="AD04" base="&#1080;" shift="&#1048;" />
-    <key name="AD05" base="&#1096;" shift="&#1064;" />
-    <key name="AD06" base="&#1097;" shift="&#1065;" />
-    <key name="AD07" base="&#1082;" shift="&#1050;" />
-    <key name="AD08" base="&#1089;" shift="&#1057;" />
-    <key name="AD09" base="&#1076;" shift="&#1044;" />
+    <key name="AD01" base="&#1081;" shift="&#1049;" />
+    <key name="AD02" base="&#1094;" shift="&#1062;" />
+    <key name="AD03" base="&#1091;" shift="&#1059;" />
+    <key name="AD04" base="&#1082;" shift="&#1050;" />
+    <key name="AD05" base="&#1077;" shift="&#1045;" />
+    <key name="AD06" base="&#1085;" shift="&#1053;" />
+    <key name="AD07" base="&#1075;" shift="&#1043;" />
+    <key name="AD08" base="&#1096;" shift="&#1064;" />
+    <key name="AD09" base="&#1097;" shift="&#1065;" />
     <key name="AD10" base="&#1079;" shift="&#1047;" />
-    <key name="AD11" base="&#1094;" shift="&#1062;" />
-    <key name="AD12" base=";" shift="§" />
+    <key name="AD11" base="&#1093;" shift="&#1061;" />
+    <key name="AD12" base="&#1098;" shift="&#1066;" />
     <!--row #3-->
-    <key name="AC01" base="&#1100;" shift="&#1068;" />
-    <key name="AC02" base="&#1103;" shift="&#1071;" />
-    <key name="AC03" base="&#1072;" shift="&#1040;" />
-    <key name="AC04" base="&#1086;" shift="&#1054;" />
-    <key name="AC05" base="&#1078;" shift="&#1046;" />
-    <key name="AC06" base="&#1075;" shift="&#1043;" />
-    <key name="AC07" base="&#1090;" shift="&#1058;" />
-    <key name="AC08" base="&#1085;" shift="&#1053;" />
-    <key name="AC09" base="&#1074;" shift="&#1042;" />
-    <key name="AC10" base="&#1084;" shift="&#1052;" />
-    <key name="AC11" base="&#1095;" shift="&#1063;" />
-    <key name="BKSL" base="(" shift=")" />
+    <key name="AC01" base="&#1092;" shift="&#1060;" />
+    <key name="AC02" base="&#1099;" shift="&#1067;" />
+    <key name="AC03" base="&#1074;" shift="&#1042;" />
+    <key name="AC04" base="&#1072;" shift="&#1040;" />
+    <key name="AC05" base="&#1087;" shift="&#1055;" />
+    <key name="AC06" base="&#1088;" shift="&#1056;" />
+    <key name="AC07" base="&#1086;" shift="&#1054;" />
+    <key name="AC08" base="&#1083;" shift="&#1051;" />
+    <key name="AC09" base="&#1076;" shift="&#1044;" />
+    <key name="AC10" base="&#1078;" shift="&#1046;" />
+    <key name="AC11" base="&#1101;" shift="&#1069;" />
+    <key name="BKSL" base="" shift="" />
     <!--row #4-->
-    <key name="LSGT" base="\" shift="|" />
-    <key name="AB01" base="&#1102;" shift="&#1070;" />
-    <key name="AB02" base="&#1081;" shift="&#1049;" />
-    <key name="AB03" base="&#1098;" shift="&#1066;" />
-    <key name="AB04" base="&#1101;" shift="&#1069;" />
-    <key name="AB05" base="&#1092;" shift="&#1060;" />
-    <key name="AB06" base="&#1093;" shift="&#1061;" />
-    <key name="AB07" base="&#1087;" shift="&#1055;" />
-    <key name="AB08" base="&#1088;" shift="&#1056;" />
-    <key name="AB09" base="&#1083;" shift="&#1051;" />
-    <key name="AB10" base="&#1073;" shift="&#1041;" />
+    <key name="LSGT" base="" shift="" />
+    <key name="AB01" base="&#1103;" shift="&#1071;" />
+    <key name="AB02" base="&#1095;" shift="&#1063;" />
+    <key name="AB03" base="&#1089;" shift="&#1057;" />
+    <key name="AB04" base="&#1084;" shift="&#1052;" />
+    <key name="AB05" base="&#1080;" shift="&#1048;" />
+    <key name="AB06" base="&#1090;" shift="&#1058;" />
+    <key name="AB07" base="&#1100;" shift="&#1068;" />
+    <key name="AB08" base="&#1073;" shift="&#1041;" />
+    <key name="AB09" base="&#1102;" shift="&#1070;" />
+    <key name="AB10" base="." shift="," />
     <!--spacebar-->
     <key name="SPCE" base=" " shift=" " />
   </variant>
-
-  
 
 </layout>
