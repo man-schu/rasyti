@@ -4,6 +4,156 @@
  <keyboardLayout>ua</keyboardLayout>
  <Levels>
 
+  <Level>
+ <!-- 1 -->
+ <NewCharacters>початкове положення</NewCharacters>
+ <Line>фіва олдж фіва олдж авіф ждлр фіва ждло авіф ждло фіва ждло фіва ждло авіф олдж</Line>
+   <Line>фіва ждло авіф ждло фіва фіва олдж фіва олдж авіф ждлр ждло фіва ждло авіф олдж</Line>
+ </Level>
+  
+  
+  <Level>
+ <!-- 1 -->
+ <NewCharacters>ао</NewCharacters>
+ <Line>аао ооа ао оа оа ао аао ооа аао ооа аао ооа о а ооа ааоа ааоа ооао ооао ааоа ааоа</Line>
+ <Line>ооа о а ооа ааоа ааоа аао ооа ао оа оа ао аао ооа аао ооа аао ооао ооао ааоа ааоа</Line>
+ <Line>ооао ооао ааоа ааоа ооа о а ооа ааоа ааоа аао ооа ао оа оа ао аао ооа аао ооа аао</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>вл</NewCharacters>
+ <Line></Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>ід</NewCharacters>
+ <Line></Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>фж</NewCharacters>
+ <Line></Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>фіваолдж</NewCharacters>
+<Line>від від два лід лад дав жало олово вдало жало лад лід від дав</Line>
+<Line>вдало два від олово від від лад вдало олово дав лід жало два</Line>
+<Line>лад дав олово від жало лід два від вдало від від два лід лад дав</Line>
+<Line>жало олово вдало жало лад лід від дав вдало два від олово від</Line>
+<Line>від лад вдало олово дав лід жало два лад дав олово від жало</Line>
+<Line>лід два від вдало від від два лід лад дав жало олово вдало жало</Line>
+<Line>лад лід від дав вдало два від олово від від лад вдало олово дав</Line>
+<Line>лід жало два лад дав олово від жало лід два від вдало</Line>
+
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line></Line>
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line></Line>
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line></Line>
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+<Line></Line>
+</Level>
+
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line></Line>
+ </Level>
+ 
+<Level>
+ <!-- 10 b -->
+ <NewCharacters>y</NewCharacters>
+<Line></Line>
+ </Level>
+ 
+ <Level>
+ <!-- 11 -->
+ <NewCharacters>zh</NewCharacters>
+<Line></Line>
+ </Level>
+ 
+  
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>bc</NewCharacters>
+<Line></Line>
+
+ </Level>
+ 
+ 
+  <Level>
+ <!-- 13 -->
+ <NewCharacters>acentos</NewCharacters>
+<Line></Line>
+ </Level>
+  
+ <Level>
+	<!-- 14 -->
+ <NewCharacters>q</NewCharacters>
+<Line>a</Line>
+
+ </Level>
+ 
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>w (English)</NewCharacters>
+	<Line>a</Line>
+ </Level>
+ 
+   <Level>
+	<!-- 16 -->
+ <NewCharacters>ñ</NewCharacters>
+<Line>a</Line>
+ </Level>
+ 
+  <Level>
+	<!-- 17 -->
+ <NewCharacters>x</NewCharacters>
+<Line>a</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+</Line>
+<Line></Line>
+
+ </Level>
+
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
    <Level>
  <!-- 20 -->
  <NewCharacters>Заголовні букви</NewCharacters>
