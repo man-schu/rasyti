@@ -48,12 +48,12 @@
         },
         {
           "name": "@electron-forge/maker-deb",
-          "icon": "docs/images/icons/icon.png",
+          "icon": "docs/images/icons/icon.svg",
           "config": {}
         },
         {
           "name": "@electron-forge/maker-rpm",
-          "icon": "docs/images/icons/icon.png",
+          "icon": "docs/images/icons/icon.svg",
           "config": {}
         }
       ],
