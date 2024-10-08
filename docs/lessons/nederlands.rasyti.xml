@@ -1,0 +1,542 @@
+<RasytiLecture>
+ <Title>Nederlands</Title>
+ <Comment>created by Manfred Schulenburg</Comment>
+ <Levels>
+ <Level>
+ <!-- 1 -->
+ <NewCharacters>dk</NewCharacters>
+ <Line>kk ddd dk dkdd dkk kddk kk dkdd dkk kk ddd kdd kdd kdk dkd ddd</Line>
+ <Line>k kddk ddd kddk dkd kddk k d kdd dkk d kdd dk ddd kddk k k kdk</Line>
+ <Line>kddk dkk ddd kk dk kddk kddk k kdd kdd dk kdk d dd k d kdd dd ddd</Line>
+ <Line>k ddd k kddk d d ddd k d ddd dd kk kdk kdd k k kk ddd dd kdk k</Line>
+ <Line>kk k kddk kdd kdd k d kdk k dd dd dkk dd dkd k dk ddd kdd d ddd</Line>
+ <Line>dkd kddk k k kdk dd kdk k d kdk kdd k dk d dk d kdd kddk dd dkk k</Line>
+ <Line>dkd dkk d k d k dkd k ddd d kdk k kddk d dkk dd d k dk d kk dd kdd</Line>
+ <Line>kdk dkd dkd d kdk kddk dd kk kdd k dkk dkk k kdk dd dd k dkd d kdd</Line>
+ <Line>ddd dkk dd kdd dkd k kdd kddk dd dd dk dkk kk k dk dd kk kddk d</Line>
+ <Line>dkk kdk k k dkd kddk k dd d kdd d kdd dk k k d kk dd d kdk dkd dd</Line>
+ <Line>dd dk d k d kk d kddk dkk k kdd dkk d dk kdk d kddk kdd d dd dk</Line>
+ <Line>kdd dkd dkd kddk k k ddd dd kdd kddk d kddk dk kddk dk k kdd d d</Line>
+ <Line>ddd dd dk d kk kdk dd ddd kk dk d dkd k kk kk d dk ddd dkk dkk k</Line>
+ <Line>dk d dkd kdd dkd kddk kdd kddk kddk dd ddd kk dkd d dd k dd dkd</Line>
+ <Line>dkk k k d d d k k dd ddd k kdd d kddk kdd k kddk kdk kk k dk kddk</Line>
+ <Line>kdd kdd d k dk k kddk kk dk kk dkk dk d kdk k kddk kdd d dkk dd</Line>
+ <Line>k dk k kddk dk ddd k kddk kddk d d k dkd k ddd d k kddk k d dd</Line>
+ <Line>dd kdd kddk k k dkk dd dkk k d dkk k kk kddk dk kdd kdd dk d dkk</Line>
+ <Line>kdk dd dd dd dkd dk d dkd d kddk dkk kk kdd k d k d k k dd k kdd</Line>
+ <Line>dk ddd kddk d k k dd dd ddd kk d kdk k kdd dkd dkd kdk dd ddd d</Line>
+ <Line>kdd dd dkd ddd dd dd k d d dkk ddd ddd k dd dkk k k k k kdk kddk</Line>
+ <Line>dkk d ddd kddk kk kddk d d kdk kdd dd d kddk k ddd dkd dd kddk kdk</Line>
+ <Line>kdd ddd d d ddd dk k k d kdd kddk dkd kdd k kk d d dd dk dd dkd</Line>
+ <Line>dkk kdd dk dd dk dk dd dd k kddk dk d k kddk kk ddd dk kdk dd kddk</Line>
+ <Line>k dkk k d kk kdd d kdd dd kdd dd dk d kddk d dkd kk dk dk kdd</Line>
+ <Line>kk d kk k dd kk dkd dd d dkd dd k dd dd dk dk dd ddd dkd d dkd</Line>
+ <Line>ddd dkd dk ddd d d dk dkd kdd k dkd kdd kk dkk kdd k d ddd dk k</Line>
+ <Line>dkk kdk dk k dd d k d k dkk kk dk dkd ddd dk kk kk dkk k kdd dkd</Line>
+ <Line>d dkd dd ddd dk k kddk d kk ddd dkd dkk dkk k kddk kdd kddk k</Line>
+ <Line>dkd dd k kk dkk kddk dkk k ddd dkd dd d dkd kk kdd kk d k dd kddk</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 2 -->
+ <NewCharacters>jl</NewCharacters>
+ <Line>jjl ljklj l lljl jk jl k ld kljk lj klk k jklkl ldlkkl klk lkl ld jk k</Line>
+ <Line>lklj ljl kldlkk klk llj l ldlkkl lj klk ljklj klk k ldlkkl ljl llj lkl llj</Line>
+ <Line>lkl klk k ldlkkl k jk klkjj jl k jklkl klk klk jl k l lkl jl k ld l lljd</Line>
+ <Line>l klk k k llj llj ld klk klk lj jl ld jjl l lkl ldlkl klk ljklj l klk</Line>
+ <Line>ljl k klk l ld klk llj llj klk lkl ldlkl l k jk jklkl jl jjlkl l klk</Line>
+ <Line>lkl klk ljl jl lkjl ldlkjl jlkjk ld ljl lj lkjl jlk llj ldlkjl jlk jlk ljjlj</Line>
+ <Line>jlk jlk l jjl k k ldlkjl l l lkl ld l jjl jlk lj jlk k jk dlkdl lj lj</Line>
+ <Line>ljl k jjl ljl jlk k jljk k dl ljlj klk jl ljl jlk ljlj lj k ljldl jl ljl</Line>
+ <Line>klk lkl dl k lj jlk jjl jljk lj l jljk jlk k ljlj lj dl lkl l k dl klk</Line>
+ <Line>jljk jlk ldlkjl dl ldlkjl dl l lj jl k jjl k lkjl ljl lkjl k lkl l jl l</Line>
+ <Line>jljk ldlkjl ljldl k l ljjlj ljl klk jlkjk l ljlj jk jlk jl jjlkl jl klk ljldl</Line>
+ <Line>dl lkjl ljldl jk jk jl lj lkjl k jl jjlkl ljjlj jlkjk k lkjl ljjlj ljlj</Line>
+ <Line>lj jl jl dl dl jl dl l lkl ljldl lj jldlkk ljldl dl jlk jjl jlk k k</Line>
+ <Line>l ljlj ljjlj k jlk jlk lkl ldlkjl ljldl ljldl k jlkjk lkjl jk lkl ljjlj jjlkl</Line>
+ <Line>jl dl jk lj lkjl lkl dl k l k ljjlj ljjlj dl ljldl ljl ljldl klk ljldl</Line>
+ <Line>lj jk ljldl jlk lj l ljjlj l jlk l llj jlkjj jlk jlk jl jldlkj ljl jlk ljjlj</Line>
+ <Line>jl jjlkl ldlkjl jlkjj ldlkjl klk dl ljlj k jlk ljlj jlk jk lj jl k k klk</Line>
+ <Line>k ljlj dl k jjlkl l jlk jk l jlk k ljldl jlk ljl jjl jlk lkl dl ljldl</Line>
+ <Line>jlk jlk klk ljjlj ljlj lj jlk dl ljldl dl lkl jlkjj k lkjl ldlkjl k jjlkl</Line>
+ <Line>l ljlj k jlk ljjlj llj jlk ljl dl l llj k lj l ljjlj jlk lj lkl ljl</Line>
+ <Line>klk jlk jlk llj lk ljlj k lkl ldlkl lldl k lk lk jlkl jk lldl lj llj</Line>
+ <Line>lk lkl lk lldad jl llj l ldlkl jl jjl lj ljk lj lk lk llj lldad ljlj</Line>
+ <Line>ldlkl lj jl jlkl lldad l ljl lkl ljlj lk llj lk ljlj jk lk llj l lkl</Line>
+ <Line>l l jl l jlkl dad jl k lldad lj lkl lk lk k lkl ljl lk jjl jjl</Line>
+ <Line>k dad dad jl lk lk lk jlkl lj l lk lk l lkjj lkjl jjl lkl ljlj lkjlk</Line>
+ <Line>ljl k lk k jl dad lkl ljl k klk l ljl k jjl k jl llj llj lkl jjl</Line>
+ <Line>lk lj l jl ljlj jk lk ljk l k jl lkl l lkl ldlkk jlkl jjl jjl</Line>
+ <Line>lk jl lk jk llj l lkljk k jjl jk ljk dad l jl ljlj jl llj jk ldlkl</Line>
+ <Line>ldlkk lk lk lldad lk llj jl dad jk llj ljk lj jlkl lk lj jl lj jl k</Line>
+ <Line>lldad l lkl ada lk lk jk llada lk lkl ljk jk k jk ljl ljlj lk ada jl</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 3 -->
+ <NewCharacters>s</NewCharacters>
+ <Line>ljksdl ljkl l sljs ljks dlks ljsf kl lsdk ls ls ls lkj slk ks jl jjs</Line>
+ <Line>l slj jl lkj lsdk fksdls dk lsdk lsdk lsddlk jjlsdk ljk ljksdls ljsdk lj</Line>
+ <Line>kl lj lj lkj ljsdk lsdk ljsdk js ls kl jl jl lsdk ljsdkksdlsljs js kl</Line>
+ <Line>lsdk ll lss ljdks sljsf lss ldks jl kl lsljslj kl ldksf kl lssljs ls js</Line>
+ <Line>s ldks kk js kl js ls ljdks jl jjldks ldks jjldks ldksfksdldks ldksk slj</Line>
+ <Line>slj lj ljdks lkjksdldksf ldkd skk lsljs lj ldkds ldkdsk lks lj lks ldkdsk</Line>
+ <Line>slj kl sf ldkk lj ldkds lj slj ldkdsljs sljs ldkds ks ksljs</Line>
+ <Line>ldkds lsljs sf lks lj ldkdsf lksljs ldkdsljs jjs ldkds slk kl ldkds ldkdsf</Line>
+ <Line>s ldkds ldkdsk ksdjl ldkds lldkdsk js lsljs sljslj lks ljdkds jl</Line>
+ <Line>ks ls ldkdskk ldk kl ks kl js kl ldkdsk kl ldk slk ldkd skk lkj slj lks</Line>
+ <Line>ldkds lksljs ldkdsf ldkd kk lsljs ldkdsk slk ldkdss lkj lkjksdjjldkds</Line>
+ <Line>ljksdkl slk jjs ldk ldkds lsljsf slj ldkd skk jl lj kl lj jlksdl ldkds</Line>
+ <Line>lkj lkj ldk lkj kl lj lj ldkds lj lks ldkd skk klksdldkdsk lj lj ks kl</Line>
+ <Line>ldkdsf jsljslk ljd kds ldkdss ldk dsk ldkds ld kd skk jjs lkj slk jl</Line>
+ <Line>l lj jjs ls ldkdsk ldkds kl slj ldkdsf kl ldkdskk slk jjldkdsljsf ldkds kk</Line>
+ <Line>ljdkds ldkdsljs ls ldk dskk ldkds kl jl kl lj ls kl ls kl sf lls ldkdskk kl</Line>
+ <Line>sf lj ks lkj lj jjldkds ldsk ls jjlds ldskk ldskk ldsk sljsf slj lds</Line>
+ <Line>js ldsf ljds ldsf lks ks lds jjldsljslj ljds ldsk ksdjsl jjlds ljsk sdks lds</Line>
+ <Line>lds lkj ldss ldsk ls lj ldsk lss jl sf ljds kl sljs lds lsdfksdlks ls</Line>
+ <Line>ls lsdsljlj lsdkk jllslk sf lks lkslj lsdk jl lksllsd kklkslj</Line>
+ <Line>ks lks ks ljsd lsds lss lsdk klksdks lksljlk lj slj lsds ljksdjs jjss</Line>
+ <Line>kl lkslj lj sljksd lsdf lsljf ls lsd sljf lsds lss jjlsdl slk lsdk</Line>
+ <Line>s kl lsd lsd kl lsd lj jjss ls lsdf lsd jjss kl lsd jjlsd jjs sf lsd</Line>
+ <Line>jjlsd ks lsd jsl slj jjlsd lj sf lkj klksdjjlsd kslj lsds ls lj slk</Line>
+ <Line>lsdl slj lj ls js lkj ljsd ks lkj ks lsdk jjs lsd lsdl kl js lj</Line>
+ <Line>s lslj sljf lsds jl ljsdl lkj ls jl ls lj slk lsdf jjlsdl ks lj</Line>
+ <Line>ljsd lkj jslj js lsd slk lsd skk jl ksl lsdss lsds lkj lsds jjs lsds jjs s</Line>
+ <Line>lsks dkl lsdsk lsdss ljksdl sdsf kl sf slj kl sf lkj lsljlk ls ls ls</Line>
+ <Line>lj sf kl lsd kl lsd jjs lsds kl ljsd jjlsd lj js jl sf kl kl jl jl</Line>
+ <Line>lsdf lsd lsds lsdslj lsd slk lksljlj lkj ljsd kl kslj lj kl lsdk lsd l</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 4 -->
+ <NewCharacters>af</NewCharacters>
+ <Line>dll dafs sldks fldk fafs faf fldk safs fldsk jdkaf fldk</Line>
+ <Line>sds afl safd jdkafs af lafs fldks afld ld dsk fldk ldks</Line>
+ <Line>dsk af jdkfa fds ld sfa sds kds kd ffa ffa faj fd k lfa</Line>
+ <Line>jdk lds lfa sfal fa jdkfa fa fas sdk fads sfal lds fldk</Line>
+ <Line>faffafd falksdjdk fafa ldk lds lfa ldkd ffas fadks fas</Line>
+ <Line>fas fldk fal sf sfals jdks jdkfas dsfa dsk fas dj fal fals</Line>
+ <Line>dkd sfal dlld sdlsds dlls sd dls sdldls ffas dsk fals dsks</Line>
+ <Line>sds jdkfa ldks lds lfa dk lfa sldk ffal faffafds sldks</Line>
+ <Line>ffa fa lfa fa fald fa sfa sfafas skd sfafa fldk skdsd jdks</Line>
+ <Line>dsfa fas fa fldk dkd fadd lfa fadks k jdkfa ffal fds sfas</Line>
+ <Line>fal fald faffafds faf ffals fldk ldk fldk fldks dsks fldk lds</Line>
+ <Line>fldk lds ld dkd fldsks fad skds sfa dksd sfa ld skds sfal</Line>
+ <Line>sds lfas dsfas fal sfa fal lfas kfa sfasd sldk dsfas lfas</Line>
+ <Line>fal faffafd sdk faffafds ffals dsk fds fals dsks lds jdk</Line>
+ <Line>dsks fals afdk afls afdks afs dsksksdk jdkaf lds fldk dsafs</Line>
+ <Line>d fafl af k kaf affaffd afd fldks sdks afdsd laf safsds</Line>
+ <Line>sd skds lafs jdkds af affaffds ldks skd afdk fldks ds skd</Line>
+ <Line>afs jdkds afd fldk fafls afs faf safs ld afs dsk aflds safls</Line>
+ <Line>afs skds safsds fafl dkd safsd fldk afls fldks lds safafsksdsafsds</Line>
+ <Line>dks fldk sdks sds lds af fldks jdks dj dkd afdk fldks</Line>
+ <Line>fldk dsk laf fldks afs kaf af jdkds afs dsks afd aflds jdks</Line>
+ <Line>affaffd sd fldk safsd dks sds laf kl fd dsks af safl</Line>
+ <Line>aflds fafl ldks afl fafls safafs afld skds afls afls jdkafs</Line>
+ <Line>dsks safls lds laf lds dsk afdks kaf jdk fldk sdldls fldks</Line>
+ <Line>fds sdks sdlsd jdkdsd dlfdlfd ldl dlls dlj ldls ldks fdls</Line>
+ <Line>fdll fldks sdadl ldls dll dlldsl dlld k ldl skd ldks dsks</Line>
+ <Line>ldk jdkdad fd dads ldl jdkds dadk lds sldk dl kd dsdls</Line>
+ <Line>sdll dll k fldk dls sldk dl ldl ldl fdl dsk dll dadks sdls</Line>
+ <Line>ldks lds fdlls ldlsd lds dkd ldk skds dlf dl jdk sldks</Line>
+ <Line>sdadls dlls ldls sdadl fldksksddllksdld fdl sd ldls fldk ds</Line>
+ </Level>
+ 
+<Level>
+ <!-- 5 -->
+ <NewCharacters>ie</NewCharacters>
+<Line>adel lees klik kijkje ideaal dikke kijk liefde dijk alles</Line>
+<Line>deels idee deel elke klei alle ideale kijk kijkje deel</Line>
+<Line>alle adel dikke dijk alles klei ideaal klik idee liefde</Line>
+<Line>ideale elke lees deels ideaal dikke alles ideale deel</Line>
+<Line>idee kijk adel kijkje deels klei dijk liefde lees elke alle klik</Line>
+
+</Level>
+ 
+ <Level>
+ <!-- 6 -->
+ <NewCharacters>no</NewCharacters>
+<Line>doen kolonies dienden klein online lijden alleen aanlijnen</Line>
+<Line>eiken kliffen loodje land enkel kanaal slikken kans naald doel</Line>
+<Line>delen assen konijnen kennen lenen kleine kijken fossiele links</Line>
+<Line>einde eens snel dank flink eindeloos lokale kiekendief kansen</Line>
+<Line>fondsen klank dienende koloniale konden enkele lijken kolonie landelijke</Line>
+<Line>allen eendenkooi keken eilanden eiland landen oefenen eind kanaal</Line>
+<Line>koffie koek koos nood naadloos koloniale nadele snelle doen snelle</Line>
+<Line>klank oefenen flink einde online kolonies koos kolonie kleine land</Line>
+<Line>eendenkooi naald klein fossiele enkele dank kliffen kiekendief</Line>
+<Line>landen eens allen eiken lijken links assen kans eilanden keken</Line>
+<Line>delen konijnen doel eindeloos lenen lijden snel koffie loodje alleen</Line>
+<Line>dienden konden slikken kansen kennen aanlijnen kijken nood enkel</Line>
+<Line>eind dienende naadloos landelijke nadele fondsen koek lokale eiland</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 7 -->
+ <NewCharacters>rm</NewCharacters>
+<Line>maand mannen dieren moeilijk sneller aankomen moeder oren</Line>
+<Line>drinken raden daar eerder meier monniken rijker maak kleiner</Line>
+<Line>reis neem familie meenemen inademen soms rijke rand snellere komen</Line>
+<Line>redenen maanden dammen molens daarom ronde ieder onder</Line>
+<Line>onderdeel randen lekkerder kom lekkere sfeer keer moderne mede</Line>
+<Line>doneren rol noemen mei naar elders smal samen kenmerken rij</Line>
+<Line>maal oor informeren elkaar akkers jaarlijkse frisdrank noordse</Line>
+<Line>aanmerkelijk mijlen innerlijke afnemen iemand daardoor donkere</Line>
+<Line>frisse mannelijke erf nemen manier lekker eieren kamer landerijen</Line>
+<Line>kleinkinderen rode mooi meerdere klaar maken middelen maren</Line>
+<Line>midden klimmen noordelijker rondom koers smalle name meldden</Line>
+<Line>rijkdom rijen roofdieren immense merendeel meer enorme redelijk</Line>
+<Line>rijkdommen namen reden mooie redden adres naam dimensie minder</Line>
+<Line>mensen anders missen daarna eenmaal der meren afnamen namelijk</Line>
+<Line>radar manieren noordelijk drankje minimaal andere jaar allerlei najaar</Line>
+<Line>kenmerkend draaien kijker derde molen noorden komende door fraaie</Line>
+<Line>oord men rijk semi ander dier roemrijke kikkers enorm sierlijke jaarlijks</Line>
+<Line>jaren miljoen linksom drie leren rijden daarmee allemaal mee mens eilanders</Line>
+
+ </Level>
+
+
+ <Level>
+ <!-- 8 -->
+ <NewCharacters>vt</NewCharacters>
+<Line>erven fototoestel kaarten volkslied vind vlekken korte stikstof</Line>
+<Line>trekken kaatsen terrein identiteit nadert stil naartoe evenals</Line>
+<Line>overeind mannetjes karakteristieke dankt stranden verrekijker</Line>
+<Line>vervaarlijk verstoord tekent veranderen invloed advies fietsen kievit</Line>
+<Line>laat ontstond toekomst momenteel aantrekkelijk vereende staan kleinste</Line>
+<Line>meeste kort sterk liefst karakteristiek ontdekken redt stak klant vaste</Line>
+<Line>steden stok etmaal attent klimaat voornamelijk talloos mest stoelen</Line>
+<Line>fietskaarten streek stilte relatief voldoende overvloed ontmoeten vaak</Line>
+<Line>storm karakter vier aantallen variatie stad maakt visserij terras ontstaan</Line>
+<Line>meesten strand toenemen steken veel varen stellen volksmond overkant</Line>
+<Line>raatelementen vaker fronten linten dikste voelen denkt stal koerst</Line>
+<Line>voorjaar steile ontstonden verklaart mooiste stonden militair elementen</Line>
+<Line>nesten tientallen voort termijn vandaar altijd steeds snavel toerist tijdelijke</Line>
+<Line>onomstreden trekt vloedstromen laten maat steentje reist ontdekte</Line>
+<Line>levert daarvan doordat vermaken verloor soort eveneens meters initiatiefnemer</Line>
+<Line>verdienmodel vormen stemmen vormde meter leeftijd nationale vloed vermoedelijk</Line>
+<Line>verdeeld tevens ontoereikend vele soorten stroomt stond omdat vindt voorste valt</Line>
+<Line>straalt laatste taal smient sterke tijd stadjes vlakte overal telt vakantie strijd toren</Line>
+<Line>drijvende torens terrasjes staat tillen voelde ministerie meestal verkennen renovatie</Line>
+<Line>veertiende oosten lijkt maakte startend vervelen niets fiets afstand riet terreinen</Line>
+<Line>validen veen stormen toeven vaart ervaren komt tekenen stroom start vooral moesten</Line>
+<Line>essentieel oevers internationale initiatief netjes eerste aanval mooist vormden</Line>
+<Line>tijden kalkovens moeten alternatief kantoor laatst niet kilometer kanten starten</Line>
+<Line>voet voren vrij voorkomen initiatieven fietsers meest voorkomende moet latere</Line>
+<Line>vormt omtrek vijftiende doet vissen neemt ritten trotser erover eerst feit noemt</Line>
+<Line>leven vasteland vorm vertonen stamt moment voldoen moeite frontale trek</Line>
+<Line>vertoeven nooit vond transitie maakten telefoon vlak vinden minstens vloedlijn</Line>
+<Line>stenen entree trotse keten steekt veertien strijdtoneel eilandleven kosten solitair</Line>
+<Line>over kant versterkt volle storten klooster internet kevers mate verse oostkant stand</Line>
+<Line>rest vanaf voeren tekentafel omarmt militaire ervan snert vijver diverse vermaak</Line>
+<Line>trok vriendelijke sterker voorkomt staten element entertainment daarnaast</Line>
+<Line>versnelde voeten strandvlaktes stelt veranderde destijds voedsel stinsen</Line>
+<Line>strekte torenvalk strandstoelen aantal veranderden team trekvis verteld</Line>
+<Line>vierkante visdiefjes vijf terrassen voor riviertjes leverde verste eten momenten</Line>
+<Line>site vertellen voorkant drijfmest kilometers motto stelsel variant raakt</Line>
+
+ </Level>
+ 
+ <Level>
+ <!-- 9 -->
+ <NewCharacters>pu</NewCharacters>
+<Line>per appel juiste park natuurlijk stap punt ruimen autorijden kerkuil</Line>
+<Line>drukke ontspannen dorp opkomt pas soep leuke pittoreske platform</Line>
+<Line>puin populaties postnaam monumenten jullie juni passerende indruk</Line>
+<Line>paden spel paviljoens spui spoelen plannen verliep opvallend paar</Line>
+<Line>kopje koppelen positieve tour kustroutes voortuin plaats ruiter kusten</Line>
+<Line>pontjes partners spotten verspreid eventuele uitstekend rap oostpunt</Line>
+<Line>fietspaden routes pronkt oude lopen duinenrij ontruimen prima predatie</Line>
+<Line>kop duren kapstok afspeuren loslopend verkouden kleuren ransuil duikt</Line>
+<Line>kloppen apart vanuit punten kunt popelen sluiten patrijs terpen ruim</Line>
+<Line>startpunt spoelde ondiepe plankton virtuele dorpje optimaal uur daaruit</Line>
+<Line>loslopen kleurt oprijlaan pad knapperend plek ondiepten stoppen speel</Line>
+<Line>krokussen kun top autovrij troep uit minuten nudisme praten plan liep</Line>
+<Line>palen plekken onderlopen duidelijk oud voorkeur sport rapport ruimte</Line>
+<Line>uniek optrekken polders tijdspad nutteloos paars uitkijkt oernatuur dorpjes</Line>
+<Line>verplaatst platen aanpak fietsroute periode steunen tussen oudste snuit</Line>
+<Line>tuin natuurrijk pilots status muren juli aflopende lepelaar vervuild rusten</Line>
+<Line>duurt positie drukste paradijs ultieme speurden duin menu ouder luister</Line>
+<Line>kust spannend koudere duinen paarden pieren surfen proef jou nummer</Line>
+<Line>plaatsen unieke museum fauna toppen planten aankoop auto kunnen</Line>
+<Line>surfers prielen pand siertuin platte apporteren druk apparatuur pakken</Line>
+<Line>lopend puur avontuur kapitein april turf duurder stuk pionier dus parels</Line>
+<Line>natuur stoute autovrije rust donateur pretje volop uren loopt euro must</Line>
+<Line>niveau luieren steun spelen post situatie plas paard kluten dorpen speelt</Line>
+<Line>diepen open kluut fietspad eruit spreekt tempo inspireer</Line>
+</Level>
+
+ <Level>
+ <!-- 10 -->
+ <NewCharacters>g</NewCharacters>
+<Line>ging langer vlug lengte regio vlaggen dergelijk geplant ontdekking terug</Line>
+<Line>moerassige verstandig volgt uitdagend afgaand omliggende geleerd</Line>
+<Line>voorgedaan uitgevoerd vergroten aangevoerd geen aangevaren statige</Line>
+<Line>vogels grond erg golven indringers dagelijks tegenkomen sloeg lag enige</Line>
+<Line>gesloten leiding oogpunt oog integrale groei aanvaring aantakking eigendom</Line>
+<Line>genoeg garnalen meegroeien liggen graven terugkomen kunstmatig gekoppeld</Line>
+<Line>aangenaam vergroot gerust gered aanvraag ongeveer leggen gids landgoed</Line>
+<Line>tekeningen erfgoed gestoord ligt krijgt aangepast neusgaten lagen omringde</Line>
+<Line>vervuiling nodig gunstige afgerond gaan getroffen planning gekregen jonge</Line>
+<Line>geultjes grijs verkrijgen groene grote metingen ongestoord gevraagd gevulde</Line>
+<Line>rustig gulden donderdag gespotte droogvalt glooiend regering galoppeert</Line>
+<Line>regelmatig teloorgang langsgaan oorsprong volgen regionale opgegeten opgeleid</Line>
+<Line>opgaven uitvoering grandeur voormalige vroegere getijden gemaakt geldt</Line>
+<Line>kring veilig gevolgen monding ontginnen graag ogen vermelding gidsen energie</Line>
+<Line>eenmalige nog regie getij gevarieerd opgelopen ligging groter gaat aanlanding</Line>
+<Line>krijgen geven galerie grotere opgang angstige opgeruimd geplaatst dingen glorie</Line>
+<Line>uitdaging gesloopte originele stevige oneindige opgesteld golvende voortgang</Line>
+<Line>kundige spiering genieten droger terugkomst omgeving langs dertig vergeet</Line>
+<Line>ergens eigen goedkoop groot geeft ketting geulen monitoring vrijdag stelling</Line>
+<Line>rapportage aanleg afgestemd lange vervolgens kleiige foerageer gekenmerkt</Line>
+<Line>gestemd stevig garanderen lagune rustige gesloopt vormgeving pagina gevolg</Line>
+<Line>gedaan vangen gelegen grutto omgeven tegen afgelegen spiegelt etage omringd</Line>
+<Line>toegestaan nagenoeg gedempte trekvogel opgave afgelopen nergens voormalig</Line>
+ </Level>
+ 
+<Level>
+ <!-- 10 b -->
+ <NewCharacters>y (English)</NewCharacters>
+	<Line>inlay overlay angrily ternary derogatory type skylark spray ruffy petrify deformity</Line>
+	<Line>identity unseemly pettily payoff moldily jerky statutory synergy glottology jutty</Line>
+	<Line>stratify pylorus gyrate elementary gargoyle royal perky musty yours visionary playing</Line>
+	<Line>transitory sterilely yonder spinily laying voluntary grisly geyser snotty allegory</Line>
+	<Line>dumpy slovenly overjoyed volatility glassy severally pity ally infinity drayage</Line>
+	<Line>fumitory rarefy estuary salty gently pensionary snootily purely silty tautology</Line>
+	<Line>osprey entirety uneasy lampyrus stultify rotary impurity very unalloyed sloppy guy</Line>
+	<Line>sinology missionary gaudily stingray payout repay pigeonry mordantly usury gymnasium</Line>
+	<Line>temerity needy greenfly solidly ferry underlying lady fully asylum typing symmetry</Line>
+	<Line>madly yesterday formality loony animatedly valley silently definitely skydiving</Line>
+	<Line>deify sappy augury realty elatedly silky dysentery sodomy midgetly doyen dye disparity</Line>
+	<Line>stupidly porosity gingerly jelly deanery gravy repository strongly timidly yakking</Line>
+	<Line>flay prototype legendary maggoty argosy already gypsy keypad mesentery loyal youngster</Line>
+	<Line>regionally malignity fury urgently verify graveyard eyeglass torrefying rosary</Line>
+	<Line>flurry satisfy dynamo parry alloy tyre jealousy nasally royalty majority</Line>
+	<Line>forgery sly pillory tangly tarry plurality poundkey seniority salary</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 11 -->
+ <NewCharacters>zh</NewCharacters>
+<Line>zeer zou zullen hiervan huur heden overzeese oudsher zandstrand</Line>
+<Line>zone zonnen verhuren handel eindeloze hier zandplaten hem verhoging</Line>
+<Line>lezen ziet heenkomen zelfs hoe huurt hand zandvlakte ingezet zompen</Line>
+<Line>zeevissen helpen herziening geheim harder honderd duizenden inzetten</Line>
+<Line>halfopen silhouet voorzien ophaaltrap voorhuis zoekt zodoende geheel</Line>
+<Line>haastten gehele zeldzame zal zaterdag elzen uitgezet zeespiegel gezellige</Line>
+<Line>gehouden verhouding hout zijn verzameld helpt huilers heren zeegaten</Line>
+<Line>zorgen het herkennen gezond zeker historie hoogste hersteld verzorging</Line>
+<Line>hoeder verzette oorzaak heen uitgelezen huist halen had heet verzorgd</Line>
+<Line>zonder verzorgen zonuren landhuizen huurfiets hartenlust zeekraal zij zitten</Line>
+<Line>zaterdagen thema helaas huis deze onze voorzijde harde heerlijk zodanig hele</Line>
+<Line>ontheffing zoom hierover zomers plezier thuis hut sluizen haven hierin haren</Line>
+<Line>helft http hulp zomaar verhaald verhaal havens houten hadden holen huidige</Line>
+<Line>zes aangezien halve anderhalve hun zee zandige hoogtes hiertegen hoogte</Line>
+<Line>zandplaat honden zestig zet zondag zuidoosten meehelpen zag herfst verheugd</Line>
+<Line>hoeven halvering hangen hard zon zeilers verzoek heeft zoveel zomer ingezaaide</Line>
+<Line>gezien havik zit zalige hotel drijfhout zie opgeheven onderhoud verhouden gezeten</Line>
+<Line>horizon zult haar helemaal driehoek duizend zoek rijshout helder samenhang gezinnen</Line>
+<Line>hoeft houden afgezet hoop hart heerlijke gezin duurzame herstellen doorheen</Line>
+<Line>veiligheid dankzij gaafheid seizoen zijden grijze hoger thee zoals zodat zeehond</Line>
+<Line>hapje zien herstel zondagen strandzone zogenaamde zelf overheid haardvuur</Line>
+<Line>zoeken heel hoog gehoor verzet hoge zogen zorgt huizen haring hemel zeilreis zoet</Line>
+ </Level>
+ 
+
+ 
+ <Level>
+ <!-- 12 -->
+ <NewCharacters>bc</NewCharacters>
+<Line>schaal oktober bereikbaar zandbanken verbeteren besloot problemen</Line>
+<Line>natuurbos gebruikt blinken hebt behoud openbare impact blijven voorbeeld</Line>
+<Line>charme betonnen gebruik combineert geboden verband bijdrage begrazing</Line>
+<Line>boeren fietstocht functie ambitieuze batterijen betekenis zandbank beetje</Line>
+<Line>bekend bevond schuur licht verbaas rechtszaal bunkers agrarisch prullenbak</Line>
+<Line>dagtocht opbrengst rustgebied beter gracieuze recht begrensd achteruit</Line>
+<Line>toezicht baantje krachtiger verblijven bepalen prefab coupure bevrijding</Line>
+<Line>aanrichten beslissen gekocht behoorden beheer begroeid bal inzichten</Line>
+<Line>probeer ben gebeurd specht uniciteit bossen bodems betekent luchtruim</Line>
+<Line>bijkomen nachtdier brengt verkocht zich bedoeling perfecte achteren overzicht</Line>
+<Line>beroep richting december corona reactie beleven zeelucht gesticht kochten</Line>
+<Line>contrast thuisbasis kocht vluchten bergketen beuk gevecht schuin collectief</Line>
+<Line>bevelen beste bezoekt projecten gebrek besluiten robuust bijna historisch</Line>
+<Line>bonte beeld concept geschikt beheren probleem boord bedoeld boerderij</Line>
+<Line>combinatie barok beklimmen dichterbij zichzelf lichaam obstakels richtte</Line>
+<Line>bereikt terecht directe bunker brief robuuste balans gebeurt krabben procent</Line>
+<Line>beschermde beplanting uitgebreid bekijken september somber contract bedriegen</Line>
+<Line>succesvol beurt hebben loofbossen economie beschermd bloei begeleide bijzondere</Line>
+<Line>bloemen misschien technische schoonheid inrichting begrazen heb brug belangrijk</Line>
+<Line>verboden schoonste bedrijven bestaat ebstroom benadrukt belang bleven herbergde</Line>
+<Line>schonk attracties bloeien barokstijl bescheiden slecht bij oceanen bos begint</Line>
+<Line>gebieden kracht schattig veengebied activiteit bochtige gebied kubieke bedekt</Line>
+<Line>blijkt zeiltocht buitenrit beboste schetsen schip dichtbij replica bestemming boot</Line>
+<Line>best bril inclusief basis breed bevatten slibrijke vruchtbaar verbonden hectare</Line>
+<Line>aanblik aandacht nachtegaal agrarische borduurt liefhebber bruist bedreiging</Line>
+<Line>gezichten speciale bedrijf officieel behulp bekeken beschikt binnen uitzicht</Line>
+<Line>constant veerboot ingericht betreft begin bioscopen bepaald bestellen horeca</Line>
+<Line>brengen borgen blijft ambitie beschermer buurt erbuiten economisch cultuur</Line>
+<Line>achterkant begon besteden barakken cultureel gracht risico echter bijtanken</Line>
+ </Level>
+ 
+  
+ <Level>
+	<!-- 14 -->
+ <NewCharacters>q (English)</NewCharacters>
+	<Line>acquit quaver liquefy parquet torque squelch squeeze qualify baroque enqueue lacquer</Line>
+	<Line>equate equidae quark squirm squire acquire quat quartet chequer quote squash equator squirt</Line>
+	<Line>quilt sesqui bequest squeak pique equal quash requiem quirk marquee oblique inquiry inquest</Line>
+	<Line>equip quota liquor quorum liqueur equally quaint quicken opaque quay quarter cheque sequel</Line>
+	<Line>quiver squint enquiry query qualm quiet quince quintet equine brusque equable squinty sequoia</Line>
+	<Line>quartz mosque piquant quit equably quickly quip request conquer unique antique quern quintal</Line>
+	<Line>quake quinine aquifer queen require quack equated square quirky quarry quality aquatic queue</Line>
+	<Line>inquire bouquet quite squall quietly claque unequal quibble squally glauque quadrat enquire</Line>
+	<Line>squared liquid squid squat quinsy quetzal banquet quest plaque equity sequin quitter quench quarrel</Line>
+ </Level>
+ 
+ <Level>
+	<!-- 15 -->
+ <NewCharacters>w</NewCharacters>
+<Line>woonfunctie want vertrouwen geschreeuw bewerkte windparken</Line>
+<Line>weiden weten verwijderen struikgewas wisselen inwoner wonen</Line>
+<Line>wetsvoorstel wist gewone weidevogelstand wandeling waarboven kwaliteit</Line>
+<Line>volwassenen weidevogelprovincies wensen natuurwaarden luchtwachttorens</Line>
+<Line>woensdag wandelroute mantelmeeuw woedde weer evenwicht verdween</Line>
+<Line>zware kwijt omwonenden verwarming waterskiën wateren eeuwig raamwerk</Line>
+<Line>waarderen waardoor worden waarschuwen wierdenlandschap wegen</Line>
+<Line>luchtafweergeschut vrijwilligersteam reisboekenwinkel bouwwerken winterdag</Line>
+<Line>blauw wand weekend bewaard bouwden verdwenen weilanden winkel waarop</Line>
+<Line>willen omgebouwde wouden sperwer gebouwen weidevogels wadplaten werden</Line>
+<Line>regenwormen verdwijnen bouwblokken watersportplezier geweest</Line>
+<Line>verantwoordelijkheid aanwezig dwars bewegwijzerde overwogen overweldigen</Line>
+<Line>hoogwaardige fietsverhuurwinkels duizelingwekkende zwemmers terreinmedewerker</Line>
+<Line>luchtwachters waddenzijde welke warm winkeltjes wijze windsurfen verwachting</Line>
+<Line>show waard watersporters meerwaarde waren verwarmd ontwerpen bewonen</Line>
+<Line>verwees waarbij wilde opnieuw verwaarloosd strandwandeling werk werd weidevogelbeheer</Line>
+<Line>aanwijzingen wolkenluchten warmt uitwaaien onverwacht zwaar wegzakken bewoond</Line>
+<Line>uitgewerkt waddengebied woord eeuwenoude schuw luchtwachttoren vrijwel bebouwde</Line>
+<Line>werkt kwelders waarnemingen waarin wereld winkelen kokmeeuw wij westen</Line>
+<Line>zwemtoezicht wanneer uitweg weet verbouwing wandelingen gebouw westelijke</Line>
+<Line>waarmee wit oostwaarts verwelkomen wel wisten wind wig weggeslagen landbouworganisaties</Line>
+<Line>jeugdboswachters kwelder wilgen onwaarschijnlijk samengewerkt wantij was nieuw</Line>
+<Line>wetenschappers zoutwatergebied gebouwd word wadden woonbestemming nieuwe</Line>
+
+ </Level>
+ 
+  <Level>
+	<!-- 16 -->
+ <NewCharacters>x (English)</NewCharacters>
+	<Line>mix fix vertex syntax hexagon extra exalt excrete fixture exhibit toxin exact dixie</Line>
+	<Line>styrax codex complex unfixed oxidize explode sphinx lexical influx axiom fixedly maximum</Line>
+	<Line>excited latex sexing expense taxi galaxy apex exalted exit gearbox context pixie sixteen expunge</Line>
+	<Line>extol texture fluxion flux mailbox axle anxiety larynx vortex exceed expanse anthrax relaxed expand</Line>
+	<Line>toxic excel oxidise oxide icebox equinox maxim exhale afflux examine helix box explain extrude marxism</Line>
+	<Line>relax boxing maximal convex expect hoax sexual perplex pixel annexed proxy exclude expose climax extent</Line>
+	<Line>reflux outbox exist exclaim telex oxidate buxom exempt narthex perspex exude cox expel mixing sixthly</Line>
+	<Line>cortex expert mixture moxie deluxe luxury exigent phoenix unexact text execute extort explore except</Line>
+	<Line>pixy fax sexy annex soapbox exile exhaust expired coccyx coax axed axe excite matrix calyx pretext</Line>
+	<Line>excerpt sexist lox exploit lax exposed bonxie toolbox tax coaxial fixator exam unfix flexure export</Line>
+	<Line>flexion foxtail pharynx inbox next exotic mixer expend extract sexton expiry sandbox exactly fixing prefix</Line>
+	<Line>oxygen cachexy sixth callbox kleenex exhort extinct jukebox paradox six expire thorax index pickaxe</Line>
+	<Line>boxer suffix coexist extreme example muskox dextrin axilla foxy sextant excuse xerox sex duplex</Line>
+	<Line>textile ibex affix sexism pixmap extend tuxedo exert exciter lynx taxable vixen mixed reflex fox bugfix phalanx</Line>
+ </Level>
+
+
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>1234567890=+-</NewCharacters>
+	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
+	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
+	<Line>13+1=14 22-13=9 29+11=40 28+3=31</Line>
+	<Line>22-13=9 29+11=40 11-5=6 1+3=4 28+3=31</Line>
+ </Level>
+ 
+ <Level>
+ <!-- 20 -->
+ <NewCharacters>hoofdletters</NewCharacters>
+<Line>Nissewaard Bernheze Ameland Sliedrecht Arnhem Meppel Schiedam</Line>
+<Line>Drimmelen Landerd Overbetuwe Nijkerk Hengelo Scherpenzeel Houten</Line>
+<Line>Alblasserdam Friesland Molenlanden Steenwijkerland Maasgouw Beverwijk</Line>
+<Line>Heerde Oegstgeest Diemen Uitgeest Voorst Montfoort Utrecht Baarn</Line>
+<Line>Harderwijk Doesburg Langedijk Amsterdam Laarbeek Buren Smallingerland</Line>
+<Line>Alkmaar Staphorst Haaren Maastricht Venlo Zwijndrecht Noordwijk</Line>
+<Line>Geertruidenberg Tynaarlo Elburg Oss Meerssen Zoetermeer Veendam</Line>
+<Line>Haaksbergen Eemnes Deventer Velsen Zwolle Amstelveen Leiden Leudal</Line>
+<Line>Hardenberg Maassluis Delfzijl Oldebroek Lisse Ooststellingwerf Nieuwkoop</Line>
+<Line>Montferland Roosendaal Culemborg Heerlen Hellendoorn Hoorn Brummen</Line>
+<Line>Twenterand Purmerend Waterland Helmond Rijswijk Opmeer Heiloo Achtkarspelen</Line>
+<Line>Landsmeer Nunspeet Bladel Simpelveld Dantumadiel Renkum Zeeland Kapelle</Line>
+<Line>Krimpenerwaard Haarlemmermeer Woerden Aalten Appingedam Beek Hilvarenbeek</Line>
+<Line>Westervoort Maasdriel Kerkrade Raalte Laren Landgraaf Almere Gennep Boxtel</Line>
+<Line>Loppersum Oisterwijk Wierden Opsterland Coevorden Lelystad Valkenswaard</Line>
+<Line>Tholen Rhenen Albrandswaard Zutphen Gelderland Breda Brunssum Terschelling</Line>
+<Line>Huizen Almelo Castricum Meierijstad Waalre Pekela Rheden Tytsjerksteradiel</Line>
+<Line>Altena Beemster Steenbergen Halderberge Heerhugowaard Heusden Westvoorne</Line>
+<Line>Westerveld Rozendaal Ridderkerk Borne Venray Groningen Texel Delft Gouda Tiel</Line>
+<Line>Cranendonck Overijssel Dordrecht Schiermonnikoog Weesp Heemstede Zaanstad</Line>
+<Line>Druten Westland Duiven Noordoostpolder Blaricum Limburg IJsselstein Emmen</Line>
+<Line>Beesel Goirle Moerdijk Best Oirschot Barendrecht Tubbergen Beekdaelen Renswoude</Line>
+<Line>Lansingerland Weststellingwerf Dronten Zundert Epe Urk Nijmegen Wijdemeren</Line>
+<Line>Zandvoort Vijfheerenlanden Zaltbommel Vught Zoeterwoude Heemskerk</Line>
+<Line>Zevenaar Uithoorn Brielle Hellevoetsluis Eindhoven Noordenveld Zeist Veere Deurne</Line>
+<Line>Hulst Stadskanaal Weert Leeuwarden Bloemendaal Enschede Reimerswaal Grave</Line>
+<Line>Hilversum Katwijk Bergeijk Bronckhorst Aalsmeer Schagen Winterswijk Terneuzen</Line>
+<Line>Boxmeer Dalfsen Boekel Ommen Westerwolde Lingewaard Wijchen Losser Vlieland</Line>
+<Line>Stein Assen Lopik Oostzaan Zeewolde Vlissingen Veenendaal Rotterdam Middelburg</Line>
+<Line>Dongen Drenthe Eersel Haarlem Putten Flevoland Borsele Waddinxveen Vlaardingen</Line>
+<Line>Oldenzaal Westerkwartier Bunnik Amersfoort Leusden Sluis Bunschoten Someren</Line>
+<Line>Soest Apeldoorn Ede Voorschoten Teylingen Vaals Heumen Beuningen</Line>
+<Line>Drechterland Waalwijk Wassenaar Wormerland Uden Heerenveen Waadhoeke</Line>
+<Line>Zuidplas Woudenberg Rucphen Voerendaal Barneveld Hoogeveen Wageningen</Line>
+<Line>Doetinchem Oudewater Veldhoven Papendrecht Tilburg Asten Hattem</Line>
+<Line>Leiderdorp Nederweert Lochem Enkhuizen Oldambt Nieuwegein Dinkelland Harlingen</Line>
+<Line>Ermelo Roermond Goes Koggenland Woensdrecht Hillegom Cuijk Berkelland</Line>
+<Line>Oosterhout Kampen Roerdalen Gorinchem Medemblik Zwartewaterland</Line>
+ </Level>
+
+ 
+ <Level>
+ <!-- 19 -->
+ <NewCharacters>,.</NewCharacters>
+<Line>Dongen. Drenthe, Eersel, Haarlem. Putten. Flevoland, Borsele. Waddinxveen, Vlaardingen</Line>
+<Line>Oldenzaal. Westerkwartier, Bunnik, Amersfoort. Leusden, Sluis. Bunschoten. Someren</Line>
+<Line>Soest, Apeldoorn. Ede, Voorschoten. Teylingen, Vaals. Heumen, Beuningen</Line>
+<Line>Drechterland. Waalwijk. Wassenaar, Wormerland. Uden, Heerenveen. Waadhoeke</Line>
+<Line>Zuidplas, Woudenberg. Rucphen, Voerendaal. Barneveld, Hoogeveen. Wageningen</Line>
+<Line>Doetinchem, Oudewater, Veldhoven. Papendrecht, Tilburg. Asten, Hattem</Line>
+<Line>Leiderdorp, Nederweert. Lochem, Enkhuizen. Oldambt. Nieuwegein, Dinkelland. Harlingen</Line>
+<Line>Ermelo, Roermond. Goes, Koggenland. Woensdrecht. Hillegom, Cuijk, Berkelland</Line>
+<Line>Oosterhout. Kampen, Roerdalen. Gorinchem, Medemblik. Zwartewaterland</Line>
+ </Level>
+
+  
+ <Level>
+ <!-- 22 -->
+ <NewCharacters>hele zinnen</NewCharacters>
+<Line>Water kan in drie hoofdfasen of aggregatietoestanden bestaan: ijs, vloeibaar water en waterdamp.</Line>
+<Line>Er is ook een toestand waarbij ijs, vloeibaar water en waterdamp tegelijk voorkomen.</Line>
+<Line>Water heeft een buitengewoon grote soortelijke warmte; voor water in vloeibare vorm is dit 4186 joule per kilogram per kelvin.</Line>
+<Line>Water kan onedele metalen oxideren onder vorming van waterstofgas.</Line>
+<Line>Water, en met name goed drinkwater is erg belangrijk voor de mens.</Line>
+<Line>Ongeveer een tiende van de wereldbevolking heeft nog geen directe toegang tot schoon drinkwater.</Line>
+<Line>Natrium is in het lichaam een van de elektrolyten (naast kaliumionen, chloride-ionen en kaliumwaterstofcarbonaat).</Line>
+<Line>Zoals alle andere alkalimetalen is natrium een zacht en licht metaal dat zeer makkelijk reageert met andere elementen.</Line>
+<Line>Een ijsberg is een drijvende ijsmassa afkomstig van een gletsjer of een ijskap.</Line>
+<Line>IJsbergen kunnen een sissend geluid maken, doordat de lucht die onder druk in de ijsmassa zit opgesloten, tijdens het smelten vrijkomt.</Line>
+<Line>Door wind en zeestromen leggen ijsbergen 20 tot maximaal 100 kilometer per dag af.</Line>
+<Line>Op het noordelijk halfrond worden per jaar zo'n 12.000 ijsbergen gevormd, waarvan er 8000 ontstaan langs de Groenlandse westkust.</Line>
+<Line>De bruine beer (Ursus arctos) is een roofdier uit de familie der beren (Ursidae).</Line>
+<Line>Bruine beren eten hoofdzakelijk planten, zoals knollen en wortels, die ze met hun lange klauwen uitgraven.</Line>
+<Line>In Noord-Amerika komen drie ondersoorten voor, de kodiakbeer, de grizzlybeer en de Mexicaanse beer.</Line>
+<Line>De winterslaap is een staat van voortdurende hypothermie (lage lichaamstemperatuur).</Line>
+<Line>Lichtvervuiling is de verhoogde helderheid van de nachtelijke omgeving door gebruik van kunstlicht.</Line>
+<Line>Het overvloedig verlichten van allerhande plaatsen veroorzaakt ecologische schade.</Line>
+<Line>Echolocatie wordt gebruikt om de plaats van obstakels te kunnen bepalen, of om een prooi of roofdieren te kunnen "zien".</Line>
+
+ </Level>
+ 
+ 
+ 
+ </Levels>
+</RasytiLecture>
