@@ -319,4 +319,63 @@
     <key name="SPCE" base=" " shift=" " />
   </variant>
 
+<!-- Non latin & Right to Left -->
+  
+  <variant id="fa" name="فارسی (Farsi/Persian) [Fa]">
+    <!--row #1-->
+    <key name="TLDE" base="÷" shift="×" />
+    <key name="AE01" base="1" shift="!" />
+    <key name="AE02" base="2" shift="@" />
+    <key name="AE03" base="3" shift="#" />
+    <key name="AE04" base="4" shift="$" />
+    <key name="AE05" base="5" shift="%" />
+    <key name="AE06" base="6" shift="^" />
+    <key name="AE07" base="7" shift="&amp;" />
+    <key name="AE08" base="8" shift="*" />
+    <key name="AE09" base="9" shift=")" />
+    <key name="AE10" base="0" shift="(" />
+    <key name="AE11" base="-" shift="_" />
+    <key name="AE12" base="=" shift="+" />
+    <!--row #2-->
+    <key name="AD01" base="ض" shift="ً" />
+    <key name="AD02" base="ص" shift="ٌ" />
+    <key name="AD03" base="ث" shift="ٍ" />
+    <key name="AD04" base="ق" shift="ريال" />
+    <key name="AD05" base="ف" shift="،" />
+    <key name="AD06" base="غ" shift="؛" />
+    <key name="AD07" base="ع" shift="," />
+    <key name="AD08" base="ه" shift="]" />
+    <key name="AD09" base="خ" shift="[" />
+    <key name="AD10" base="ح" shift="\" />
+    <key name="AD11" base="ج" shift="}" />
+    <key name="AD12" base="چ" shift="{" />
+    <!--row #3-->
+    <key name="AC01" base="ش" shift="َ" />
+    <key name="AC02" base="س" shift="ُ" />
+    <key name="AC03" base="ی" shift="ِ" />
+    <key name="AC04" base="ب" shift="ّ" />
+    <key name="AC05" base="ل" shift="ۀ" />
+    <key name="AC06" base="ا" shift="آ" />
+    <key name="AC07" base="ت" shift="ـ" />
+    <key name="AC08" base="ن" shift="«" />
+    <key name="AC09" base="م" shift="»" />
+    <key name="AC10" base="ک" shift=":" />
+    <key name="AC11" base="گ" shift='"' />
+    <key name="BKSL" base="پ" shift="|" />
+    <!--row #4-->
+    <key name="LSGT" base="پ" shift="|" />
+    <key name="AB01" base="ظ" shift="ة" />
+    <key name="AB02" base="ط" shift="ي" />
+    <key name="AB03" base="ز" shift="ژ" />
+    <key name="AB04" base="ر" shift="ؤ" />
+    <key name="AB05" base="ذ" shift="إ" />
+    <key name="AB06" base="د" shift="أ" />
+    <key name="AB07" base="ئ" shift="ء" />
+    <key name="AB08" base="و" shift="&lt;" />
+    <key name="AB09" base="." shift="&gt;" />
+    <key name="AB10" base="/" shift="؟" />
+    <!--spacebar-->
+    <key name="SPCE" base=" " shift=" " />
+  </variant>
+
 </layout>
