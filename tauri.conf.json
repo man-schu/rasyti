@@ -1,24 +1,26 @@
 {
-  build: {
-    devUrl: 'http://localhost:3000',
-    // start the dev server
-    beforeDevCommand: 'npm run dev',
+  "productName": "Rašyti",
+  "version": "2.5.6",
+  "build": {
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devUrl": "http://localhost:3000",
+    "frontendDist": "../dist"
   },
-  bundle: {
-    active: true,
-    icon: ['favicon.png'],
-  },
-  app: {
-    windows: [
-      {
-        title: 'Rašyti Touch Typing Trainer',
-      },
-    ],
-  },
-  plugins: {
-    updater: {
-      pubkey: 'updater pub key',
-      endpoints: ['https://my.app.updater/{{target}}/{{current_version}}'],
+  "app": {
+    "security": {
+      "csp": null
     },
+    "windows": [
+      {
+        "fullscreen": false,
+        "height": 600,
+        "resizable": true,
+        "title": "Tauri App",
+        "width": 800
+      }
+    ]
   },
+  "bundle": {},
+  "plugins": {}
 }
