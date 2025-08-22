@@ -100,13 +100,14 @@
  
  
  <Level>
+ <!-- 12 -->
   <NewCharacters>رئ</NewCharacters>
 <Line>ر ئ ئ ر رر ئئ رئر ئئر ئئ رر رئ ئر رئر رئرئ ئرئر رر ئئ ئرئ رئر ئئ ئ ر رر رئر ئ ئ</Line>
  </Level>
  
  
  <Level>
- <!-- 12 -->
+ <!-- 13 -->
  <NewCharacters>ذد</NewCharacters>
 <Line>ذ د د ذ ذد دد ذذ دذد ذدد ذ دد ذذ دذد ذ ددد ذذذ دذد دذد ذدذ ذدذ د ذ ذ د دد ذ ذ دذ دذد ذذد</Line>
  </Level>
@@ -132,7 +133,7 @@
 
 
  <Level>
- <!-- 19 -->
+ <!-- 17 -->
  <NewCharacters>ظ</NewCharacters>
 <Line>ظ ظظ ظا ظی ظن ظم ظک ظش ظس ظی ظگ ظان اظ مظ تظ گظ نظ اظ لظ اظا ظن</Line>
  </Level>
@@ -140,7 +141,7 @@
 
 
  <Level>
- <!-- 19 -->
+ <!-- 18 -->
  <NewCharacters>1234567890=+-</NewCharacters>
 	<Line>1+3=4 2-1=1 5+3=8 11-5=6 12-3=9</Line>
 	<Line>2-1=1 5+3=8 12-3=9 13+1=14</Line>
@@ -149,25 +150,25 @@
  </Level>
  
  <Level>
- <!-- 20 -->
+ <!-- 19 -->
  <NewCharacters>چ</NewCharacters>
 <Line>چ چ چم چش چی چی چب چل چل چای چات چن چان چام چم چک چک چگ چون چن چچن چاش چاک</Line>
  </Level>
   
  <Level>
- <!-- 22 -->
+ <!-- 20 -->
  <NewCharacters>پ</NewCharacters>
 <Line>پ پ پپ پن پا پت پش پس پی پب پا پت پن پم پک پگ پا اپ بپ یپ سپ شپ اپ نپ مپ پک پگ</Line>
  </Level>
    
  <Level>
- <!-- 23 -->
+ <!-- 21 -->
  <NewCharacters>ژ</NewCharacters>
 <Line>ژ ژ ژا ژو ژی اژ یژ وژ واژ اژ ژس ژش ژل ژم اژ مژ یژ لژ گژ نژ کژ پژ</Line>
  </Level>
 
 <Level>
-<!--  24  -->
+<!--  22  -->
 <NewCharacters>چند جمله</NewCharacters>
 <Line>.پاتوژن‌ها و انگل‌ها، به‌ویژه ویروس هاری، ممکن است گرگ‌ها را آلوده کنند</Line>
 <!-- https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF - Wolves -->
