@@ -321,7 +321,7 @@
 
 <!-- Non latin & Right to Left -->
   
-  <variant id="fa" name="فارسی (Farsi/Persian) [Fa]">
+  <variant id="fa" name="فارسی (Farsi/Persian)">
     <!--row #1-->
     <key name="TLDE" base="÷" shift="×" />
     <key name="AE01" base="1" shift="!" />
