@@ -6,7 +6,7 @@
     "devUrl": "http://localhost:3000",
     "frontendDist": "../src-gui/dist",
     "beforeDevCommand": {
-      *"cwd": "../src-gui",
+      "cwd": "../src-gui",
       "script": "yarn run dev"
     },
     "beforeBuildCommand": {
