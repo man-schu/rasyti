@@ -4,9 +4,7 @@
   "identifier": "eu.blueseal.rasyti",
   "build": {
     "devUrl": "http://localhost:3000",
-    "frontendDist": "../src-gui/dist",
+    "frontendDist": "../docs",
     "beforeDevCommand": {
-      "cwd": "../src-gui",
-     "_comment": "orig script: yarn run dev",
       "script": "npm run dev"
     }}}
