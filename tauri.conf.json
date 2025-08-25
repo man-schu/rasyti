@@ -10,10 +10,6 @@
      "_comment": "orig script: yarn run dev",
       "script": "npm run dev"
     },
-    "beforeBuildCommand": {
-      "cwd": "../src-gui"
-    }
-  },
   "app": {
     "windows": [
       {
