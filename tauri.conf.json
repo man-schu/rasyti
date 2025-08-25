@@ -6,10 +6,10 @@
   },
   "bundle": {
     "active": true,
+      "identifier": "eu.blueseal.rasyti",
     "icon": ["docs/favicon.png"]
   },
   "app": {
-    "identifier": "eu.blueseal.rasyti",
     "windows": [
       {
         "title": "Rašyti"
