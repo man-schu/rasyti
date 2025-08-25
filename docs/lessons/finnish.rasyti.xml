@@ -1,7 +1,6 @@
 <KTouchLecture>
- <Title>Finnish (auto-generated)</Title>
- <Comment>KTouch training file generated March 22, 2006 by Ulla Lewman.
-</Comment>
+ <Title>Finnish (mainly auto-generated)</Title>
+ <Comment>KTouch training file generated March 22, 2006 by Ulla Lewman. Sentences from Wikipedia added</Comment>
  <Levels>
   <Level>
    <NewCharacters>jf</NewCharacters>
@@ -116,7 +115,8 @@
    <Line>ads flask adds scalds c jacks jackals ascal cask ads aj add adds jakaa</Line>
    <Line>akka scald calla salsas alls sac cads salads fads cask adds casks faffa alfa</Line>
    <Line>asacs jackal lacks class clad ack dad slack fall alfalfas slacks laska dad</Line>
-   <Line>fad cal lad cal calla ad sad salads ska salad flack skas ca jacks laaka lakka sasal ads ad flak aka ala ac clad alacks ck jackal fall fas scads</Line>
+   <Line>fad cal lad cal calla ad sad salads ska salad flack skas ca jacks</Line>
+   <Line>laaka lakka sasal ads ad flak aka ala ac clad alacks ck jackal fall fas scads</Line>
    <Line>call calla alfalfas calf falls flak lack flak flaks casks flak lass saada jakaa</Line>
    <Line>sala class alla akka affa adda a askas scad acks ac scad lac skas scald</Line>
    <Line>sacs lads ascals call scad call clads kcal salsa slack ascals dads</Line>
@@ -388,7 +388,8 @@
    <Line>tunne fauna floora ranne ruutana reuna lunnas lunnaat luutua sauna suu</Line>
    <Line>tuttava kuutamo uhma uhkaus uusi untuva untuvikko biopolttoaine etuus</Line>
    <Line>etanoli nuoli nuolla nuori nuotti nuotta vuosi vuoto kuona kuori kuuri kuu</Line>
-   <Line>kustannus uudistus suu queen mexx ex exhale examinia texmex xerox on kopio qu xavier kexi on suomeksi keksi ennen vanhaan kirjoitettiin ks x</Line>
+   <Line>kustannus uudistus suu queen mexx ex exhale examinia texmex xerox on kopio</Line>
+   <Line>xavier kexi on suomeksi keksi ennen vanhaan kirjoitettiin ks x</Line>
    <Line>silloin suksi olisi ollut suxi q on vieras kirjain samoin kuin x tarvitse q ja</Line>
    <Line>x merkin kun kirjoitat ranskaa englantia tai ruotsia maukas muovailuvaha</Line>
    <Line>vahva suomalainen tuo tuomari juo huokailu huokaus huomata huuhaa on</Line>
@@ -398,7 +399,8 @@
    <Line>luusto vauras vieras vastaus voima vuori vuosi puoliso puolittaa paula</Line>
    <Line>paalu valuutta valas huuma hauras hurja huima huoli huopa huveta</Line>
    <Line>huono gulakki kustavilainen tuoli fuuga duuma quixotic on vieras sana</Line>
-   <Line>quiche on ranskalainen piiras quiet on hiljainen quid on slangisana ja tarkoittaa puntaa quintet on suomeksi kvintetti xylophone on tietenkin ksylofoni xenophobia tai xenofobia tarkoittaa vieraiden maiden tai</Line>
+   <Line>quiche on ranskalainen piiras quiet on hiljainen quid on slangisana ja tarkoittaa</Line>
+   <Line>puntaa quintet on suomeksi kvintetti xylophone on tietenkin ksylofoni xenophobia tai xenofobia tarkoittaa vieraiden maiden tai</Line>
    <Line>muukalaisten pelkoa outo on usein kummallinen juttu tuuli uusi kuusi</Line>
   </Level>
   <Level>
@@ -482,10 +484,11 @@
   <Level>
    <NewCharacters>piste ja pilkku</NewCharacters>
    <Line>. . . . . . . . .  , , , , . , . , .. ,, .. ,, .,., ., ., ,. ,. ,. . . . . . . . ... ... ... , , , ,, ,, ,, .... ...</Line>
-   <Line>Muista käyttää pistettä aina lauseen lopuksi. Pisteen jälkeen on aina välilyönti. Lause alkaa aina isolla alkukirjaimella. Lause on yksi asia. Kirjoitan sinulle nyt muutaman esimerkin. Ulla ui. Uiminen on Ullasta hauskaa. Ainolla on aurinkoinen hymy. Aamu alkaa aamiaisella.Minä olen viisas kissa. Minä olen Sisu. Sano aa. Sano a. Sano apina.</Line>
+   <Line>Muista käyttää pistettä aina lauseen lopuksi. Pisteen jälkeen on aina välilyönti. Lause alkaa aina isolla alkukirjaimella.</Line>
+   <Line>Lause on yksi asia. Kirjoitan sinulle nyt muutaman esimerkin. Ulla ui. Uiminen on Ullasta hauskaa. Ainolla on aurinkoinen hymy.</Line>
+    <Line>Aamu alkaa aamiaisella.Minä olen viisas kissa. Minä olen Sisu. Sano aa. Sano a. Sano apina.</Line>
    <Line>Aasi ui. Susi ui. Sisu ui.  Ullakon ovessa oli lappu. Alisa luki lapun</Line>
    <Line>Runoissa käytetään välimerkkinä usein pilkkua. Seuraava runo on kopioitu Salaisesta aapisesta.</Line>
-   <Line>Joutsenen hoito</Line>
    <Line>Näin näin näitkö sen,</Line>
    <Line>linnun lennon valkoisen.</Line>
    <Line>Ilmaa alla siipien,</Line>
@@ -502,7 +505,26 @@
    <Line>lempeä on käpälä.</Line>
    <Line>Hellä hoito siipien,</Line>
    <Line>joutsenen, niin joutsenen.</Line>
-   <Line>Nyt olet harjoitellut kaikki kirjoituksen merkit, niin isot kuin pienetkin kirjaimet. Vielä voit harjoitella numerot ja muut merkit. Opettajasi varmaankin seuraavaksi neuvoo sinua käyttämään @-merkkiä ja tavuviivaa. Samalla on hyvä opetella jokin tekstinkäsittelyohjelma. Onnea kirjoitustaidollesi ja voitkin pyytää nyt opettajaltasi todistus kymmensormisjärjestelmän osaamisesta.</Line>
+   <Line>Nyt olet harjoitellut kaikki kirjoituksen merkit, niin isot kuin pienetkin kirjaimet.</Line>
+   <Line>Vielä voit harjoitella numerot ja muut merkit. Opettajasi varmaankin seuraavaksi neuvoo sinua käyttämään @-merkkiä ja tavuviivaa.</Line>
+   <Line>Samalla on hyvä opetella jokin tekstinkäsittelyohjelma. Onnea kirjoitustaidollesi ja voitkin pyytää nyt opettajaltasi todistus kymmensormisjärjestelmän osaamisesta.</Line>
   </Level>
+
+
+  <Level>
+   <NewCharacters>joitain lauseita</NewCharacters>
+   <Line>Valosaaste on ihmisen aiheuttamaa ja syntyy esimerkiksi teiden ja asutuksen valaisusta.</Line>
+   <Line>Valosaasteen torjunnassa keskeinen tekijä on keinovalon käytön rajoittaminen vain erityisen tarpeellisiin kohteisiin.</Line>
+   <Line>Lisäksi valo kannattaa pyrkiä suuntaamaan alaspäin, jotta se ei siroaisi taivaalle. Myös älyvalojen käyttö vähentäisi valosaastetta.</Line>
+   <Line>Jäte on mistä tahansa toiminnasta syntyvää sen tuottajalle hyödyntämiskelvotonta materiaa.</Line><!-- https://fi.wikipedia.org/wiki/J%C3%A4te -->
+   <Line>Biogeokemiallinen kierto tarkoittaa kemiallisten aineiden, kuten hiilen, hapen ja fosforin, kiertoa eliöiden ja elottoman ympäristön välillä.</Line>
+   <Line>Susi on levinnyt suureen osaan pohjoista pallonpuoliskoa arktisilta alueilta Meksikon ja Intian leveysasteille saakka.</Line>
+   <Line>Susi on suurikokoisin nykyisin elävä koiraeläinlaji, huomattavasti kettua ja supikoiraa suurempi.</Line>
+   <Line>Suden turkin pohjaväri on yleensä harmaankeltainen, mutta sävy voi vaihdella huomattavasti lähes valkoisesta mustahkoon.</Line>
+   <Line>Arktinen alue eli Arktis tarkoittaa maapallon pohjoisimpia alueita.</Line>
+   <Line>Arktisella alueella sijaitsee mittavia vielä suhteellisen käyttämättömiä luonnonvaroja, kuten metsiä, kaloja, riistaa sekä mineraaleja.</Line>
+   
+  </Level>
+   
  </Levels>
 </KTouchLecture>
