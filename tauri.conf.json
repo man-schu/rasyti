@@ -7,12 +7,12 @@
     "frontendDist": "../src-gui/dist",
     "beforeDevCommand": {
       "cwd": "../src-gui",
-     "_comment": "orig script: yarn run dev"
+     "_comment": "orig script: yarn run dev",
       "script": "npm run dev"
     },
     "beforeBuildCommand": {
       "cwd": "../src-gui",
-      "_comment": "orig script: yarn run build"
+      "_comment": "orig script: yarn run build",
       "script": "npm run build"
     }
   },
