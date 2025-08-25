@@ -1,24 +1,24 @@
 {
-  build: {
-    devUrl: 'http://localhost:3000',
-    // start the dev server
-    beforeDevCommand: 'npm run dev',
+  "build": {
+    "devUrl": "http://localhost:3000",
+    
+    "beforeDevCommand": "npm run dev"
   },
-  bundle: {
-    active: true,
-    icon: ['docs/favicon.png'],
+  "bundle": {
+    "active": true,
+    "icon": ["docs/favicon.png"]
   },
-  app: {
-    windows: [
+  "app": {
+    "windows": [
       {
-        title: 'Rašyti',
-      },
-    ],
+        "title": "Rašyti"
+      }
+    ]
   },
-  plugins: {
-    updater: {
-      pubkey: 'updater pub key',
-      endpoints: ['https://my.app.updater/{{target}}/{{current_version}}'],
-    },
-  },
+  "plugins": {
+    "updater": {
+      "pubkey": "updater pub key",
+      "endpoints": ["https://my.app.updater/{{target}}/{{current_version}}"]
+    }
+  }
 }
