@@ -9,28 +9,11 @@
     "icon": ["docs/favicon.png"]
   },
   "app": {
+    "identifier": "eu.blueseal.rasyti",
     "windows": [
       {
         "title": "Rašyti"
       }
     ]
-  },
-   "bundle": {
-          "active": true,
-          "targets": "all",
-          "identifier": "eu.blueseal.rasyti",
-          "icon": [
-            "icons/32x32.png",
-            "icons/128x128.png",
-            "icons/128x128@2x.png",
-            "icons/icon.icns",
-            "icons/icon.ico"
-          ]
-        },
-  "plugins": {
-    "updater": {
-      "pubkey": "updater pub key",
-      "endpoints": ["https://my.app.updater/{{target}}/{{current_version}}"]
-    }
   }
 }
