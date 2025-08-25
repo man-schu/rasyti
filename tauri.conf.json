@@ -1,18 +1,26 @@
 {
+  "productName": "rasyti",
+  "version": "0.1.0",
   "build": {
-    "devUrl": "http://localhost:3000", 
-    "beforeDevCommand": "npm run dev"
-  },
-  "bundle": {
-    "active": true,
-    "identifier": "eu.blueseal.rasyti",
-    "icon": ["docs/favicon.png"]
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devUrl": "http://localhost:3000",
+    "frontendDist": "../dist"
   },
   "app": {
+    "security": {
+      "csp": null
+    },
     "windows": [
       {
-        "title": "Rašyti"
+        "fullscreen": false,
+          "height": 1024,
+        "resizable": true,
+        "title": "Rašyti",
+        "width": 1024
       }
     ]
-  }
+  },
+  "bundle": {},
+  "plugins": {}
 }
