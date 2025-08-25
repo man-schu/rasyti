@@ -8,7 +8,7 @@
     "beforeDevCommand": {
       "cwd": "../src-gui",
      "_comment": "orig script: yarn run dev",
-      "_comment": "npm run dev"
+      "_comment": "npm run dev";
       "script": "cargo install create-tauri-app --locked"
     },
     "beforeBuildCommand": {
