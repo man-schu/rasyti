@@ -5,7 +5,6 @@
   "build": {
     "devUrl": "http://localhost:3000",
     "frontendDist": "docs",
-    "withGlobalTauri": true,
     "beforeDevCommand": {
-      "script": "npm run dev"
+    "script": "npm run dev"
     }}}
