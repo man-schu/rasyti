@@ -1,12 +1,12 @@
 {
   "build": {
     "devUrl": "http://localhost:3000",
+     "identifier": "com.example.tauri",
     
     "beforeDevCommand": "npm run dev"
   },
   "bundle": {
     "active": true,
-      "identifier": "eu.blueseal.rasyti",
     "icon": ["docs/favicon.png"]
   },
   "app": {
