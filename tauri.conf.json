@@ -1,12 +1,11 @@
 {
   "build": {
-    "devUrl": "http://localhost:3000",
-     "identifier": "eu.blueseal.rasyti",
-    
+    "devUrl": "http://localhost:3000", 
     "beforeDevCommand": "npm run dev"
   },
   "bundle": {
     "active": true,
+    "identifier": "eu.blueseal.rasyti",
     "icon": ["docs/favicon.png"]
   },
   "app": {
