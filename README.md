@@ -49,7 +49,7 @@ Credits to <a href="https://github.com/fabi1cazenave/webtypist">WebTypist (Githu
 
 Credits also to the <a href="https://kde.org/applications/education/org.kde.ktouch">ktouch</a> project for providing some lessons.
 
-Credits to <a href="https://www.wikipedia.org/">Wikipedia</a> to provide a lot of material that can be used as excercises.
+Credits to <a href="https://www.wikipedia.org/">Wikipedia</a> to provide a lot of material that can be used as exercises.
 
 Last and not least to mention that the project would not be possible without the precious remarks from users.
 
