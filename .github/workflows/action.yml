@@ -5,7 +5,7 @@ on:
     branches:
       - release
 
-# This is the example from the readme.
+# This is the example from the readme. Just Testing.
 # On each push to the `release` branch it will create or update a GitHub release, build your app, and upload the artifacts to the release.
 
 jobs:
