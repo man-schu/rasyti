@@ -8,7 +8,7 @@ repository = ""
 edition = "2024"
 rust-version = "1.85.0"
 
-[bin]
+[[bin]]
 name = "Rasyti"
 path = "docs/index.html"
 
