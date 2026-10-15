@@ -41,6 +41,8 @@ This application is based on WebTypist version 1, see credits below. Since then,
 
 The word "rašyti" is Lithuanian and means "to write". The reason why I chose the name is simply that Lithuanian was the first language that I added.
 
+We are planning to add further languages, like for instance basque.
+
 
 
 ## Credits
