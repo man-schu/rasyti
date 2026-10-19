@@ -28,7 +28,7 @@
           "config": {
             "name": "rasyti",
             "setupIcon": "docs/images/icons/icon.ico",
-            "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/images/icons/icon.ico"
+            "iconUrl": "https://raw.githubusercontent.com/zeleniy/rasyti/main/docs/images/icons/icon.ico"
           }
         },
         {
@@ -54,7 +54,7 @@
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "man-schu",
+              "owner": "zeleniy",
               "name": "rasyti",
               "draft": true
             }
