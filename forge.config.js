@@ -30,7 +30,7 @@ module.exports = {
         name: 'rasyti',
         setupExe: `Rasyti-${require('./package.json').version}-${arch}.Setup.exe`,
         setupIcon: `${ICONS}.ico`,
-        iconUrl: 'https://raw.githubusercontent.com/zeleniy/rasyti/main/docs/images/icons/icon.ico',
+        iconUrl: 'https://raw.githubusercontent.com/man-schu/rasyti/main/docs/images/icons/icon.ico',
       }),
     },
     {
@@ -50,7 +50,7 @@ module.exports = {
     {
       name: '@electron-forge/publisher-github',
       config: {
-        repository: { owner: 'zeleniy', name: 'rasyti' },
+        repository: { owner: 'man-schu', name: 'rasyti' },
         draft: true,
         force: true,
       },
