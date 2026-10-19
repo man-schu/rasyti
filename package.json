@@ -16,53 +16,7 @@
     "name": "Manfred Schulenburg",
     "email": "info@blueseal.eu"
   },
-  "license": "GNU General Public License",
-  "config": {
-    "forge": {
-      "packagerConfig": {
-        "icon": "docs/images/icons/icon"
-      },
-      "makers": [
-        {
-          "name": "@electron-forge/maker-squirrel",
-          "config": {
-            "name": "rasyti",
-            "setupIcon": "docs/images/icons/icon.ico",
-            "iconUrl": "https://raw.githubusercontent.com/zeleniy/rasyti/main/docs/images/icons/icon.ico"
-          }
-        },
-        {
-          "name": "@electron-forge/maker-dmg",
-          "icon": "docs/images/icons/icon.icns",
-          "platforms": [
-            "darwin"
-          ]
-        },
-        {
-          "name": "@electron-forge/maker-deb",
-          "icon": "docs/images/icons/icon.svg",
-          "config": {}
-        },
-        {
-          "name": "@electron-forge/maker-rpm",
-          "icon": "docs/images/icons/icon.svg",
-          "config": {}
-        }
-      ],
-      "publishers": [
-        {
-          "name": "@electron-forge/publisher-github",
-          "config": {
-            "repository": {
-              "owner": "zeleniy",
-              "name": "rasyti",
-              "draft": true
-            }
-          }
-        }
-      ]
-    }
-  },
+  "license": "GPL-2.0-or-later",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   },
