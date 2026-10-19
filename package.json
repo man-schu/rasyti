@@ -1,0 +1,78 @@
+{
+  "name": "Rasyti",
+  "productName": "Rasyti",
+  "version": "2.5.7",
+  "description": "Rasyti touch typing trainer",
+  "main": "docs/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "Manfred Schulenburg",
+    "email": "info@blueseal.eu"
+  },
+  "license": "GNU General Public License",
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "icon": "docs/images/icons/icon"
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "rasyti",
+            "setupIcon": "docs/images/icons/icon.ico",
+            "iconUrl": "https://raw.githubusercontent.com/man-schu/rasyti/main/images/icons/icon.ico"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-dmg",
+          "icon": "docs/images/icons/icon.icns",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "icon": "docs/images/icons/icon.svg",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "icon": "docs/images/icons/icon.svg",
+          "config": {}
+        }
+      ],
+      "publishers": [
+        {
+          "name": "@electron-forge/publisher-github",
+          "config": {
+            "repository": {
+              "owner": "man-schu",
+              "name": "rasyti",
+              "draft": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^8.0.1",
+    "@electron-forge/maker-deb": "^8.0.1",
+    "@electron-forge/maker-dmg": "^8.0.1",
+    "@electron-forge/maker-rpm": "^8.0.1",
+    "@electron-forge/maker-squirrel": "^8.0.1",
+    "@electron-forge/publisher-github": "^8.0.1",
+    "electron": "^44.9.0"
+  }
+}
