@@ -1,6 +1,21 @@
+const { execFileSync } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+
 const ICONS = 'docs/images/icons/icon';
 
 module.exports = {
+  hooks: {
+    // Ad-hoc sign the macOS bundle so Gatekeeper reports "unverified developer"
+    // instead of "damaged". A paid Apple Developer ID is needed for more.
+    postPackage: async (config, result) => {
+      if (result.platform !== 'darwin') return;
+      for (const dir of result.outputPaths) {
+        const app = fs.readdirSync(dir).find((f) => f.endsWith('.app'));
+        execFileSync('codesign', ['--force', '--deep', '--sign', '-', path.join(dir, app)], { stdio: 'inherit' });
+      }
+    },
+  },
   packagerConfig: {
     icon: ICONS,
     appBundleId: 'eu.blueseal.rasyti',
