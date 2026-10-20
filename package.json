@@ -25,6 +25,6 @@
     "@electron-forge/maker-rpm": "^8.0.1",
     "@electron-forge/maker-squirrel": "^8.0.1",
     "@electron-forge/publisher-github": "^8.0.1",
-    "electron": "^44.9.0"
+    "electron": "^32.3.3"
   }
 }
