@@ -52,6 +52,7 @@ module.exports = {
       config: {
         repository: { owner: 'zeleniy', name: 'rasyti' },
         draft: true,
+        force: true,
       },
     },
   ],
