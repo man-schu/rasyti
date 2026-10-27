@@ -1,0 +1,30 @@
+{
+  "name": "Rasyti",
+  "productName": "Rasyti",
+  "version": "2.5.7",
+  "description": "Rasyti touch typing trainer",
+  "main": "docs/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish"
+  },
+  "author": {
+    "name": "Manfred Schulenburg",
+    "email": "info@blueseal.eu"
+  },
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^8.0.1",
+    "@electron-forge/maker-deb": "^8.0.1",
+    "@electron-forge/maker-dmg": "^8.0.1",
+    "@electron-forge/maker-rpm": "^8.0.1",
+    "@electron-forge/maker-squirrel": "^8.0.1",
+    "@electron-forge/publisher-github": "^8.0.1",
+    "electron": "^32.3.3"
+  }
+}
