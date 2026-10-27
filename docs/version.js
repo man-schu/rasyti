@@ -1,1 +1,1 @@
-window.RASYTI_VERSION = "2.6.1";
+window.RASYTI_VERSION = "2.5.7";
